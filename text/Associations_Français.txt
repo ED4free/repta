@@ -1,0 +1,950 @@
+Mots de base@1@un chat@mots de base niv 1 d1.png@chat.wav@
+Mots de base@1@le soleil@mots de base niv 1 d2.png@Soleil.wav@
+Mots de base@1@un jardin@mots de base niv 1 d3.png@jardin.wav@
+Mots de base@1@la voiture@mots de base niv 1 d4.png@Voiture.wav@
+Mots de base@1@Il dort.@mots de base niv 1 d5.png@Dormir.wav@
+Mots de base@1@une table@mots de base niv 1 d6.png@table.wav@
+Mots de base@1@papa@mots de base niv 1 d7.png@Papa.wav@
+Mots de base@1@la salade@mots de base niv 1 d8.png@salade.wav@
+Mots de base@1@l'école@mots de base niv 1 d9.png@ecole.wav@
+Mots de base@1@une maison@mots de base niv 1 d10.png@maison.wav@
+Mots de base@1@Je mange.@mots de base niv 1 d11.png@jemange.wav@
+Mots de base@1@une souris@mots de base niv 1 d12.png@souris.wav@
+Mots de base@1@Il joue.@mots de base niv 1 d13.png@Jouer.wav@
+Mots de base@1@un vélo@mots de base niv 1 d14.png@velo.wav@
+Mots de base@1@maman@mots de base niv 1 d15.png@Maman.wav@
+Mots de base@1@une poule@mots de base niv 1 d16.png@poule.wav@
+Mots de base@1@le camion@mots de base niv 1 d17.png@Camion.wav@
+Mots de base@2@un garçon@mots de base niv 2 d1.png@Garcon.wav@
+Mots de base@2@un poisson@mots de base niv 2 d2.png@Poisson.wav@
+Mots de base@2@une balle@mots de base niv 2 d3.png@Balle.wav@
+Mots de base@2@le ciel@mots de base niv 2 d4.png@Leciel.wav@
+Mots de base@2@un arbre@mots de base niv 2 d5.png@arbre.wav@
+Mots de base@2@un gâteau@mots de base niv 2 d6.png@Gateau.wav@
+Mots de base@2@un nuage@mots de base niv 2 d7.png@Nuage.wav@
+Mots de base@2@une cage@mots de base niv 2 d8.png@Cage.wav@
+Mots de base@2@du fromage@mots de base niv 2 d9.png@Fromage.wav@
+Mots de base@2@une fille@mots de base niv 2 d10.png@Filleune.wav@
+Mots de base@2@un ballon@mots de base niv 2 d11.png@Ballon.wav@
+Mots de base@2@la rue@mots de base niv 2 d12.png@Larue.wav@
+Mots de base@2@la lune@mots de base niv 2 d13.png@Lalune.wav@
+Mots de base@2@un lapin@mots de base niv 2 d14.png@lapin.wav@
+Mots de base@2@un chien@mots de base niv 2 d15.png@chien.wav@
+Mots de base@2@un livre@mots de base niv 2 d16.png@livre.wav@
+Mots de base@2@un oiseau@mots de base niv 2 d17.png@Oiseau.wav@
+Mots de base@3@La voiture roule dans la rue.@mots de base niv 3 d1.png@Voiturerue.wav@
+Mots de base@3@Le chat attrape la souris.@mots de base niv 3 d2.png@Chatsouris.wav@
+Mots de base@3@Le chat dort.@mots de base niv 3 d3.png@chatdort.wav@
+Mots de base@3@La petite fille joue avec le chien.@mots de base niv 3 d4.png@Fillechien.wav@
+Mots de base@3@Le chat mange.@mots de base niv 3 d5.png@Chatmange.wav@
+Mots de base@3@La lune brille dans la nuit.@mots de base niv 3 d6.png@Lunebrille.wav@
+Mots de base@3@Papa joue avec le chien.@mots de base niv 3 d7.png@Papajoue.wav@
+Mots de base@3@Le lapin mange de la salade.@mots de base niv 3 d8.png@lapinsalade.wav@
+Mots de base@3@La souris mange le fromage.@mots de base niv 3 d9.png@Sourisfromage.wav@
+Mots de base@3@Le garçon joue avec le chat.@mots de base niv 3 d10.png@Garconchat.wav@
+Mots de base@3@Le soleil brille dans le ciel.@mots de base niv 3 d11.png@Soleilbrille.wav@
+Mots de base@3@Le garçon joue avec un ballon rouge.@mots de base niv 3 d12.png@Garconjoueballon.wav@
+Mots de base@3@Le garçon joue avec un ballon vert.@mots de base niv 3 d13.png@Garconvert.wav@
+Mots de base@3@Le lapin est dans le jardin.@mots de base niv 3 d14.png@LapinJardin.wav@
+Mots de base@3@Maman sort de la voiture.@mots de base niv 3 d15.png@mamansort.wav@
+Mots de base@3@Le lapin est dans sa cage.@mots de base niv 3 d16.png@Lapincage.wav@
+Mots de base@3@L'oiseau est sur l'arbre.@mots de base niv 3 d17.png@Oiseauarbre.wav@
+La maison@1@une maison@la maison niv 1 d1.png@maison.wav@
+La maison@1@un toit@la maison niv 1 d2.png@toit.wav@
+La maison@1@une chambre@la maison niv 1 d3.png@chambre.wav@
+La maison@1@un tapis@la maison niv 1 d4.png@tapis.wav@
+La maison@1@Je mange.@la maison niv 1 d5.png@jemange4.wav@
+La maison@1@un escalier@la maison niv 1 d6.png@escalier.wav@
+La maison@1@une chaise@la maison niv 1 d7.png@chaise.wav@
+La maison@1@des rideaux@la maison niv 1 d8.png@rideaux.wav@
+La maison@1@un mur@la maison niv 1 d9.png@mur.wav@
+La maison@1@une porte@la maison niv 1 d10.png@porte.wav@
+La maison@1@un lit@la maison niv 1 d11.png@lit.wav@
+La maison@1@Je dors.@la maison niv 1 d12.png@jedors.wav@
+La maison@1@une table@la maison niv 1 d13.png@table2.wav@
+La maison@1@la terrasse@la maison niv 1 d15.png@terrasse.wav@
+La maison@1@un éventail@la maison niv 1 d16.png@eventail.wav@
+La maison@1@une fenêtre@la maison niv 1 d14.png@fenetre.wav@
+La maison@2@une fenêtre@la maison niv 2 d1.png@fenetre.wav@
+La maison@2@un fauteuil@la maison niv 2 d2.png@fauteuil.wav@
+La maison@2@une rampe@la maison niv 2 d3.png@rampe.wav@
+La maison@2@la cuisine@la maison niv 2 d4.png@cuisine.wav@
+La maison@2@la salle à manger@la maison niv 2 d5.png@salleamanger.wav@
+La maison@2@un balai@la maison niv 2 d6.png@balais.wav@
+La maison@2@une prise de courant@la maison niv 2 d7.png@prisecourant.wav@
+La maison@2@le robinet@la maison niv 2 d8.png@robinet.wav@
+La maison@2@une armoire@la maison niv 2 d9.png@armoire.wav@
+La maison@2@un canapé@la maison niv 2 d10.png@canape.wav@
+La maison@2@un coussin@la maison niv 2 d11.png@coussin.wav@
+La maison@2@une salle de bain@la maison niv 2 d12.png@salledeb.wav@
+La maison@2@le lavabo@la maison niv 2 d13.png@lavabo.wav@
+La maison@2@un portail@la maison niv 2 d15.png@portail.wav@
+La maison@2@une douche@la maison niv 2 d16.png@douche.wav@
+La maison@3@Les volets sont ouverts.@la maison niv 3 d1.png@fenetreouverte.wav@
+La maison@3@Je mange dans la cuisine.@la maison niv 3 d2.png@jemangedans.wav@
+La maison@3@Je suis assis sur une chaise.@la maison niv 3 d3.png@jesuisassis.wav@
+La maison@3@Je suis assis sur le bord du lit.@la maison niv 3 d4.png@Jesuisassisbord.wav@
+La maison@3@La porte de la cuisine est ouverte.@la maison niv 3 d5.png@Portecuiouv.wav@
+La maison@3@La maison a un toit rouge.@la maison niv 3 d6.png@Toitrouge.wav@
+La maison@3@La maison a des fenêtres blanches.@la maison niv 3 d7.png@fenetresblanches.wav@
+La maison@3@Je suis assis dans le fauteuil.@la maison niv 3 d8.png@jesuisassfaut.wav@
+La maison@3@Je dors dans mon lit.@la maison niv 3 d9.png@jedorsdans.wav@
+La maison@3@Il y a deux lits dans la chambre.@la maison niv 3 d10.png@Deuxlits.wav@
+La maison@3@La fenêtre est fermée.@la maison niv 3 d11.png@fenetrefermee.wav@
+La maison@3@La porte de la chambre est fermée.@la maison niv 3 d12.png@Portechferme.wav@
+La maison@3@Maman balaie.@la maison niv 3 d13.png@mamanbalaie.wav@
+La maison@3@Le portail du jardin est ouvert.@la maison niv 3 d14.png@Portjarouv.wav@
+La maison@3@Le portail du jardin est fermé.@la maison niv 3 d15.png@Portjarfer.wav@
+La maison@3@Je suis sous la douche.@la maison niv 3 d16.png@jesuisdouche.wav@
+Actions courantes@1@Il mange.@action crte niv 1 d1.png@ilmange3.wav@
+Actions courantes@1@Elle marche.@action crte niv 1 d2.png@ellemarche.wav@
+Actions courantes@1@Il court.@action crte niv 1 d3.png@ilcourt.wav@
+Actions courantes@1@Elle lit.@action crte niv 1 d4.png@ellelit.wav@
+Actions courantes@1@Elle dessine.@action crte niv 1 d5.png@elledessine.wav@
+Actions courantes@1@Il téléphone.@action crte niv 1 d6.png@iltelephone.wav@
+Actions courantes@1@Il grimpe.@action crte niv 1 d7.png@ilgrimpe.wav@
+Actions courantes@1@Il nage.@action crte niv 1 d8.png@ilnage.wav@
+Actions courantes@1@Il lance le ballon.@action crte niv 1 d9.png@illanceballon.wav@
+Actions courantes@1@Il dort.@action crte niv 1 d10.png@ildort.wav@
+Actions courantes@1@Elle joue.@action crte niv 1 d11.png@ellejoue3.wav@
+Actions courantes@1@Il saute.@action crte niv 1 d12.png@ilsaute.wav@
+Actions courantes@1@Il se lave.@action crte niv 1 d13.png@ilselave3.wav@
+Actions courantes@1@Elle danse.@action crte niv 1 d14.png@elledanse.wav@
+Actions courantes@1@Elle travaille.@action crte niv 1 d15.png@elletravaille.wav@
+Actions courantes@1@Il tape.@action crte niv 1 d16.png@iltape.wav@
+Actions courantes@1@Il s'habille.@action crte niv 1 d17.png@ilshabille.wav@
+Actions courantes@1@Il lit le journal.@action crte niv 1 d18.png@illitjourn.wav@
+Actions courantes@2@Il monte l'escalier.@action crte niv 2 d 1.png@ilmonteesc.wav@
+Actions courantes@2@Il attrape le ballon.@action crte niv 2 d 2.png@ilattraball.wav@
+Actions courantes@2@Ils se promènent.@action crte niv 2 d 3.png@ilseprome.wav@
+Actions courantes@2@Il regarde le château.@action crte niv 2 d 4.png@ilregardechat.wav@
+Actions courantes@2@Il se lave les mains.@action crte niv 2 d 5.png@ilselavemain.wav@
+Actions courantes@2@Nous jouons aux cartes.@action crte niv 2 d 6.png@nousjouonsc.wav@
+Actions courantes@2@Il poste une lettre.@action crte niv 2 d 7.png@ilposte.wav@
+Actions courantes@2@Il écrit une lettre.@action crte niv 2 d 8.png@ilecritlet.wav@
+Actions courantes@2@Il plante un clou.@action crte niv 2 d 9.png@ilplante.wav@
+Actions courantes@2@Ils regardent la télévision.@action crte niv 2 d 10.png@ilregardetele.wav@
+Actions courantes@2@Il descend l'escalier.@action crte niv 2 d 11.png@ildescendesc.wav@
+Actions courantes@2@Il se lave les cheveux.@action crte niv 2 d 12.png@ilselavechev.wav@
+Actions courantes@2@Il prend son bain.@action crte niv 2 d 13.png@ilprendbain.wav@
+Actions courantes@3@Les enfants jouent au ballon.@action crte niv 3 d1.png@lesenfantsjou.wav@
+Actions courantes@3@Nous courons sur le stade.@action crte niv 3 d2.png@nouscourrons.wav@
+Actions courantes@3@Elle dessine sur le tableau.@action crte niv 3 d3.png@elledessine3.wav@
+Actions courantes@3@Il va acheter du pain.@action crte niv 3 d4.png@ilvaacheter.wav@
+Actions courantes@3@Il boit un verre d'eau.@action crte niv 3 d5.png@ilboit.wav@
+Actions courantes@3@Il met ses chaussures.@action crte niv 3 d6.png@ilmetchauss.wav@
+Actions courantes@3@Ils jouent à cache-cache.@action crte niv 3 d7.png@cachecache.wav@
+Actions courantes@3@Il marche dans la forêt.@action crte niv 3 d8.png@ilmarcheforet.wav@
+Actions courantes@3@Je regarde un livre d'images.@action crte niv 3 d9.png@jereglivima.wav@
+Actions courantes@3@Elle dessine sur une feuille.@action crte niv 3 d10.png@elledessine2.wav@
+Actions courantes@3@Elle se lave les dents.@action crte niv 3 d11.png@elleselave.wav@
+Actions courantes@3@Il marche sur le trottoir.@action crte niv 3 d12.png@garçonrue.wav@
+Actions courantes@3@Il ouvre la fenêtre.@action crte niv 3 d13.png@ilouvre.wav@
+Actions courantes@3@Elle prépare le repas.@action crte niv 3 d14.png@ellepreparerep.wav@
+Actions courantes@3@Elle cueille une fleur.@action crte niv 3 d15.png@ellecueille.wav@
+Actions courantes@3@Elle regarde une fleur.@action crte niv 3 d16.png@elleregardefleur.wav@
+Adjectifs@1@une grande voiture@adj v lect cy2 niv1 d1.png@grandevoiture.wav@
+Adjectifs@1@un gros chien@adj v lect cy2 niv1 d2.png@groschien.wav@
+Adjectifs@1@un verre plein@adj v lect cy2 niv1 d3.png@verreplein.wav@
+Adjectifs@1@un pantalon long@adj v lect cy2 niv1 d4.png@pantalonlong.wav@
+Adjectifs@1@une porte ouverte@adj v lect cy2 niv1 d5.png@porteouverte.wav@
+Adjectifs@1@une petite voiture@adj v lect cy2 niv1 d6.png@petitevoiture.wav@
+Adjectifs@1@un chien maigre@adj v lect cy2 niv1 d7.png@chienmaigre.wav@
+Adjectifs@1@un verre vide@adj v lect cy2 niv1 d8.png@verrevide.wav@
+Adjectifs@1@un pantalon court@adj v lect cy2 niv1 d9.png@pantaloncourt.wav@
+Adjectifs@1@une porte fermée@adj v lect cy2 niv1 d10.png@portefermee.wav@
+Adjectifs@2@un arbre droit@adj v lect cy2 niv2 d1.png@arbredroit.wav@
+Adjectifs@2@Il fait chaud.@adj v lect cy2 niv2 d2.png@ilfaitchaud.wav@
+Adjectifs@2@un livre épais@adj v lect cy2 niv2 d3.png@livreepais.wav@
+Adjectifs@2@une feuille verte@adj v lect cy2 niv2 d4.png@feuilleverte.wav@
+Adjectifs@2@un nuage blanc@adj v lect cy2 niv2 d5.png@nuageblanc.wav@
+Adjectifs@2@un arbre tordu@adj v lect cy2 niv2 d6.png@arbretordu.wav@
+Adjectifs@2@Il fait froid.@adj v lect cy2 niv2 d7.png@ilfaitfroid.wav@
+Adjectifs@2@un livre mince@adj v lect cy2 niv2 d8.png@livremince.wav@
+Adjectifs@2@une feuille jaune@adj v lect cy2 niv2 d9.png@feuillejaune.wav@
+Adjectifs@2@un nuage gris@adj v lect cy2 niv2 d10.png@nuagegris.wav@
+Adjectifs@3@Le garçon est content.@adj v lect cy2 niv3 d1.png@garconcontent.wav@
+Adjectifs@3@La porte est ouverte.@adj v lect cy2 niv3 d2.png@porteouverte2.wav@
+Adjectifs@3@Les volets sont blancs et bleus.@adj v lect cy2 niv3 d3.png@voletsblancbleu.wav@
+Adjectifs@3@La table est sale.@adj v lect cy2 niv3 d4.png@tablesale.wav@
+Adjectifs@3@La lampe est allumée.@adj v lect cy2 niv3 d5.png@lampeallumee.wav@
+Adjectifs@3@Le garçon est triste.@adj v lect cy2 niv3 d6.png@garcontriste.wav@
+Adjectifs@3@La porte est fermée.@adj v lect cy2 niv3 d7.png@portefermee2.wav@
+Adjectifs@3@Les volets sont blancs et verts.@adj v lect cy2 niv3 d8.png@voletsblancverts.wav@
+Adjectifs@3@La table est propre.@adj v lect cy2 niv3 d9.png@tablepropre.wav@
+Adjectifs@3@La lampe est éteinte.@adj v lect cy2 niv3 d10.png@lampeetainte.wav@
+Formes et couleurs@1@un carré@form et coul niv 1 d 1.png@carre.wav@
+Formes et couleurs@1@un rectangle@form et coul niv 1 d 2.png@rectangle.wav@
+Formes et couleurs@1@un cube@form et coul niv 1 d 3.png@cube.wav@
+Formes et couleurs@1@un losange@form et coul niv 1 d 4.png@losange.wav@
+Formes et couleurs@1@un arbre droit@form et coul niv 1 d 5.png@arbredroit2.wav@
+Formes et couleurs@1@un gros cube@form et coul niv 1 d 6.png@groscube.wav@
+Formes et couleurs@1@un trait fin@form et coul niv 1 d 7.png@traitfin.wav@
+Formes et couleurs@1@un carré rouge@form et coul niv 1 d 8.png@carrerouge.wav@
+Formes et couleurs@1@un carré vert@form et coul niv 1 d 9.png@carrevert.wav@
+Formes et couleurs@1@un rond@form et coul niv 1 d 10.png@rond.wav@
+Formes et couleurs@1@un triangle@form et coul niv 1 d 11.png@triangle.wav@
+Formes et couleurs@1@un trait@form et coul niv 1 d 12.png@trait.wav@
+Formes et couleurs@1@une boîte@form et coul niv 1 d 13.png@boite.wav@
+Formes et couleurs@1@un arbre tordu@form et coul niv 1 d 14.png@arbretordu.wav@
+Formes et couleurs@1@un petit cube@form et coul niv 1 d 15.png@petitcube.wav@
+Formes et couleurs@1@un trait épais@form et coul niv 1 d16.png@traitepais.wav@
+Formes et couleurs@1@un rond jaune@form et coul niv 1 d17.png@rondjaune.wav@
+Formes et couleurs@1@un rond vert@form et coul niv 1 d18.png@rondvert.wav@
+Formes et couleurs@1@violet@form et coul niv1 d 19.png@violet.wav@
+Formes et couleurs@1@orange@form et coul niv1 d 20.png@orange.wav@
+Formes et couleurs@1@vert@form et coul niv1 d 21.png@vert.wav@
+Formes et couleurs@1@blanc@form et coul niv1 d 22.png@blanc.wav@
+Formes et couleurs@1@noir@form et coul niv1 d 23.png@noir.wav@
+Formes et couleurs@1@rose@form et coul niv1 d 24.png@couleurrose.wav@
+Formes et couleurs@1@marron@form et coul niv1 d 25.png@marron.wav@
+Formes et couleurs@1@rouge@form et coul niv1 d 26.png@rouge.wav@
+Formes et couleurs@1@bleu@form et coul niv1 d 27.png@bleu.wav@
+Formes et couleurs@1@jaune@form et coul niv1 d 28.png@jaune.wav@
+Formes et couleurs@1@gris@form et coul niv1 d 29.png@gris.wav@
+Formes et couleurs@2@une route droite@form et coul niv 2 d1.png@routedroite.wav@
+Formes et couleurs@2@des cheveux courts@form et coul niv 2 d2.png@chevcourts.wav@
+Formes et couleurs@2@un cube rouge@form et coul niv 2 d3.png@cuberouge.wav@
+Formes et couleurs@2@un cube vert@form et coul niv 2 d4.png@cubevert.wav@
+Formes et couleurs@2@un arbre vert@form et coul niv 2 d5.png@arbrevert.wav@
+Formes et couleurs@2@une table ronde@form et coul niv 2 d6.png@tableronde.wav@
+Formes et couleurs@2@un crayon rouge@form et coul niv 2 d7.png@crayrouge.wav@
+Formes et couleurs@2@une fleur verte@form et coul niv 2 d8.png@fleurverte.wav@
+Formes et couleurs@2@un arbre penché@form et coul niv 2 d9.png@arbrepench.wav@
+Formes et couleurs@2@une route qui tourne@form et coul niv 2 d10.png@routetourne.wav@
+Formes et couleurs@2@des cheveux longs@form et coul niv 2 d11.png@chevlongs.wav@
+Formes et couleurs@2@un triangle rouge@form et coul niv 2 d12.png@trianglerouge.wav@
+Formes et couleurs@2@un triangle vert@form et coul niv 2 d13.png@trianglevert.wav@
+Formes et couleurs@2@un arbre jaune@form et coul niv 2 d14.png@arbrejaune.wav@
+Formes et couleurs@2@une table carrée@form et coul niv 2 d15.png@tablecarre.wav@
+Formes et couleurs@2@un crayon vert@form et coul niv 2 d16.png@crayvert.wav@
+Formes et couleurs@2@une fleur orange@form et coul niv 2 d17.png@fleurorange.wav@
+Formes et couleurs@3@Le carré est grand et rouge.@form et coul niv 3 d 1.png@carrgranrouge.wav@
+Formes et couleurs@3@Le triangle est petit et rouge.@form et coul niv 3 d 2.png@tripetrouge.wav@
+Formes et couleurs@3@Le carré est grand et vert.@form et coul niv 3 d 3.png@cargranvert.wav@
+Formes et couleurs@3@Le cube est rouge et vert.@form et coul niv 3 d 4.png@cubrougevert.wav@
+Formes et couleurs@3@Le cube est gros et vert.@form et coul niv 3 d 5.png@cubegrovert.wav@
+Formes et couleurs@3@La boîte est ronde et verte.@form et coul niv 3 d 6.png@boirondvert.wav@
+Formes et couleurs@3@La boîte est ronde et rouge.@form et coul niv 3 d 7.png@boironrouge.wav@
+Formes et couleurs@3@Le trait est droit.@form et coul niv 3 d 8.png@traitdroit.wav@
+Formes et couleurs@3@Les deux traits sont pareils.@form et coul niv 3 d 9.png@2traitsidem.wav@
+Formes et couleurs@3@Le rond est petit et vert.@form et coul niv 3 d 10.png@ronpetvert.wav@
+Formes et couleurs@3@Le rond est grand et rouge.@form et coul niv 3 d 11.png@rongranrouge.wav@
+Formes et couleurs@3@Le rond est grand et vert.@form et coul niv 3 d 12.png@rangranvert.wav@
+Formes et couleurs@3@Le cube est rouge et bleu.@form et coul niv 3 d 13.png@cubrougebleu.wav@
+Formes et couleurs@3@Le triangle est grand et rouge.@form et coul niv 3 d 14.png@triangranrouge.wav@
+Formes et couleurs@3@La boîte est carrée et verte.@form et coul niv 3 d15.png@boicarrevert.wav@
+Formes et couleurs@3@La boîte est carrée et rouge.@form et coul niv 3 d16.png@boicarrerouge.wav@
+Formes et couleurs@3@Le trait n'est pas droit.@form et coul niv 3 d17.png@traitpasdroit.wav@
+Formes et couleurs@3@Les deux traits sont différents.@form et coul niv 3 d18.png@2traitsdiff.wav@
+Les repas@1@une table@repas nourr niv1 d 1.png@table.wav@
+Les repas@1@des mangues@repas nourr niv1 d 9.png@desmangues.wav@
+Les repas@1@des goyaves@repas nourr niv1 d 6.png@desgoyaves.wav@
+Les repas@1@du beurre de karité@repas nourr niv1 d 18.png@dubeurredekarite.wav@
+Les repas@1@un verre@repas nourr niv1 d 11.png@Verre.wav@
+Les repas@1@Je mange.@repas nourr niv1 d 2.png@Je mange.wav@
+Les repas@1@du lait@repas nourr niv1 d 12.png@Lait.wav@
+Les repas@1@un bol@repas nourr niv1 d 3.png@Bol.wav@
+Les repas@1@un couteau@repas nourr niv1 d 13.png@Couteau.wav@
+Les repas@1@du pain@repas nourr niv1 d 4.png@Pain.wav@
+Les repas@1@une pomme@repas nourr niv1 d 14.png@Pomme.wav@
+Les repas@1@Je bois.@repas nourr niv1 d 5.png@Je bois.wav@
+Les repas@1@un gâteau@repas nourr niv1 d 15.png@Gateau.wav@
+Les repas@1@de l'eau@repas nourr niv1 d 16.png@Eau.wav@
+Les repas@1@une assiette@repas nourr niv1 d 7.png@Assiette.wav@
+Les repas@1@la salade@repas nourr niv1 d 17.png@salade.wav@
+Les repas@1@du sucre@repas nourr niv1 d 8.png@Sucre.wav@
+Les repas@1@des fraises@repas nourr niv1 d 19.png@Fraises.wav@
+Les repas@1@du fromage@repas nourr niv1 d 10.png@Fromage.wav@
+Les repas@1@du raisin@repas nourr niv1 d 20.png@Raisin.wav@
+Les repas@2@une nappe@repas nourr niv2 d.png@Nappe.wav@
+Les repas@2@des pommes de terre@repas nourr niv2 d 2.png@Patates.wav@
+Les repas@2@une cuillère@repas nourr niv2 d 3.png@Cuiller.wav@
+Les repas@2@une tranche de pain@repas nourr niv2 d 4.png@TranchePain.wav@
+Les repas@2@un œuf@repas nourr niv2 d 5.png@Oeuf.wav@
+Les repas@2@du poulet@repas nourr niv2 d 6.png@Pouletdu.wav@
+Les repas@2@une brochette@repas nourr niv2 d 7.png@brochette.wav@
+Les repas@2@des frites@repas nourr niv2 d 8.png@Frites.wav@
+Les repas@2@une casserole@repas nourr niv2 d 9.png@Casserole.wav@
+Les repas@2@le réfrigérateur@repas nourr niv2 d 10.png@Frigo.wav@
+Les repas@2@une chaise@repas nourr niv2 d 11.png@chaise.wav@
+Les repas@2@une fourchette@repas nourr niv2 d 12.png@Fourchette.wav@
+Les repas@2@une serviette@repas nourr niv2 d 13.png@Serviette.wav@
+Les repas@2@une banane@repas nourr niv2 d 14.png@Banane.wav@
+Les repas@2@un jugeau@repas nourr niv2 d 15.png@jugeau.wav@
+Les repas@2@du beurre@repas nourr niv2 d 16.png@Beurre.wav@
+Les repas@2@du sel@repas nourr niv2 d 17.png@Sel.wav@
+Les repas@2@du jus de fruit@repas nourr niv2 d 18.png@Jusfruit.wav@
+Les repas@2@une tomate@repas nourr niv2 d 19.png@tomate.wav@
+Les repas@2@la cuisinière@repas nourr niv2 d 20.png@foyer.wav@
+Les repas@3@Je remplis mon verre d'eau.@repas nourr niv3 d1.png@VerreEau.wav@
+Les repas@3@Il sert à garder les aliments au frais.@repas nourr niv3 d2.png@Frigo2.wav@
+Les repas@3@Je bois du jus d'orange.@repas nourr niv3 d3.png@Boireorange.wav@
+Les repas@3@Le mouton cuit dans le four.@repas nourr niv3 d4.png@moutonfour.wav@
+Les repas@3@Je remplis la bouteille.@repas nourr niv3 d5.png@RemplirBouteille.wav@
+Les repas@3@Maman est dans la cuisine.@repas nourr niv3 d6.png@MAmanCuisine.wav@
+Les repas@3@Je mange du gâteau.@repas nourr niv3 d7.png@MangerGateau.wav@
+Les repas@3@Le gâteau est dans le four.@repas nourr niv3 d8.png@GateauFour.wav@
+Les repas@3@Les assiettes sont sur la table.@repas nourr niv3 d9.png@AssiettesTab.wav@
+Les repas@3@Je coupe le pain.@repas nourr niv3 d10.png@Couperpain.wav@
+Les repas@3@On s'en sert pour couper la viande.@repas nourr niv3 d11.png@Couteau2.wav@
+Les repas@3@Je bois du lait.@repas nourr niv3 d12.png@Boirelait.wav@
+Les repas@3@Il y a du lait dans mon bol.@repas nourr niv3 d13.png@BolLait.wav@
+Les repas@3@Le poulet est sur la table.@repas nourr niv3 d14.png@PouletTable.wav@
+Les repas@3@Je mange une banane.@repas nourr niv3 d15.png@MangerBanane.wav@
+Les repas@3@Le gâteau est sur la table.@repas nourr niv3 d16.png@GateauTable.wav@
+Les repas@3@Je mange une pomme.@repas nourr niv3 d17.png@MangerPomme.wav@
+Les repas@3@Maman amène le gâteau.@repas nourr niv3 d18.png@MamanGateau.wav@
+Vie quotidienne@1@un pantalon@la vie quot niv 1 d1.png@Pantalon.wav@
+Vie quotidienne@1@une robe@la vie quot niv 1 d2.png@Robe.wav@
+Vie quotidienne@1@la télévision@la vie quot niv 1 d3.png@Television.wav@
+Vie quotidienne@1@Je me lave.@la vie quot niv 1 d4.png@Jemelave.wav@
+Vie quotidienne@1@Je mange.@la vie quot niv 1 d5.png@Je mange.wav@
+Vie quotidienne@1@le lavabo@la vie quot niv 1 d6.png@lavabo.wav@
+Vie quotidienne@1@une lampe@la vie quot niv 1 d7.png@lampe.wav@
+Vie quotidienne@1@des chaussures@la vie quot niv 1 d8.png@chaussures.wav@
+Vie quotidienne@1@un bureau@la vie quot niv 1 d9.png@bureau.wav@
+Vie quotidienne@1@des chaussettes@la vie quot niv 1 d10.png@chaussettes.wav@
+Vie quotidienne@1@Je joue.@la vie quot niv 1 d11.png@JeJoue.wav@
+Vie quotidienne@1@une chemise@la vie quot niv 1 d12.png@Chemise.wav@
+Vie quotidienne@1@des clefs@la vie quot niv 1 d13.png@Clefs.wav@
+Vie quotidienne@1@Je dors.@la vie quot niv 1 d14.png@jedors.wav@
+Vie quotidienne@1@un livre@la vie quot niv 1 d15.png@livre.wav@
+Vie quotidienne@1@Je m'habille.@la vie quot niv 1 d16.png@jemhabille.wav@
+Vie quotidienne@1@Je téléphone.@la vie quot niv 1 d17.png@jeteleph.wav@
+Vie quotidienne@1@un tiroir@la vie quot niv 1 d18.png@tirroir.wav@
+Vie quotidienne@1@une montre@la vie quot niv 1 d19.png@montre.wav@
+Vie quotidienne@1@des lunettes@la vie quot niv 1 d20.png@lunettes.wav@
+Vie quotidienne@2@une brosse à dents@la vie quot niv 2 d1.png@brosseadent.wav@
+Vie quotidienne@2@une boîte d'allumettes@la vie quot niv 2 d2.png@boiteallu.wav@
+Vie quotidienne@2@une bassine@la vie quot niv 2 d3.png@bassine.wav@
+Vie quotidienne@2@une baignoire@la vie quot niv 2 d4.png@baignoire.wav@
+Vie quotidienne@2@Je travaille.@la vie quot niv 2 d5.png@jetravaill.wav@
+Vie quotidienne@2@un escalier@la vie quot niv 2 d6.png@escalier.wav@
+Vie quotidienne@2@le journal@la vie quot niv 2 d7.png@journal.wav@
+Vie quotidienne@2@un ordinateur@la vie quot niv 2 d8.png@ordi.wav@
+Vie quotidienne@2@un téléphone@la vie quot niv 2 d9.png@telephone.wav@
+Vie quotidienne@2@une prise de courant@la vie quot niv 2 d10.png@prisecourant.wav@
+Vie quotidienne@2@une salle de bain@la vie quot niv 2 d12.png@salledeb.wav@
+Vie quotidienne@2@une lampe de bureau@la vie quot niv 2 d13.png@lampebur.wav@
+Vie quotidienne@2@une boîte aux lettres@la vie quot niv 2 d14.png@boitelettre.wav@
+Vie quotidienne@2@une salle à manger@la vie quot niv 2 d15.png@sallemanger.wav@
+Vie quotidienne@2@Je me lève.@la vie quot niv 2 d16.png@jemeleve.wav@
+Vie quotidienne@2@une lettre@la vie quot niv 2 d17.png@lettre.wav@
+Vie quotidienne@2@un disque@la vie quot niv 2 d18.png@disque.wav@
+Vie quotidienne@2@un réveil@la vie quot niv 2 d19.png@reveil.wav@
+Vie quotidienne@3@Je me lave les dents.@la vie quot niv 3 d 1.png@jemelavedent.wav@
+Vie quotidienne@3@Je descends l'escalier.@la vie quot niv 3 d 2.png@jedescend.wav@
+Vie quotidienne@3@Je regarde la télévision.@la vie quot niv 3 d 3.png@jeregardetel.wav@
+Vie quotidienne@3@Je travaille avec l'ordinateur.@la vie quot niv 3 d 4.png@jetravailleor.wav@
+Vie quotidienne@3@Elle sert à laver le linge.@la vie quot niv 3 d 5.png@elleserta.wav@
+Vie quotidienne@3@Je mets mes chaussures.@la vie quot niv 3 d 6.png@jemetsmes.wav@
+Vie quotidienne@3@Papa travaille à son bureau.@la vie quot niv 3 d 7.png@papatravaille.wav@
+Vie quotidienne@3@Je lis un livre d'images.@la vie quot niv 3 d 8.png@jelisun.wav@
+Vie quotidienne@3@Il prend sa douche.@la vie quot niv 3 d 9.png@ilprend.wav@
+Vie quotidienne@3@Il ferme la porte à clef.@la vie quot niv 3 d 10.png@ilferme.wav@
+Vie quotidienne@3@Je me lave les mains.@la vie quot niv 3 d 11.png@jemelavemain.wav@
+Vie quotidienne@3@Je monte l'escalier.@la vie quot niv 3 d 12.png@jemonte.wav@
+Vie quotidienne@3@Maman balaie.@la vie quot niv 3 d 13.png@mamanbalaie.wav@
+Vie quotidienne@3@Je joue avec mon copain.@la vie quot niv 3 d 14.png@jejouecop.wav@
+Vie quotidienne@3@Elle sert à se laver les dents.@la vie quot niv 3 d 15.png@elleserta2.wav@
+Vie quotidienne@3@Papa lit le journal.@la vie quot niv 3 d 16.png@papalitle.wav@
+Vie quotidienne@3@Le garçon poste une lettre.@la vie quot niv 3 d 17.png@legarconpo.wav@
+Vie quotidienne@3@Je téléphone à un copain.@la vie quot niv 3 d 18.png@jetelephone.wav@
+Vie quotidienne@3@Il regarde l'heure.@la vie quot niv 3 d 19.png@ilregardeheu.wav@
+Vie quotidienne@3@Il traverse la rue.@la vie quot niv 3 d 20.png@iltraverse.wav@
+L'école, le travail@1@l'école@ecole travail niv1 d1.png@ecole.wav@
+L'école, le travail@1@un cahier@ecole travail niv1 d2.png@cahier.wav@
+L'école, le travail@1@une ardoise@ardoise.pcx.rle@ardoise.wav@
+L'école, le travail@1@la maîtresse@ecole travail niv1 d13.png@maitresse.wav@
+L'école, le travail@1@Je lis.@ecole travail niv1 d14.png@jelis.wav@
+L'école, le travail@1@le tableau@ecole travail niv1 d15.png@tableau.wav@
+L'école, le travail@1@un bureau@ecole travail niv1 d16.png@bureau.wav@
+L'école, le travail@1@Elle joue.@ecole travail niv1 d17.png@ellejoue.wav@
+L'école, le travail@1@une bille@ecole travail niv1 d18.png@bille.wav@
+L'école, le travail@1@une trousse@ecole travail niv1 d10.png@trousse.wav@
+L'école, le travail@1@un livre@ecole travail niv1 d11.png@livre.wav@
+L'école, le travail@1@un crayon@ecole travail niv1 d12.png@crayon.wav@
+L'école, le travail@1@J'écris.@ecole travail niv1 d3.png@jecris.wav@
+L'école, le travail@1@le maître@ecole travail niv1 d4.png@maitre.wav@
+L'école, le travail@1@un cartable@ecole travail niv1 d5.png@cartable.wav@
+L'école, le travail@1@un élève@ecole travail niv1 d6.png@eleve.wav@
+L'école, le travail@1@le directeur@ecole travail niv1 d7.png@directeur.wav@
+L'école, le travail@1@un dessin@ecole travail niv1 d8.png@dessin.wav@
+L'école, le travail@1@deux billes@ecole travail niv1 d9.png@2billes.wav@
+L'école, le travail@2@trois crayons de couleurs@ecole travail niv2 d1.png@crayonscoul.wav@
+L'école, le travail@2@un pinceau@ecole travail niv2 d2.png@pinceau.wav@
+L'école, le travail@2@une règle@ecole travail niv2 d3.png@regle.wav@
+L'école, le travail@2@une éponge@ecole travail niv2 d4.png@eponge.wav@
+L'école, le travail@2@un taille-crayon@ecole travail niv2 d5.png@taillecrayon.wav@
+L'école, le travail@2@la salle de classe@ecole travail niv2 d6.png@salleclasse.wav@
+L'école, le travail@2@une corbeille@ecole travail niv2 d7.png@corbeille.wav@
+L'école, le travail@2@une paire de ciseaux@ecole travail niv2 d8.png@pairecis.wav@
+L'école, le travail@2@cinq crayons@ecole travail niv2 d9.png@5crayons.wav@
+L'école, le travail@2@des crayons feutres@ecole travail niv2 d10.png@crayonsfeutres.wav@
+L'école, le travail@2@un stylo à encre@ecole travail niv2 d11.png@styloencre.wav@
+L'école, le travail@2@des lunettes@ecole travail niv2 d12.png@lunettes.wav@
+L'école, le travail@2@une lampe@ecole travail niv2 d13.png@lampe.wav@
+L'école, le travail@2@la cour de récréation@ecole travail niv2 d14.png@courrecre.wav@
+L'école, le travail@2@Je peins.@ecole travail niv2 d15.png@jepeinds.wav@
+L'école, le travail@2@une feuille de papier@ecole travail niv2 d16.png@feuilpap.wav@
+L'école, le travail@2@quatre crayons@ecole travail niv2 d17.png@4crayons.wav@
+L'école, le travail@2@six crayons@ecole travail niv2 d18.png@6crayons.wav@
+L'école, le travail@2@un ordinateur@la vie quot niv 2 d8.png@ordi.wav@
+L'école, le travail@3@Il écrit sur son cahier.@ecole travail niv3 d1.png@ilecritcah.wav@
+L'école, le travail@3@Il lit une histoire.@ecole travail niv3 d2.png@ilithis.wav@
+L'école, le travail@3@Il découpe du papier.@ecole travail niv3 d3.png@ildecoup.wav@
+L'école, le travail@3@La maîtresse est dans la cour.@ecole travail niv3 d4.png@maitrescour.wav@
+L'école, le travail@3@Il peint un arbre.@ecole travail niv3 d5.png@ilpeindarb.wav@
+L'école, le travail@3@Le directeur parle à la maîtresse.@ecole travail niv3 d6.png@ledirecteur.wav@
+L'école, le travail@3@Les élèves sont en rang.@ecole travail niv3 d7.png@elevesrang.wav@
+L'école, le travail@3@Il coupe un morceau de ficelle.@ecole travail niv3 d8.png@ilcoupfic.wav@
+L'école, le travail@3@Il dessine une maison sur une feuille.@ecole travail niv3 d11.png@ildessmais.wav@
+L'école, le travail@3@La maîtresse écrit au tableau.@ecole travail niv3 d12.png@maitressesecr.wav@
+L'école, le travail@3@Il porte son cartable sur son dos.@ecole travail niv3 d13.png@ilportecart.wav@
+L'école, le travail@3@Il porte son cartable à la main.@ecole travail niv3 d14.png@ilportMain.wav@
+L'école, le travail@3@Il dessine une maison sur le tableau.@ecole travail niv3 d15.png@ildessmaista.wav@
+L'école, le travail@3@Le directeur écrit au tableau.@ecole travail niv3 d16.png@ledirececrit.wav@
+L'école, le travail@3@Les élèves sont assis.@ecole travail niv3 d17.png@elevesass.wav@
+La famille, le corps@1@la mère@famille corps niv1 d1.png@mere.wav@
+La famille, le corps@1@le père@famille corps niv1 d2.png@pere.wav@
+La famille, le corps@1@la soeur@famille corps niv1 d3.png@soeur.wav@
+La famille, le corps@1@un garçon@famille corps niv1 d4.png@Garcon.wav@
+La famille, le corps@1@le nez@famille corps niv1 d5.png@nez.wav@
+La famille, le corps@1@un bébé@famille corps niv1 d6.png@bebe.wav@
+La famille, le corps@1@la tête@famille corps niv1 d7.png@tete.wav@
+La famille, le corps@1@le ventre@famille corps niv1 d8.png@ventre.wav@
+La famille, le corps@1@le cou@famille corps niv1 d9.png@cou.wav@
+La famille, le corps@1@le frère@famille corps niv1 d10.png@frere.wav@
+La famille, le corps@1@une fille@famille corps niv1 d11.png@Filleune.wav@
+La famille, le corps@1@la bouche@famille corps niv1 d12.png@bouche.wav@
+La famille, le corps@1@une famille@famille corps niv1 d13.png@famille.wav@
+La famille, le corps@1@un bras@famille corps niv1 d14.png@bras.wav@
+La famille, le corps@1@une jambe@famille corps niv1 d15.png@jambe.wav@
+La famille, le corps@1@la main@famille corps niv1 d16.png@main.wav@
+La famille, le corps@2@un doigt@famille corps niv2 d1.png@doigt.wav@
+La famille, le corps@2@le pied@famille corps niv2 d2.png@pied.wav@
+La famille, le corps@2@le grand-père@famille corps niv2 d3.png@grandpere.wav@
+La famille, le corps@2@les oreilles@famille corps niv2 d4.png@oreilles.wav@
+La famille, le corps@2@les cheveux@famille corps niv2 d5.png@cheveux.wav@
+La famille, le corps@2@un oeil@famille corps niv2 d6.png@oei.wav@
+La famille, le corps@2@la langue@famille corps niv2 d7.png@langue.wav@
+La famille, le corps@2@la cheville@famille corps niv2 d8.png@cheville.wav@
+La famille, le corps@2@un genou@famille corps niv2 d9.png@genou.wav@
+La famille, le corps@2@le coude@famille corps niv2 d10.png@coude.wav@
+La famille, le corps@2@la grand-mère@famille corps niv2 d11.png@grandmere.wav@
+La famille, le corps@2@la joue@famille corps niv2 d12.png@joue.wav@
+La famille, le corps@2@un ongle@famille corps niv2 d13.png@ongle.wav@
+La famille, le corps@2@des yeux@famille corps niv2 d14.png@yeux.wav@
+La famille, le corps@2@le pouce@famille corps niv2 d15.png@pouce.wav@
+La famille, le corps@2@le poignet@famille corps niv2 d16.png@poignet.wav@
+La famille, le corps@3@Le garçon est avec son père.@famille corps niv 3 d.png@garconpere.wav@
+La famille, le corps@3@Le garçon est avec son père et sa mère.@famille corps niv3 d 2.png@garconperemere.wav@
+La famille, le corps@3@La fille est avec son père.@famille corps niv3 d 3.png@fillepere.wav@
+La famille, le corps@3@La maman joue avec le bébé.@famille corps niv3 d 4.png@mamanbebe.wav@
+La famille, le corps@3@Le garçon a un bras cassé.@famille corps niv3 d 5.png@garconbrascass.wav@
+La famille, le corps@3@Les parents discutent dans le salon.@famille corps niv3 d 6.png@parentssalon.wav@
+La famille, le corps@3@Les parents discutent devant la maison.@famille corps niv3 d 7.png@parentsmaison.wav@
+La famille, le corps@3@Le frère s'est cassé un bras.@famille corps niv3 d 8.png@frerebras.wav@
+La famille, le corps@3@La fille est avec sa mère.@famille corps niv3 d 9.png@fillemere.wav@
+La famille, le corps@3@Le garçon est avec sa mère.@famille corps niv3 d 1.png@garconmere.wav@
+La famille, le corps@3@La famille est à table.@famille corps niv3 d 11.png@familletable.wav@
+La famille, le corps@3@La grand-mère lit le journal.@famille corps niv3 d 12.png@grandmerelit.wav@
+La famille, le corps@3@La grand-mère fait la cuisine.@famille corps niv3 d 13.png@grandmerecuisi.wav@
+La famille, le corps@3@Le frère s'est cassé une jambe.@famille corps niv3 d 15.png@frerejambe.wav@
+La famille, le corps@3@Le bébé suce son pouce.@famille corps niv3 d 16.png@bebepouce.wav@
+Les jeux & les sports@1@un carquoi@jeux sports niv1 d1.png@carquoi.wav@
+Les jeux & les sports@1@une raquette@jeux sports niv1 d2.png@raquette.wav@
+Les jeux & les sports@1@un tam-tam@jeux sports niv1 d3.png@tamtam.wav@
+Les jeux & les sports@1@une poupée@jeux sports niv1 d4.png@poupee.wav@
+Les jeux & les sports@1@un cerceau@jeux sports niv1 d5.png@cerceau.wav@
+Les jeux & les sports@1@une cible@jeux sports niv1 d6.png@cible.wav@
+Les jeux & les sports@1@une corde à sauter@jeux sports niv1 d7.png@cordeasaut.wav@
+Les jeux & les sports@1@un arc@jeux sports niv1 d8.png@arc.wav@
+Les jeux & les sports@1@une balle de tennis@jeux sports niv1 d9.png@baltennis.wav@
+Les jeux & les sports@1@un vélo@jeux sports niv1 d10.png@velo.wav@
+Les jeux & les sports@1@une lance@jeux sports niv1 d11.png@unelance.wav@
+Les jeux & les sports@1@une épée@jeux sports niv1 d12.png@epee.wav@
+Les jeux & les sports@1@des madles@jeux sports niv1 d13.png@madles 1.wav@
+Les jeux & les sports@1@la marelle@jeux sports niv1 d14.png@marelle.wav@
+Les jeux & les sports@1@un masque@jeux sports niv1 d15.png@masque.wav@
+Les jeux & les sports@1@une flèche@jeux sports niv1 d16.png@fleche.wav@
+Les jeux & les sports@1@un ordinateur@la vie quot niv 2 d8.png@ordi.wav@
+Les jeux & les sports@2@un masque dodo@jeux sports niv2 d 2.png@masqdodo.wav@
+Les jeux & les sports@2@un train électrique@jeux sports niv2 d 3.png@trainelectr.wav@
+Les jeux & les sports@2@des cages de football@jeux sports niv2 d 4.png@cagefoot.wav@
+Les jeux & les sports@2@une piscine@jeux sports niv2 d 5.png@piscine.wav@
+Les jeux & les sports@2@Il nage.@jeux sports niv2 d 6.png@ilnage.wav@
+Les jeux & les sports@2@un jeu de cartes@jeux sports niv2 d 7.png@jeudecartes.wav@
+Les jeux & les sports@2@une cabane@jeux sports niv2 d 8.png@cabane.wav@
+Les jeux & les sports@2@un ballon de football@jeux sports niv2 d 9.png@ballonfoot.wav@
+Les jeux & les sports@2@une voiture télécommandée@jeux sports niv2 d 10.png@voittele.wav@
+Les jeux & les sports@2@un cerf-volant@jeux sports niv2 d 11.png@cervolant.wav@
+Les jeux & les sports@2@un stade@jeux sports niv2 d 12.png@stade.wav@
+Les jeux & les sports@2@la lutte@jeux sports niv2 d 13.png@lutte.wav@
+Les jeux & les sports@2@une fléchette@jeux sports niv2 d 14.png@flechette.wav@
+Les jeux & les sports@2@un lutteur@jeux sports niv2 d 15.png@lutteur.wav@
+Les jeux & les sports@2@un ballon de rugby@ballon de rugby.pcx.rle@guembe.wav@
+Les jeux & les sports@3@Il lance le ballon.@jeux sports niv3 d1.png@illancele.wav@
+Les jeux & les sports@3@Il court sur le stade.@jeux sports niv3 d2.png@ilcourtsur.wav@
+Les jeux & les sports@3@Il tire dans les cages.@jeux sports niv3 d3.png@iltiredans.wav@
+Les jeux & les sports@3@Elle joue avec un cerceau.@jeux sports niv3 d4.png@ellejoue2.wav@
+Les jeux & les sports@3@Ils jouent aux cartes.@jeux sports niv3 d5.png@iljouecartes.wav@
+Les jeux & les sports@3@Il lance une fléchette.@jeux sports niv3 d6.png@illanceflec.wav@
+Les jeux & les sports@3@Il plonge dans la piscine.@jeux sports niv3 d7.png@ilplongepi.wav@
+Les jeux & les sports@3@Il joue à un jeu vidéo.@jeux sports niv3 d8.png@iljouevideo.wav@
+Les jeux & les sports@3@Il attrape le ballon.@jeux sports niv3 d9.png@ilattrape.wav@
+Les jeux & les sports@3@Elle saute à la corde.@jeux sports niv3 d10.png@ellesaute.wav@
+Les jeux & les sports@3@Elles jouent à la marelle.@jeux sports niv3 d11.png@ellejouemarelle.wav@
+Les jeux & les sports@3@Il lance la boule.@jeux sports niv3 d13.png@illance.wav@
+Les jeux & les sports@3@Elle danse.@jeux sports niv3 d14.png@elledanse.wav@
+Les jeux & les sports@3@Il tire à l'arc.@jeux sports niv3 d15.png@iltire.wav@
+Les jeux & les sports@3@Ils boxent.@jeux sports niv3 d16.png@ilsboxent.wav@
+La nature@1@un chat@la nature niv 1 d1.png@chat.wav@
+La nature@1@une souris@la nature niv 1 d2.png@souris.wav@
+La nature@1@un lapin@la nature niv 1 d3.png@lapin.wav@
+La nature@1@une fleur@la nature niv 1 d5.png@fleur.wav@
+La nature@1@une poule@la nature niv 1 d6.png@poule.wav@
+La nature@1@un hibou@la nature niv 1 d7.png@hibou.wav@
+La nature@1@une vache@la nature niv 1 d8.png@vache.wav@
+La nature@1@une chèvre@la nature niv 1 d9.png@chevre.wav@
+La nature@1@un chien@la nature niv 1 d11.png@chien.wav@
+La nature@1@un cheval@la nature niv 1 d12.png@cheval.wav@
+La nature@1@de la salade@la nature niv 1 d14.png@salade2.wav@
+La nature@1@un jardin@la nature niv 1 d15.png@jardin.wav@
+La nature@1@un pigeon@la nature niv 1 d16.png@pigeon.wav@
+La nature@1@une tomate@la nature niv 1 d17.png@tomate.wav@
+La nature@1@un mouton@la nature niv 1 d18.png@mouton.wav@
+La nature@1@un serpent@la nature niv 1 d19.png@serpent.wav@
+La nature@1@un canard@la nature niv 1 d20.png@canard.wav@
+La nature@2@un renard@la nature niv 1 d4.png@renard.wav@
+La nature@2@une rose@la nature niv 1 d10.png@rose.wav@
+La nature@2@une ruche@la nature niv 1 d13.png@ruche.wav@
+La nature@2@un escargot@la nature niv 2 d1.png@escargot.wav@
+La nature@2@une girafe@la nature niv 2 d2.png@girafe.wav@
+La nature@2@la tortue@la nature niv 2 d3.png@la tortue.wav@
+La nature@2@une branche@la nature niv 2 d4.png@branche.wav@
+La nature@2@un papillon@la nature niv 2 d5.png@papillon.wav@
+La nature@2@un coq@la nature niv 2 d6.png@coq.wav@
+La nature@2@un lion@la nature niv 2 d7.png@lion.wav@
+La nature@2@un ver de terre@la nature niv 2 d8.png@ver.wav@
+La nature@2@une coccinelle@la nature niv 2 d9.png@coccinelle.wav@
+La nature@2@de l'herbe@la nature niv 2 d10.png@herbe.wav@
+La nature@2@un perroquet@la nature niv 2 d11.png@perroquet.wav@
+La nature@2@un éléphant@la nature niv 2 d12.png@elephant.wav@
+La nature@2@un arbre@la nature niv 2 d13.png@arbre.wav@
+La nature@2@un poussin@la nature niv 2 d14.png@poussin.wav@
+La nature@2@une carotte@la nature niv 2 d15.png@carrote.wav@
+La nature@2@un champignon@la nature niv 2 d16.png@champignon.wav@
+La nature@2@une araignée@la nature niv 2 d17.png@araignee.wav@
+La nature@2@une mare@la nature niv 2 d18.png@mare.wav@
+La nature@2@un crocodile@la nature niv 2 d19.png@crocodile.wav@
+La nature@2@un écureuil@la nature niv 2 d20.png@ecureuil.wav@
+La nature@3@Le cheval galope dans le champ.@la nature niv 3 d1.png@chevalchamp.wav@
+La nature@3@Le chien est dans sa niche.@la nature niv 3 suite d1.png@chienniche.wav@
+La nature@3@Le lapin mange une carotte.@la nature niv 3 d2.png@lapincaro.wav@
+La nature@3@Le chien est assis devant le portail.@la nature niv 3 suite d2.png@chienassis.wav@
+La nature@3@Le lapin mange de la salade.@la nature niv 3 d3.png@lapinsalade.wav@
+La nature@3@Il y a des roses dans le jardin.@la nature niv 3 suite d3.png@rosesjardin.wav@
+La nature@3@Il y a un manguier dans le jardin.@la nature niv 3 d4.png@manguierjardin.wav@
+La nature@3@L'écureuil saute sur une branche.@la nature niv 3 suite d4.png@ecursaute.wav@
+La nature@3@Le chat boit son lait.@la nature niv 3 d5.png@chatboit.wav@
+La nature@3@Les canards nagent dans la mare.@la nature niv 3 suite d5.png@canardnage2.wav@
+La nature@3@Le canard nage dans la mare.@la nature niv 3 d6.png@canardnage.wav@
+La nature@3@La vache est dans l'étable.@la nature niv 3 suite d6.png@vacheetable.wav@
+La nature@3@L'écureuil ronge une noisette.@la nature niv 3 d7.png@ecurronge.wav@
+La nature@3@Des papillons sont sur la feuille.@la nature niv 3 suite d7.png@papifeuill.wav@
+La nature@3@La vache est dans le pré.@la nature niv 3 d8.png@vachepre.wav@
+La nature@3@Les poules picorent.@la nature niv 3 suite d8.png@lespoules.wav@
+La nature@3@Un papillon vole près de la fleur.@la nature niv 3 d9.png@papillvole.wav@
+La nature@3@La poule picore avec ses deux poussins.@la nature niv 3 d10.png@poulepicor.wav@
+La nature@3@Le cheval mange des carottes.@la nature niv 3 d11.png@chevalcaro.wav@
+La nature@3@Le chat dort sur son coussin.@la nature niv 3 d12.png@chatdortcoussin.wav@
+Paysages@1@un ruisseau@paysages niv1 d1.png@ruisseau.wav@
+Paysages@1@une ferme@paysages niv1 d2.png@ferme.wav@
+Paysages@1@une fleur@paysages niv1 d3.png@fleur.wav@
+Paysages@1@des oiseaux@paysages niv1 d4.png@oiseaux.wav@
+Paysages@1@un rocher@paysages niv1 d5.png@rocher.wav@
+Paysages@1@la mer@paysages niv1 d6.png@mer.wav@
+Paysages@1@un papillon@paysages niv1 d7.png@papillon.wav@
+Paysages@1@le ciel@paysages niv1 d8.png@ciel.wav@
+Paysages@1@un moulin@paysages niv1 d9.png@moulin.wav@
+Paysages@1@l'hiver@paysages niv1 d10.png@hiver.wav@
+Paysages@1@le printemps@paysages niv1 d11.png@printemps.wav@
+Paysages@1@un pommier@paysages niv1 d12.png@pommier.wav@
+Paysages@1@un lac@paysages niv1 d13.png@lac.wav@
+Paysages@1@des nuages@paysages niv1 d14.png@nuages.wav@
+Paysages@1@un jardin@paysages niv1 d15.png@jardin.wav@
+Paysages@1@un village@paysages niv1 d16.png@village.wav@
+Paysages@1@la lune@paysages niv1 d17.png@lune.wav@
+Paysages@1@l'été@paysages niv1 d18.png@ete.wav@
+Paysages@1@l'automne@paysages niv1 d19.png@automne.wav@
+Paysages@2@un chalet@paysages niv2 d1.png@chalet.wav@
+Paysages@2@un chemin@paysages niv2 d2.png@chemin.wav@
+Paysages@2@une ville@paysages niv2 d3.png@ville.wav@
+Paysages@2@une autoroute@paysages niv2 d4.png@autoroute.wav@
+Paysages@2@la montagne@paysages niv2 d5.png@montagne.wav@
+Paysages@2@une mare@paysages niv2 d6.png@mare.wav@
+Paysages@2@un coquelicot@paysages niv2 d7.png@coquelicot.wav@
+Paysages@2@un port@paysages niv2 d8.png@port.wav@
+Paysages@2@Il neige.@paysages niv2 d9.png@ilneige.wav@
+Paysages@2@des cailloux@paysages niv2 d10.png@des cailloux.wav@
+Paysages@2@une cascade@paysages niv2 d11.png@cascade.wav@
+Paysages@2@un fleuve@paysages niv2 d12.png@fleuve.wav@
+Paysages@2@un paquebot@paysages niv2 d13.png@paquebot.wav@
+Paysages@2@un champignon@paysages niv2 d14.png@champignon.wav@
+Paysages@2@le sommet@paysages niv2 d15.png@sommet.wav@
+Paysages@2@une église@paysages niv2 d16.png@eglise.wav@
+Paysages@2@une fontaine@paysages niv2 d17.png@fontaine.wav@
+Paysages@2@une barque@paysages niv2 d18.png@barque.wav@
+Paysages@2@Il pleut.@paysages niv2 d19.png@ilpleut.wav@
+Paysages@2@des éclairs@paysages niv2 d20.png@eclairs.wav@
+Paysages@2@des étoiles@paysages niv3 d1.png@etoiles.wav@
+Paysages@3@Il y a un arbre au milieu de la clairière.@paysages niv3 suite d1.png@arbremilieuclairiere.wav@
+Paysages@3@Des oiseaux volent autour du sapin.@paysages niv3 d2.png@oisesapin.wav@
+Paysages@3@Il y a des baobabs derrière la colline.@paysages niv3 suite d2.png@baobabcoll.wav@
+Paysages@3@Il  y a des nuages au-dessus de la montagne.@paysages niv3 d3.png@nuagesaudmont.wav@
+Paysages@3@Des fleurs poussent près du ruisseau.@paysages niv3 suite d3.png@fleursruiss.wav@
+Paysages@3@Des oiseaux volent au-dessus de la mer.@paysages niv3 d4.png@oiseaumer.wav@
+Paysages@3@Il y a des nuages qui cachent le soleil.@paysages niv3 suite d4.png@nuagecach.wav@
+Paysages@3@Le chemin conduit au chalet.@paysages niv3 d5.png@chemchal.wav@
+Paysages@3@Il y a des champignons près des rochers.@paysages niv3 suite d5.png@champroch.wav@
+Paysages@3@Le chemin conduit à la rivière.@paysages niv3 d6.png@chemrivi.wav@
+Paysages@3@Les papillons volent autour des fleurs.@paysages niv3 suite d6.png@papfleurs.wav@
+Paysages@3@Il y a des coquelicots près des rochers.@paysages niv3 d7il.png@coqroch.wav@
+Paysages@3@Il y a des barques sur le lac.@paysages niv3 suite d7.png@barqlac.wav@
+Paysages@3@Un paquebot navigue sur la mer.@paysages niv3 d8.png@paqnav.wav@
+Les transports@3@Il pleut sur le village.@paysages niv3 suite d8.png@pleutvill.wav@
+Paysages@3@Le paquebot est arrivé au port.@paysages niv3 d9.png@paqport.wav@
+Paysages@3@Le village est innondé.@paysages niv3 suite d9.png@villageinnonde.wav@
+Paysages@3@La neige tombe sur le village.@paysages niv3 d10.png@neigvill.wav@
+Paysages@3@Il pleut sur la ville.@paysages niv3 d11.png@pleutville.wav@
+Paysages@3@La rivière coule près du chalet.@paysages niv3 d12.png@rivchalet.wav@
+Les loisirs@1@le cinéma@les loisirs niv 1 d1.png@cinema.wav@
+Les loisirs@1@la plage@les loisirs niv 1 d2.png@plage.wav@
+Les loisirs@1@une trompette@les loisirs niv 1 d3.png@trompette.wav@
+Les loisirs@1@une guitare@les loisirs niv 1 d4.png@guitare.wav@
+Les loisirs@1@Il nage.@les loisirs niv 1 d6.png@ilnage.wav@
+Les loisirs@1@un parasol@les loisirs niv 1 d7.png@parasol.wav@
+Les loisirs@1@une aiguille@les loisirs niv 1 d8.png@aiguille.wav@
+Les loisirs@1@un bolon@les loisirs niv 1 d9.png@bolon.wav@
+Les loisirs@1@la lutte@les loisirs niv 1 d10.png@lutte.wav@
+Les loisirs@1@un djembé@les loisirs niv 1 d11.png@djembe.wav@
+Les loisirs@1@une flûte@les loisirs niv 1 d12.png@flute.wav@
+Les loisirs@1@la danse@les loisirs niv 1 d13.png@danse.wav@
+Les loisirs@1@un zoo@les loisirs niv 1 d14.png@zoo.wav@
+Les loisirs@1@l'arbre à palabre@les loisirs niv 1 d15.png@arbpalabre.wav@
+Les loisirs@1@un lance-pierre@les loisirs niv 1 d16.png@lanc-pierre.wav@
+Les loisirs@1@un dé@les loisirs niv 1 d17.png@de.wav@
+Les loisirs@2@un casque@les loisirs niv 2 d1.png@casque.wav@
+Les loisirs@2@une corde@les loisirs niv 2 d2.png@corde.wav@
+Les loisirs@2@une tente@les loisirs niv 2 d3.png@tente2.wav@
+Les loisirs@2@une piscine@les loisirs niv 2 d4.png@piscine2.wav@
+Les loisirs@2@une canne à pêche@les loisirs niv 2 d5.png@cannepeche.wav@
+Les loisirs@2@Il pêche.@les loisirs niv 2 d6.png@ilpeche.wav@
+Les loisirs@2@un hameçon@les loisirs niv 2 d7.png@hameçon.wav@
+Les loisirs@2@un masque@les loisirs niv 2 d8.png@masqplon.wav@
+Les loisirs@2@Elle tricote.@les loisirs niv 2 d9.png@elletricote.wav@
+Les loisirs@2@une pirogue@les loisirs niv 2 d10.png@pirogue.wav@
+Les loisirs@2@un piolet@les loisirs niv 2 d11.png@piolet.wav@
+Les loisirs@2@un chalet de montagne@les loisirs niv 2 d12.png@chalmonta.wav@
+Les loisirs@2@un appareil photo@les loisirs niv 2 d13.png@appaphoto.wav@
+Les loisirs@2@un sac à dos@les loisirs niv 2 d14.png@sacados.wav@
+Les loisirs@2@des jumelles@les loisirs niv 2 d15.png@jumelles.wav@
+Les loisirs@2@Il grimpe.@les loisirs niv 2 d16.png@ilgrimpe.wav@
+Les loisirs@2@Il plonge.@les loisirs niv 2 d18.png@ilplonge.wav@
+Les loisirs@2@un jeu de cartes@les loisirs niv 2 d19.png@jeudecartes.wav@
+Les loisirs@3@Il tire au lance-pierre.@les loisirs niv 2 d17.png@iltirelancepier.wav@
+Les loisirs@3@Il prend une photo du chalet.@les loisirs niv 3 d1.png@photochalet.wav@
+Les loisirs@3@Il plonge dans le lac.@les loisirs niv 3 d2.png@ilplongelac.wav@
+Les loisirs@3@Il joue de la flûte.@les loisirs niv 3 d3.png@iljoueflute.wav@
+Les loisirs@3@Il joue de la guitare.@les loisirs niv 3 d4.png@iljoueguit.wav@
+Les loisirs@3@Il visite un zoo.@les loisirs niv 3 d5.png@ilvisizoo.wav@
+Les loisirs@3@Le garçon est sur la balançoire.@les loisirs niv 3 d6.png@garconbalanc.wav@
+Les loisirs@3@Ils écoutent le conte sous l'arbre à palabre.@les loisirs niv 3 d8.png@ilsecoutcontarbpal.wav@
+Les loisirs@3@Il plonge dans la piscine.@les loisirs niv 3 d10.png@ilplongepi.wav@
+Les loisirs@3@Il prend une photo de la montagne.@les loisirs niv 3 d11.png@ilprenphotmont.wav@
+Les loisirs@3@Il pêche dans la rivière.@les loisirs niv 3 d12.png@ilpecheriv.wav@
+Les loisirs@3@Il pêche dans la mer.@les loisirs niv 3 d13.png@ilpechemer.wav@
+Les loisirs@3@Il visite un château.@les loisirs niv 3 d14.png@ilvischat.wav@
+Les loisirs@3@Il joue sur son ordinateur.@les loisirs niv 3 d15.png@iljoueordi.wav@
+Les loisirs@3@Il chasse à la lance.@les loisirs niv 3 d16.png@ilchasselance.wav@
+Les loisirs@3@Il attrape une grenouille.@les loisirs niv 3 d17.png@ilattrgrenouille.wav@
+La ville, la rue@1@une rue@ville rue niv1 d1.png@rue.wav@
+La ville, la rue@1@un immeuble@ville rue niv1 d2.png@immeuble.wav@
+La ville, la rue@1@une église@ville rue niv1 d3.png@eglise.wav@
+La ville, la rue@1@une tente@ville rue niv1 d4.png@tente.wav@
+La ville, la rue@1@un chalet@ville rue niv1 d5.png@chalet.wav@
+La ville, la rue@1@une boulangerie@ville rue niv1 d6.png@boulangerie.wav@
+La ville, la rue@1@un parking@ville rue niv1 d7.png@parking.wav@
+La ville, la rue@1@un stade@ville rue niv1 d8.png@stade.wav@
+La ville, la rue@1@une poubelle@ville rue niv1 d9.png@poubelle2.wav@
+La ville, la rue@1@une maison@ville rue niv1 d10.png@maison.wav@
+La ville, la rue@1@une tour@ville rue niv1 d11.png@tour.wav@
+La ville, la rue@1@une caravane@ville rue niv1 d12.png@caravane.wav@
+La ville, la rue@1@un château@ville rue niv1 d13.png@chateau.wav@
+La ville, la rue@1@une école@ville rue niv1 d14.png@ecoleune.wav@
+La ville, la rue@1@une mairie@ville rue niv1 d15.png@mairie.wav@
+La ville, la rue@1@un panneau@ville rue niv1 d16.png@panneau.wav@
+La ville, la rue@1@une piscine@ville rue niv1 d17.png@piscine.wav@
+La ville, la rue@1@un autocar@ville rue niv1 d18.png@autocar.wav@
+La ville, la rue@2@un feu rouge@ville rue niv2 d1.png@feurouge.wav@
+La ville, la rue@2@un hôpital@ville rue niv2 d2.png@hopital.wav@
+La ville, la rue@2@un garage@ville rue niv2 d3.png@garage.wav@
+La ville, la rue@2@un portail@ville rue niv2 d4.png@portail.wav@
+La ville, la rue@2@une fontaine@ville rue niv2 d5.png@fontaine.wav@
+La ville, la rue@2@un supermarché@ville rue niv2 d6.png@supermercha.wav@
+La ville, la rue@2@un agent de police@ville rue niv2 d7.png@agentpolice.wav@
+La ville, la rue@2@un croisement@ville rue niv2 d8.png@croisement.wav@
+La ville, la rue@2@un terrain de football@ville rue niv2 d9.png@terrainfoot.wav@
+La ville, la rue@2@un trottoir@ville rue niv2 d10.png@troitoir.wav@
+La ville, la rue@2@un étage@ville rue niv2 d11.png@etage.wav@
+La ville, la rue@2@une boîte aux lettres@ville rue niv2 d12.png@boitelettres.wav@
+La ville, la rue@2@la poste@ville rue niv2 d13.png@poste.wav@
+La ville, la rue@2@une place@ville rue niv2 d14.png@place.wav@
+La ville, la rue@2@une pompe à essence@ville rue niv2 d15.png@pompeess.wav@
+La ville, la rue@2@un camion de pompiers@ville rue niv2 d16.png@camionpomp.wav@
+La ville, la rue@2@un terrain de tennis@ville rue niv2 d17.png@terrainrtennis.wav@
+La ville, la rue@2@une ambulance@ville rue niv2 d18.png@ambulance.wav@
+La ville, la rue@3@Le facteur met une lettre dans la boîte.@ville rue niv3 d1.png@facteur1.wav@
+La ville, la rue@3@La voiture est dans le garage.@ville rue niv3 d2.png@voidansgarage.wav@
+La ville, la rue@3@La voiture est devant la pompe à essence.@ville rue niv3 d3.png@voiturepompe.wav@
+La ville, la rue@3@La voiture tire une caravane.@ville rue niv3 d4.png@voitucarav.wav@
+La ville, la rue@3@Les voitures s'arrêtent au feu rouge.@ville rue niv3 d5.png@voitfeurouge.wav@
+La ville, la rue@3@Le château a quatre tours.@ville rue niv3 d6.png@chat4tours.wav@
+La ville, la rue@3@Le camion de pompiers est près du stade.@ville rue niv3 d7.png@camionstade.wav@
+La ville, la rue@3@Le garçon marche sur le trottoir.@ville rue niv3 d8.png@garcontrotoir.wav@
+La ville, la rue@3@L'immeuble a cinq étages.@ville rue niv3 d9.png@imm5etages.wav@
+La ville, la rue@3@Il y a une fontaine sur la place.@ville rue niv3 d10.png@fontaineplace.wav@
+La ville, la rue@3@L'immeuble a trois étages.@ville rue niv3 d11.png@imm3etages.wav@
+La ville, la rue@3@Le garçon sort de la boulangerie.@ville rue niv3 d12.png@garconboul.wav@
+La ville, la rue@3@L'agent de police est devant l'école.@ville rue niv3 d13.png@agentecole.wav@
+La ville, la rue@3@Le château a deux tours.@ville rue niv3 d14.png@chat2tours.wav@
+La ville, la rue@3@Le camion de pompiers est sur la place.@ville rue niv3 d15.png@camionplace.wav@
+La ville, la rue@3@Le garçon traverse la rue.@ville rue niv3 d16.png@garcontraverse.wav@
+Les vêtements, la toilette@1@un slip@vet toilette niv1 d1.png@slip.wav@
+Les vêtements, la toilette@1@des chaussettes@vet toilette niv1 d2.png@chaussettesdes.wav@
+Les vêtements, la toilette@1@un short@vet toilette niv1 d3.png@short.wav@
+Les vêtements, la toilette@1@une jupe@vet toilette niv1 d4.png@jupe.wav@
+Les vêtements, la toilette@1@un foulard@vet toilette niv1 d5.png@foulard.wav@
+Les vêtements, la toilette@1@des gants@vet toilette niv1 d6.png@gants.wav@
+Les vêtements, la toilette@1@un mouchoir@vet toilette niv1 d7.png@mouchoir.wav@
+Les vêtements, la toilette@1@un chapeau@vet toilette niv1 d8.png@chapeau.wav@
+Les vêtements, la toilette@1@un tricot@vet toilette niv1 d9.png@tricot.wav@
+Les vêtements, la toilette@1@du savon@vet toilette niv1 d10.png@savon.wav@
+Les vêtements, la toilette@1@une chemise@vet toilette niv1 d11.png@chemiseune.wav@
+Les vêtements, la toilette@1@un pantalon@vet toilette niv1 d12.png@Pantalon.wav@
+Les vêtements, la toilette@1@une robe@vet toilette niv1 d13.png@Robe.wav@
+Les vêtements, la toilette@1@un pull-over@vet toilette niv1 d14.png@pullover.wav@
+Les vêtements, la toilette@1@des chaussures@vet toilette niv1 d15.png@chaussures.wav@
+Les vêtements, la toilette@1@des bottes@vet toilette niv1 d16.png@bottes.wav@
+Les vêtements, la toilette@1@une serviette@vet toilette niv1 d17.png@Serviette.wav@
+Les vêtements, la toilette@1@une douche@vet toilette niv1 d18.png@douche.wav@
+Les vêtements, la toilette@1@un lavabo@vet toilette niv1 d19.png@lavabole.wav@
+Les vêtements, la toilette@2@une casquette@vet toilette niv2 d1.png@casquette.wav@
+Les vêtements, la toilette@2@un bonnet@vet toilette niv2 d2.png@bonnet.wav@
+Les vêtements, la toilette@2@des pantoufles@vet toilette niv2 d3.png@pantoufles.wav@
+Les vêtements, la toilette@2@un lit@vet toilette niv2 d4.png@lit.wav@
+Les vêtements, la toilette@2@un oreiller@vet toilette niv2 d5.png@oreiller.wav@
+Les vêtements, la toilette@2@une brosse à dents@vet toilette niv2 d6.png@brosseadent.wav@
+Les vêtements, la toilette@2@un maillot de bain@vet toilette niv2 d7.png@maillot.wav@
+Les vêtements, la toilette@2@une brosse à ongles@vet toilette niv2 d8.png@brosseongles.wav@
+Les vêtements, la toilette@2@une écharpe@vet toilette niv2 d9.png@echarpe.wav@
+Les vêtements, la toilette@2@un gant de toilette@vet toilette niv2 d10.png@ganttoilette.wav@
+Les vêtements, la toilette@2@une ceinture@vet toilette niv2 d11.png@ceinture.wav@
+Les vêtements, la toilette@2@un anorak@vet toilette niv2 d12.png@anorak.wav@
+Les vêtements, la toilette@2@des baskets@vet toilette niv2 d13.png@baskets.wav@
+Les vêtements, la toilette@2@un matelas@vet toilette niv2 d14.png@matelas.wav@
+Les vêtements, la toilette@2@une couverture@vet toilette niv2 d15.png@couverture.wav@
+Les vêtements, la toilette@2@une baignoire@vet toilette niv2 d16.png@baignoire.wav@
+Les vêtements, la toilette@2@des sandales@vet toilette niv2 d17.png@sandales.wav@
+Les vêtements, la toilette@2@un peigne@vet toilette niv2 d18.png@peigne.wav@
+Les vêtements, la toilette@2@un gant@vet toilette niv2 d19.png@gant.wav@
+Les vêtements, la toilette@3@Le garçon met son pantalon.@vet toilette niv3 d1.png@garconpantalon.wav@
+Les vêtements, la toilette@3@Il se lave dans la baignoire.@vet toilette niv3 d2.png@ilselavebaignoi.wav@
+Les vêtements, la toilette@3@Le garçon met sa casquette.@vet toilette niv3 d3.png@garconcasqu.wav@
+Les vêtements, la toilette@3@Le monsieur a un parapluie.@vet toilette niv3 d4.png@monsieurpara.wav@
+Les vêtements, la toilette@3@Les chemises sèchent sur le fil.@vet toilette niv3 d5.png@habisech.wav@
+Les vêtements, la toilette@3@Il marche avec des bottes.@vet toilette niv3 d6.png@ilmarchebottes.wav@
+Les vêtements, la toilette@3@Il marche avec des sandales.@vet toilette niv3 d7.png@ilmarchesandales.wav@
+Les vêtements, la toilette@3@Il porte un chapeau.@vet toilette niv3 d8.png@ilportechap.wav@
+Les vêtements, la toilette@3@La fille se coiffe.@vet toilette niv3 d9.png@fillecoiffe.wav@
+Les vêtements, la toilette@3@Il se lave sous la douche.@vet toilette niv3 d10.png@ilselavedouche.wav@
+Les vêtements, la toilette@3@La fille porte une robe jaune.@vet toilette niv3 d11.png@fillerobejaune.wav@
+Les vêtements, la toilette@3@Le garçon est en short.@vet toilette niv3 d12.png@garconshort.wav@
+Les vêtements, la toilette@3@Le monsieur a des chaussures noires.@vet toilette niv3 d13.png@monsieurchauss.wav@
+Les vêtements, la toilette@3@La dame a un foulard vert.@vet toilette niv3 d14.png@damefoulardvert.wav@
+Les vêtements, la toilette@3@La dame a un pull-over rouge.@vet toilette niv3 d15.png@damepullrouge.wav@
+Les vêtements, la toilette@3@Il porte une casquette.@vet toilette niv3 d16.png@ilportecasqu.wav@
+Les transports@1@une voiture@les transp niv 1 d1.png@voitureune.wav@
+Les transports@1@un autocar@les transp niv 1 d2.png@autocar.wav@
+Les transports@1@un train@les transp niv 1 d3.png@train.wav@
+Les transports@1@un bateau@les transp niv 1 d4.png@bateau.wav@
+Les transports@1@un vélo@les transp niv 1 d5.png@velo.wav@
+Les transports@1@un tracteur@les transp niv 1 d6.png@tracteur.wav@
+Les transports@1@un wagon@les transp niv 1 d7.png@wagon.wav@
+Les transports@1@un pont@les transp niv 1 d8.png@pont.wav@
+Les transports@1@un voyageur@les transp niv 1 d9.png@voyageur.wav@
+Les transports@1@le camion@les transp niv 1 d10.png@Camion.wav@
+Les transports@1@un avion@les transp niv 1 d11.png@avion.wav@
+Les transports@1@une moto@les transp niv 1 d13.png@moto.wav@
+Les transports@1@une roue@les transp niv 1 d14.png@roue.wav@
+Les transports@1@une charrette@les transp niv 1 d15.png@charette.wav@
+Les transports@1@une fusée@les transp niv 1 d16.png@fusee.wav@
+Les transports@1@une barque@les transp niv 1 d17.png@barque2.wav@
+Les transports@2@un hélicoptère@les transp niv 2 d1.png@helico.wav@
+Les transports@2@un camion-citerne@les transp niv 2 d2.png@camioncit.wav@
+Les transports@2@un wagon de marchandises@les transp niv 2 d3.png@wagmarch.wav@
+Les transports@2@un bateau à moteur@les transp niv 2 d4.png@batmoteur.wav@
+Les transports@2@une locomotive à vapeur@les transp niv 2 d5.png@locvapeur.wav@
+Les transports@2@un tunnel@les transp niv 2 d6.png@tunnel.wav@
+Les transports@2@une autoroute@les transp niv 2 d7.png@autoroute.wav@
+Les transports@2@un taxi@les transp niv 2 d8.png@taxi.wav@
+Les transports@2@une route de montagne@les transp niv 2 d9.png@routemont.wav@
+Les transports@2@un camion de pompiers@les transp niv 2 d10.png@camionpomp.wav@
+Les transports@2@une voiture de voyageurs@les transp niv 2 d11.png@wagvoy.wav@
+Les transports@2@un bateau à voiles@les transp niv 2 d12.png@batvoile.wav@
+Les transports@2@une gare de trains@les transp niv 2 d13.png@garetrain.wav@
+Les transports@2@des rails@les transp niv 2 d14.png@rails.wav@
+Les transports@2@une valise@les transp niv 2 d15.png@valise.wav@
+Les transports@2@un paquebot@les transp niv 2 d16.png@paquebot.wav@
+Les transports@2@une gare de cars@les transp niv 2 d17.png@garecars.wav@
+Les transports@3@L'autocar roule sur la route.@les transp niv 3 d1.png@autocarrte.wav@
+Les transports@3@Le train est dans la gare.@les transp niv 3 d2.png@traingare.wav@
+Les transports@3@Un bateau à voiles avance sur la mer.@les transp niv 3 d3.png@batvoilmer.wav@
+Les transports@3@Le camion ne transporte rien.@les transp niv 3 d4.png@camionrien.wav@
+Les transports@3@Le train sort du tunnel.@les transp niv 3 d5.png@traintunnel.wav@
+Les transports@3@Le paquebot est dans le port.@les transp niv 3 d6.png@paqdansport.wav@
+Les transports@3@Le paquebot est en pleine mer.@les transp niv 3 d7.png@paqpleine.wav@
+Les transports@3@Le train a une locomotive électrique.@les transp niv 3 d8.png@locoelectr.wav@
+Les transports@3@L'avion se pose sur la piste.@les transp niv 3 d9.png@avionpiste.wav@
+Les transports@3@Le camion transporte du sable.@les transp niv 3 d10.png@camionsab.wav@
+Les transports@3@Un hélicoptère survole la montagne.@les transp niv 3 d11.png@helicomont.wav@
+Les transports@3@L'autocar est devant l'école.@les transp niv 3 d12.png@carecole.wav@
+Les transports@3@Le camion roule devant la voiture.@les transp niv 3 d13.png@camdevvoit.wav@
+Les transports@3@Le camion est arrêté au bord de la route.@les transp niv 3 d14.png@camroute.wav@
+Les transports@3@Le train a une locomotive à vapeur.@les transp niv 3 d15.png@locovapeur.wav@
+Les transports@3@Un bateau à voiles arrive au port.@les transp niv 3 d16.png@batarrive.wav@
+Métiers / Objets@1@un marteau@métiers objets niv1 d1.png@marteau.wav@
+Métiers / Objets@1@une scie@métiers objets niv1 d2.png@scie.wav@
+Métiers / Objets@1@un docteur@métiers objets niv1 d3.png@docteur.wav@
+Métiers / Objets@1@le facteur@métiers objets niv1 d4.png@facteur.wav@
+Métiers / Objets@1@un balafon@métiers objets niv1 d5.png@balafon.wav@
+Métiers / Objets@1@un boulanger@métiers objets niv1 d6.png@boulanger.wav@
+Métiers / Objets@1@le métier à tisser@métiers objets niv1 d7.png@metiertisser.wav@
+Métiers / Objets@1@une grue@métiers objets niv1 d8.png@grue.wav@
+Métiers / Objets@1@une échelle@métiers objets niv1 d9.png@echelle.wav@
+Métiers / Objets@1@un fusil@métiers objets niv1 d10.png@fusil.wav@
+Métiers / Objets@1@des clous@métiers objets niv1 d11.png@clous.wav@
+Métiers / Objets@1@une planche@métiers objets niv1 d12.png@planche.wav@
+Métiers / Objets@1@la maîtresse@métiers objets niv1 d13.png@maitresse2.wav@
+Métiers / Objets@1@une guitare@métiers objets niv1 d14.png@guitare.wav@
+Métiers / Objets@1@une lettre@métiers objets niv1 d15.png@lettre.wav@
+Métiers / Objets@1@un seau@métiers objets niv1 d16.png@sceau.wav@
+Métiers / Objets@1@un tournevis@métiers objets niv1 d17.png@tournevis.wav@
+Métiers / Objets@1@des pinces@métiers objets niv1 d18.png@pinces.wav@
+Métiers / Objets@1@un bureau@métiers objets niv1 d19.png@bureau.wav@
+Métiers / Objets@1@la navette@métiers objets niv1 d20.png@navette.wav@
+Métiers / Objets@1@un taxi@les transp niv 2 d8.png@taxi.wav@
+Métiers / Objets@2@une pelle@métiers objets niv2 d1.png@pelle.wav@
+Métiers / Objets@2@un agriculteur@métiers objets niv2 d2.png@agriculteur.wav@
+Métiers / Objets@2@une casserole@métiers objets niv2 d3.png@Casserole.wav@
+Métiers / Objets@2@une pompe à essence@métiers objets niv2 d4.png@pompeess.wav@
+Métiers / Objets@2@une flûte@métiers objets niv2 d5.png@flute.wav@
+Métiers / Objets@2@un fer à repasser@métiers objets niv2 d6.png@ferrepasser.wav@
+Métiers / Objets@2@un maçon@métiers objets niv2 d7.png@macon.wav@
+Métiers / Objets@2@un musicien@métiers objets niv2 d8.png@musicien.wav@
+Métiers / Objets@2@un garagiste@métiers objets niv2 d9.png@garagiste.wav@
+Métiers / Objets@2@un paquet@métiers objets niv2 d10.png@paquet.wav@
+Métiers / Objets@2@une pioche@métiers objets niv2 d11.png@pioche.wav@
+Métiers / Objets@2@un cuisinier@métiers objets niv2 d13.png@cuisinier.wav@
+Métiers / Objets@2@une pompe à vélo@métiers objets niv2 d14.png@pompevelo.wav@
+Métiers / Objets@2@un tracteur@métiers objets niv2 d15.png@tracteur.wav@
+Métiers / Objets@2@une aiguille à tricoter@métiers objets niv2 d16.png@aiguilletrico.wav@
+Métiers / Objets@2@une infirmière@métiers objets niv2 d17.png@infirmiere.wav@
+Métiers / Objets@2@un agent de police@métiers objets niv2 d18.png@agentpolice.wav@
+Métiers / Objets@2@une danseuse@métiers objets niv2 d19.png@danseuse.wav@
+Métiers / Objets@3@Le musicien joue de la flûte.@métiers objets niv3 d1.png@musiflute.wav@
+Métiers / Objets@3@Le garagiste donne de l'essence.@métiers objets niv3 suite d1.png@garagessen.wav@
+Métiers / Objets@3@L'agent de police fait traverser les enfants.@métiers objets niv3 d2.png@agentenf.wav@
+Métiers / Objets@3@La voiture est devant la pompe à essence.@métiers objets niv3 d3.png@voitpomp.wav@
+Métiers / Objets@3@Le facteur met une lettre dans la boîte.@métiers objets niv3 suite d3.png@facteLettre.wav@
+Métiers / Objets@3@Le garagiste répare la voiture.@métiers objets niv3 d4.png@gararep.wav@
+Métiers / Objets@3@Le facteur roule à bicyclette.@métiers objets niv3 suite d4.png@facteroule.wav@
+Métiers / Objets@3@L'agriculteur creuse un trou avec une pelle.@métiers objets niv3 d5.png@agritroupelle.wav@
+Métiers / Objets@3@Le musicien joue du piano.@métiers objets niv3 suite d5.png@musicpiano.wav@
+Métiers / Objets@3@Je travaille avec l'ordinateur.@métiers objets niv3 d6.png@jetravailleor.wav@
+Métiers / Objets@3@Le maçon porte un seau.@métiers objets niv3 suite d6.png@maconsceau.wav@
+Métiers / Objets@3@Le menuisier scie une planche.@métiers objets niv3 d7.png@menuiscie.wav@
+Métiers / Objets@3@Le cuisinier prépare un plat.@métiers objets niv3 d8.png@cuisiplat.wav@
+Métiers / Objets@3@Le maçon monte sur l'échelle.@métiers objets niv3 d9.png@maconechelle.wav@
+Métiers / Objets@3@Le facteur me donne un paquet.@métiers objets niv3 d10.png@facteurpaqu.wav@
+Métiers / Objets@3@L'agriculteur conduit le tracteur.@métiers objets niv3 d11.png@agritract.wav@
+Métiers / Objets@3@Le menuisier plante un clou dans la planche.@métiers objets niv3 d12.png@menuisiser.wav@
+Métiers / Objets@3@Le musicien joue de la guitare.@métiers objets niv3 d13.png@musiguit.wav@
+Métiers / Objets@3@L'agent de police parle au facteur.@métiers objets niv3 suite d2.png@agent2.wav@
+Prépositions@1@L'arbre est devant la maison.@prépo lect cycl2 niv1 d1.png@arbredevantmais.wav@
+Prépositions@1@Le chat est sur la table.@prépo lect cycl2 niv1 d2.png@chattable.wav@
+Prépositions@1@La voiture est devant le camion.@prépo lect cycl2 niv1 d3.png@voitdevcamion.wav@
+Prépositions@1@La fumée part vers la droite.@prépo lect cycl2 niv1 d4.png@fummeedroite.wav@
+Prépositions@1@Le livre est loin du réveil.@prépo lect cycl2 niv1 d5.png@livreloin.wav@
+Prépositions@1@La voiture est dans le garage.@prépo lect cycl2 niv1 d6.png@voidansgarage.wav@
+Prépositions@1@La voiture est derrière le camion.@prépo lect cycl2 niv1 d7.png@voituderrcamion.wav@
+Prépositions@1@Le chien dort dans sa niche.@prépo lect cycl2 niv1 d8.png@chiendortniche.wav@
+Prépositions@1@Le chat est sous la table.@prépo lect cycl2 niv1 d9.png@chatsoustable.wav@
+Prépositions@1@Le livre est à côté du réveil.@prépo lect cycl2 niv1 d10.png@livrecotereveil.wav@
+Prépositions@1@La voiture est devant le garage.@prépo lect cycl2 niv1 d11.png@voitdevgarage.wav@
+Prépositions@2@Le chat est tout près de la fenêtre.@prépo lect cycl2 niv2 d1.png@chatpresfen.wav@
+Prépositions@2@L'échelle est posée contre le mur.@prépo lect cycl2 niv2 d2.png@echellemur.wav@
+Prépositions@2@L'arbre est à droite de la maison.@prépo lect cycl2 niv2 d3.png@arbredroite.wav@
+Prépositions@2@Le chat est tout en haut de l'arbre.@prépo lect cycl2 niv2 d4.png@chatarbre.wav@
+Prépositions@2@Les oiseaux sont sur l'arbre.@prépo lect cycl2 niv2 d5.png@oiseauxarbres.wav@
+Prépositions@2@Le chat est loin de la fenêtre.@prépo lect cycl2 niv2 d6.png@chatloin.wav@
+Prépositions@2@L'échelle est posée par terre.@prépo lect cycl2 niv2 d7.png@echelleterre.wav@
+Prépositions@2@L'arbre est à gauche de la maison.@prépo lect cycl2 niv2 d8.png@arbregauche.wav@
+Prépositions@2@Le chat est en bas de l'arbre.@prépo lect cycl2 niv2 d9.png@chatbasarbre.wav@
+Prépositions@2@L'arbre est au milieu du jardin.@prépo lect cycl2 niv2 d10.png@arbremillieu.wav@
+Prépositions@3@L'arbre est derrière la maison.@prépo lect cycl2 niv3 d1.png@arbrederriere.wav@
+Prépositions@3@Il y a des nuages au-dessus de la mer.@prépo lect cycl2 niv3 d2.png@nuagesmer.wav@
+Prépositions@3@La voiture est entre les deux camions.@prépo lect cycl2 niv3 d3.png@voitureentre.wav@
+Prépositions@3@La fumée monte tout droit.@prépo lect cycl2 niv3 d4.png@fummedroit.wav@
+Prépositions@3@Il se promène sans son chien.@prépo lect cycl2 niv3 d5.png@promenesanschien.wav@
+Prépositions@3@Le chien est couché devant sa niche.@prépo lect cycl2 niv3 d6.png@chiendevant.wav@
+Prépositions@3@Il y a des nuages entre les deux montagnes.@prépo lect cycl2 niv3 d7.png@nuagesmont.wav@
+Prépositions@3@La fumée part vers la gauche.@prépo lect cycl2 niv3 d8.png@fummegauche.wav@
+Prépositions@3@Il se promène avec son chien.@prépo lect cycl2 niv3 d9.png@promenechien.wav@
+Adverbes@1@La voiture est mal garée.@adverbe lect cycl2 niv1 d1.png@voitmalgare.wav@
+Adverbes@1@Il a lancé sa boule trop près.@adverbe lect cycl2 niv1 d2.png@boulepres.wav@
+Adverbes@1@La porte est mal fermée.@adverbe lect cycl2 niv1 d3.png@portemalfermée.wav@
+Adverbes@1@Le chien est dedans.@adverbe lect cycl2 niv1 d4.png@chiendedans.wav@
+Adverbes@1@Le bateau est tout près.@adverbe lect cycl2 niv1 d5.png@bateaupres.wav@
+Adverbes@1@Il a lancé sa boule trop loin.@adverbe lect cycl2 niv1 d6.png@bouleloin.wav@
+Adverbes@1@La porte est bien fermée.@adverbe lect cycl2 niv1 d7.png@portebienfermee.wav@
+Adverbes@1@Le bateau est très loin.@adverbe lect cycl2 niv1 d8.png@batloin.wav@
+Adverbes@1@Le chien est dehors.@adverbe lect cycl2 niv1 d9.png@chiendehors.wav@
+Adverbes@1@La voiture est bien garée.@adverbe lect cycl2 niv1 d10.png@voiturebiengar.wav@
+Adverbes@2@Le verre est à moitié plein.@adverbe lect cycl2 niv2 d1.png@verremoitieplein.wav@
+Adverbes@2@Il y a beaucoup de monde dans la rue.@adverbe lect cycl2 niv2 d2.png@beaucoupmonde.wav@
+Adverbes@2@Il y a beaucoup d'eau dans le verre.@adverbe lect cycl2 niv2 d3.png@beaucoupeau.wav@
+Adverbes@2@L'arbre n'a plus ses feuilles.@adverbe lect cycl2 niv2 d4.png@arbreplus.wav@
+Adverbes@2@Le chat n'a plus rien à manger.@adverbe lect cycl2 niv2 d5.png@chatrien.wav@
+Adverbes@2@Il y a peu de monde dans la rue.@adverbe lect cycl2 niv2 d6.png@peumonderue.wav@
+Adverbes@2@Il y a peu d'eau dans le verre.@adverbe lect cycl2 niv2 d7.png@peueau.wav@
+Adverbes@2@L'arbre a encore ses feuilles.@adverbe lect cycl2 niv2 d8.png@arbrefeuilles.wav@
+Adverbes@2@Le chat a encore des croquettes à manger.@adverbe lect cycl2 niv2 d9.png@chatcroquettes.wav@
+Adverbes@2@Le verre est entièrement vide.@adverbe lect cycl2 niv2 d10.png@verreentiervide.wav@
+Adverbes@3@Il y a juste assez de place pour tout le monde.@adverbe lect cycl2 niv3 d1.png@justeassezplace.wav@
+Adverbes@3@Il n'y a plus d'enfant dans la cour.@adverbe lect cycl2 niv3 d2.png@plusenfants.wav@
+Adverbes@3@Il y a encore des verres sur la table.@adverbe lect cycl2 niv3 d3.png@encoreverres.wav@
+Adverbes@3@Il y a toujours de l'eau dans la bouteille.@adverbe lect cycl2 niv3 d4.png@toujourseau.wav@
+Adverbes@3@L'arbre est plus haut que la maison.@adverbe lect cycl2 niv3 d5.png@arbreplushaut.wav@
+Adverbes@3@Il n'y a pas assez d'eau dans le verre.@adverbe lect cycl2 niv3 d6.png@pasassezeau.wav@
+Adverbes@3@Le ciel est bleu, sans aucun nuage.@adverbe lect cycl2 niv3 d7.png@cielbleu.wav@
+Adverbes@3@Il y a beaucoup de nuages dans le ciel.@adverbe lect cycl2 niv3 d8.png@beaucoupnuages.wav@
+Adverbes@3@Il y a encore des enfants dans la cour.@adverbe lect cycl2 niv3 d9.png@encoreenfants.wav@
+Adverbes@3@Il n'y a pas assez de place pour tout le monde.@adverbe lect cycl2 niv3 d10.png@pasassezglac'.wav@
+Adverbes@3@Il n'y a plus de verre sur la table.@adverbe lect cycl2 niv3 d11.png@plusverre.wav@
+Adverbes@3@Il n'y a plus d'eau dans la bouteille.@adverbe lect cycl2 niv3 d12.png@pluseau.wav@
+Adverbes@3@L'arbre est moins haut que la maison.@adverbe lect cycl2 niv3 d13.png@arbremoinshaut.wav@
+Adverbes@3@Il y a trop d'eau dans le verre.@adverbe lect cycl2 niv3 d14.png@tropeau.wav@
+Adverbes@3@Il y a peu de nuages dans le ciel.@adverbe lect cycl2 niv3 d15.png@peunuages.wav@

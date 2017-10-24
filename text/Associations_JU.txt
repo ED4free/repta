@@ -1,0 +1,950 @@
+Mots de base@1@jakumani@mots de base niv 1 d1.png@JU-chat.wav@
+Mots de base@1@tile@mots de base niv 1 d2.png@JU-soleil.wav@
+Mots de base@1@nankɔ@mots de base niv 1 d3.png@JU-jardin.wav@
+Mots de base@1@mɔbili@mots de base niv 1 d4.png@JU-voiture.wav@
+Mots de base@1@a bi sunɔgɔra@mots de base niv 1 d5.png@JU-dormir.wav@
+Mots de base@1@tabali@mots de base niv 1 d6.png@JU-table.wav@
+Mots de base@1@mfacɛ@mots de base niv 1 d7.png@JU-papa.wav@
+Mots de base@1@salati@mots de base niv 1 d8.png@JU-salade.wav@
+Mots de base@1@lekɔliso@mots de base niv 1 d9.png@JU-ecole.wav@
+Mots de base@1@soo@mots de base niv 1 d10.png@JU-maison.wav@
+Mots de base@1@n bi dumuni kɛra@mots de base niv 1 d11.png@JU-jemange.wav@
+Mots de base@1@ɲinan@mots de base niv 1 d12.png@JU-souris.wav@
+Mots de base@1@a bi tulon kɛra@mots de base niv 1 d13.png@JU-jouer.wav@
+Mots de base@1@nɛgɛso@mots de base niv 1 d14.png@JU-velo.wav@
+Mots de base@1@bamuso@mots de base niv 1 d15.png@JU-maman.wav@
+Mots de base@1@sisɛmuso@mots de base niv 1 d16.png@JU-poule.wav@
+Mots de base@1@bkamiɲɔn@mots de base niv 1 d17.png@JU-camion.wav@
+Mots de base@2@cɛmani@mots de base niv 2 d1.png@JU-garcon.wav@
+Mots de base@2@jɛgɛ@mots de base niv 2 d2.png@JU-poisson.wav@
+Mots de base@2@balɔndeni@mots de base niv 2 d3.png@JU-ballfoot.wav@
+Mots de base@2@sangolo@mots de base niv 2 d4.png@JU-leciel.wav@
+Mots de base@2@yirisun@mots de base niv 2 d5.png@JU-arbre.wav@
+Mots de base@2@gato@mots de base niv 2 d6.png@JU-gateau.wav@
+Mots de base@2@kabanɔgɔ@mots de base niv 2 d7.png@JU-nuage.wav@
+Mots de base@2@sansara@mots de base niv 2 d8.png@JU-cage.wav@
+Mots de base@2@foramazi@mots de base niv 2 d9.png@JU-fromage.wav@
+Mots de base@2@musomani@mots de base niv 2 d10.png@JU-filleune.wav@
+Mots de base@2@balɔn@mots de base niv 2 d11.png@JU-baldiri.wav@
+Mots de base@2@sira @mots de base niv 2 d12.png@JU-la rue.wav@
+Mots de base@2@kalo@mots de base niv 2 d13.png@JU-lalune.wav@
+Mots de base@2@sonsani@mots de base niv 2 d14.png@JU-lapin.wav@
+Mots de base@2@wulu@mots de base niv 2 d15.png@JU-chien.wav@
+Mots de base@2@livuru@mots de base niv 2 d16.png@JU-livre.wav@
+Mots de base@2@kɔnɔni@mots de base niv 2 d17.png@JU-oiseau.wav@
+Mots de base@3@mɔbili bi bolola rira kan@mots de base niv 3 d1.png@JU-voiturerue.wav@
+Mots de base@3@jakumani bi ɲinan minɛna@mots de base niv 3 d2.png@JU-chatsouris.wav@
+Mots de base@3@jakumani bi sunɔgɔra@mots de base niv 3 d3.png@JU-chatdort.wav@
+Mots de base@3@musomani bi tulon ɛra ni wulu ye@mots de base niv 3 d4.png@JU-fillechien.wav@
+Mots de base@3@jakumani bi dumuni kɛra@mots de base niv 3 d5.png@JU-chatmange.wav@
+Mots de base@3@kalo bi manamana na suu fɛ@mots de base niv 3 d6.png@JU-lunebrille.wav@
+Mots de base@3@facɛ bi tulon kɛra ni wulu ye@mots de base niv 3 d7.png@JU-papajoue.wav@
+Mots de base@3@sonsani bi salati dunna@mots de base niv 3 d8.png@JU-lapinsalade.wav@
+Mots de base@3@ɲinan bi foromazi dunna@mots de base niv 3 d9.png@JU-sourisfromage.wav@
+Mots de base@3@cɛmani bi tulon kɛra ni jakumani ye@mots de base niv 3 d10.png@JU-garconchat.wav@
+Mots de base@3@tile bi manamanana sangolo ra@mots de base niv 3 d11.png@JU-soleilbrille.wav@
+Mots de base@3@cɛmani bi tulon kɛra ni balɔn wulemen ye@mots de base niv 3 d12.png@JU-garconjoueballon.wav@
+Mots de base@3@cɛmani bi tulon kɛka no balɔn binkɛnɛman ye@mots de base niv 3 d13.png@JU-garconvert.wav@
+Mots de base@3@sonsani bi nankɔ kɔnɔ@mots de base niv 3 d14.png@JU-lapinjardin.wav@
+Mots de base@3@bamuso bi bɔra ni mɔbili ye@mots de base niv 3 d15.png@JU-mamansort.wav@
+Mots de base@3@sonsani bi sanrara kɔnɔ@mots de base niv 3 d16.png@JU-lapincage.wav@
+Mots de base@3@kɔnɔni bi yirisun san fɛ@mots de base niv 3 d17.png@JU-oiseauarbre.wav@
+La maison@1@soo@la maison niv 1 d1.png@JU-maison.wav@
+La maison@1@sokunnala@la maison niv 1 d2.png@JU-toit.wav@
+La maison@1@sokɔnɔɲɛ@la maison niv 1 d3.png@JU-chambre.wav@
+La maison@1@tapi@la maison niv 1 d4.png@JU-tapis.wav@
+La maison@1@n bi dumuni kɛra@la maison niv 1 d5.png@JU-jemange.wav@
+La maison@1@ɛsikaliye@la maison niv 1 d6.png@JU-escalier.wav@
+La maison@1@sɛzilan@la maison niv 1 d7.png@JU-chaise.wav@
+La maison@1@yiridow@la maison niv 1 d8.png@JU-rideaux.wav@
+La maison@1@kogo@la maison niv 1 d9.png@JU-mur.wav@
+La maison@1@soda@la maison niv 1 d10.png@JU-porte.wav@
+La maison@1@ladilan@la maison niv 1 d11.png@JU-lit.wav@
+La maison@1@n bi sunɔgɔra@la maison niv 1 d12.png@JU-jedors.wav@
+La maison@1@tabali@la maison niv 1 d13.png@JU-table2.wav@
+La maison@1@terasi@la maison niv 1 d15.png@JU-terrasse.wav@
+La maison@1@fifalan@la maison niv 1 d16.png@JU-eventail.wav@
+La maison@1@finɛtiri @la maison niv 1 d14.png@JU-fenetre.wav@
+La maison@2@finɛtiri @la maison niv 2 d1.png@JU-fenetre.wav@
+La maison@2@sigilanba@la maison niv 2 d2.png@JU-fauteuil.wav@
+La maison@2@yɛlɛyɔrɔ@la maison niv 2 d3.png@JU-rampe.wav@
+La maison@2@gwabugu@la maison niv 2 d4.png@JU-cuisine.wav@
+La maison@2@dumunikɛsoni@la maison niv 2 d5.png@JU-salleamanger.wav@
+La maison@2@filalan@la maison niv 2 d6.png@JU-balais.wav@
+La maison@2@kuradakun@la maison niv 2 d7.png@JU-prisecourant.wav@
+La maison@2@orobinɛ@la maison niv 2 d8.png@JU-robinet.wav@
+La maison@2@alimɔri@la maison niv 2 d9.png@JU-armoire.wav@
+La maison@2@kanape@la maison niv 2 d10.png@JU-canape.wav@
+La maison@2@kungɔrɔdonnan@la maison niv 2 d11.png@JU-coussin.wav@
+La maison@2@koliyɔrɔ@la maison niv 2 d12.png@JU-salledeb.wav@
+La maison@2@tigɛkofaga@la maison niv 2 d13.png@JU-lavabo.wav@
+La maison@2@daaba@la maison niv 2 d15.png@JU-portail.wav@
+La maison@2@dusi@la maison niv 2 d16.png@JU-douche.wav@
+La maison@3@finɛtiriw dayɛlɛnin bɛ@la maison niv 3 d1.png@JU-fenêtre ouverte.wav@
+La maison@3@n bi dumuni kɛra gwabugu ra@la maison niv 3 d2.png@JU-jemangedans.wav@
+La maison@3@n siginin bɛ sɛsilan kan@la maison niv 3 d3.png@JU-jesuisassis.wav@
+La maison@3@n siginin bɛ ladilan dukuna na@la maison niv 3 d4.png@JU-jesuisassisbord.wav@
+La maison@3@gwabugu daa tugunin bɛ@la maison niv 3 d5.png@JU-portecuiouv.wav@
+La maison@3@sookunala yi wuleman ye@la maison niv 3 d6.png@JU-toitrouge.wav@
+La maison@3@Soo finɛtiriw gwɛnin bɛ@la maison niv 3 d7.png@JU-fenetresblanches.wav@
+La maison@3@n siginin bɛ sigilanba kɔnɔ@la maison niv 3 d8.png@JU-jesuisassfaut.wav@
+La maison@3@n bi sunɔgɔra n ka ladilan kan@la maison niv 3 d9.png@JU-jedorsdans.wav@
+La maison@3@ladilan fila bi sokɔnɔɲɛ na@la maison niv 3 d10.png@JU-deuxlits.wav@
+La maison@3@Finɛtiri dutuguninbɛ@la maison niv 3 d11.png@JU-fenêtre fermée.wav@
+La maison@3@sokɔnɔsɛ daa tugunin bɛ@la maison niv 3 d12.png@JU-portechferme.wav@
+La maison@3@Bamuso bi yɔrɔ filan na.@la maison niv 3 d13.png@JU-mamanbalaie.wav@
+La maison@3@nankɔ daa tugunin bɛ@la maison niv 3 d14.png@@
+La maison@3@nankɔ da tugunin bɛ@la maison niv 3 d15.png@JU-portjarfer.wav@
+La maison@3@n bi kora dusi ra@la maison niv 3 d16.png@JU-jesuisdouche.wav@
+Actions courantes@1@a bi dumuni kɛra@action crte niv 1 d1.png@JU-il mange.wav@
+Actions courantes@1@a bi tagama na@action crte niv 1 d2.png@JU-ellemarche.wav@
+Actions courantes@1@a bi bolo ra@action crte niv 1 d3.png@JU-ilcourt.wav@
+Actions courantes@1@a bi kalan kɛra@action crte niv 1 d4.png@JU-ellelit.wav@
+Actions courantes@1@a bi ɲɛgɛn kɛra@action crte niv 1 d5.png@JU-elledessine.wav@
+Actions courantes@1@a bi nɛgɛjuru cira@action crte niv 1 d6.png@JU-iltelephone.wav@
+Actions courantes@1@a bi yɛlɛra@action crte niv 1 d7.png@JU-ilgrimpe.wav@
+Actions courantes@1@a bi nɔɔni kɛra@action crte niv 1 d8.png@JU-ilnage.wav@
+Actions courantes@1@a bi balon fili ra@action crte niv 1 d9.png@JU-illanceballon.wav@
+Actions courantes@1@a bi sunɔgɔra@action crte niv 1 d10.png@JU-ildort.wav@
+Actions courantes@1@a bi tulon kɛra@action crte niv 1 d11.png@JU-ellejoue3.wav@
+Actions courantes@1@a bi pan na@action crte niv 1 d12.png@JU-ilsaute.wav@
+Actions courantes@1@a bi kora@action crte niv 1 d13.png@JU-ilselave3.wav@
+Actions courantes@1@a bi dɔn kɛra@action crte niv 1 d14.png@JU-elledanse.wav@
+Actions courantes@1@a bi baara kɛra@action crte niv 1 d15.png@JU-elletravail.wav@
+Actions courantes@1@a bi bugɔli kɛra@action crte niv 1 d16.png@JU-iltape.wav@
+Actions courantes@1@a bi fini donna@action crte niv 1 d17.png@JU-ilshabille.wav@
+Actions courantes@1@a bi kibarusɛbɛ kalan na@action crte niv 1 d18.png@JU-illitjourn.wav@
+Actions courantes@2@a bi ɛsikaliye yɛlɛ ra@action crte niv 2 d 1.png@JU-ilmonteesc.wav@
+Actions courantes@2@a bi balɔn minɛna@action crte niv 2 d 2.png@JU-ilattraball.wav@
+Actions courantes@2@u bi yaala ra@action crte niv 2 d 3.png@JU-ilseprome.wav@
+Actions courantes@2@a bi sato filɛra@action crte niv 2 d 4.png@JU-ilregardechat.wav@
+Actions courantes@2@a b'a tigɛ kora@action crte niv 2 d 5.png@JU-ilselavemain.wav@
+Actions courantes@2@a bi marazibɔ ra@action crte niv 2 d 6.png@JU-nousjouonsc.wav@
+Actions courantes@2@a bi bataki cira@action crte niv 2 d 7.png@JU-ilposte.wav@
+Actions courantes@2@a bi bataki sɛbɛnna@action crte niv 2 d 8.png@JU-ilecritlet.wav@
+Actions courantes@2@a bi pɔnti gengenna@action crte niv 2 d 9.png@JU-ilplante.wav@
+Actions courantes@2@u bi televisɔn filɛra@action crte niv 2 d 10.png@JU-ilregardetele.wav@
+Actions courantes@2@a bi ɛsikaliye jigira@action crte niv 2 d 11.png@JU-ildescendesc.wav@
+Actions courantes@2@a b'a kunsigi kora@action crte niv 2 d 12.png@JU-ilselavechev.wav@
+Actions courantes@2@a bi kora@action crte niv 2 d 13.png@JU-ilprendbain.wav@
+Actions courantes@3@demisɛnw bi balɔn tanna @action crte niv 3 d1.png@JU-les enfantsjou.wav@
+Actions courantes@3@a bi bolila farikoloɲɛnɛgɛ kɛnɛ kan@action crte niv 3 d2.png@JU-nouscourrons.wav@
+Actions courantes@3@a bi ɲɛgɛn kɛra tabulo kan@action crte niv 3 d3.png@JU-elledessine3.wav@
+Actions courantes@3@a bi tagara buru san@action crte niv 3 d4.png@JU-ilvaacheter.wav@
+Actions courantes@3@a bi jivɛriɲɛkelen min na@action crte niv 3 d5.png@JU-ilboit.wav@
+Actions courantes@3@a b'a ka samariw donna@action crte niv 3 d6.png@JU-ilmetchauss.wav@
+Actions courantes@3@u bi dogodogoni tulon kɛra@action crte niv 3 d7.png@JU-cachecache.wav@
+Actions courantes@3@a bi tagamana yiritu kɔnɔ@action crte niv 3 d8.png@JU-ilmarcheforet.wav@
+Actions courantes@3@n bi livuru jaman filɛra@action crte niv 3 d9.png@JU-jereglivima.wav@
+Actions courantes@3@a bi ɲɛgɛn kɛra sɛbɛ furaburu kan@action crte niv 3 d10.png@JU-elledessine2.wav@
+Actions courantes@3@a b'a ɲinw kora@action crte niv 3 d11.png@JU-elleselave.wav@
+Actions courantes@3@a bi tagamana sira gɛrɛ fɛ@action crte niv 3 d12.png@JU-garçonrue.wav@
+Actions courantes@3@a bi finɛtiri dayɛlɛra @action crte niv 3 d13.png@JU-ilouvre.wav@
+Actions courantes@3@a bi tobili kɛra@action crte niv 3 d14.png@JU-ellepreparerep.wav@
+Actions courantes@3@a bi feeren kelen tigɛra@action crte niv 3 d15.png@JU-ellecueille.wav@
+Actions courantes@3@a bi feeren filɛra@action crte niv 3 d16.png@JU-elleregardefleur.wav@
+Adjectifs@1@mɔbilibeleleba@adj v lect cy2 niv1 d1.png@JU-grandevoiture.wav@
+Adjectifs@1@wulubeleba@adj v lect cy2 niv1 d2.png@JU-groschien.wav@
+Adjectifs@1@wɛrifani@adj v lect cy2 niv1 d3.png@JU-verreplein.wav@
+Adjectifs@1@pantalɔnjamanjan@adj v lect cy2 niv1 d4.png@JU-pantalonlong.wav@
+Adjectifs@1@dayɛlɛni@adj v lect cy2 niv1 d5.png@JU-porteouverte.wav@
+Adjectifs@1@mɔbiliden@adj v lect cy2 niv1 d6.png@JU-petitevoiture.wav@
+Adjectifs@1@wulujalani@adj v lect cy2 niv1 d7.png@JU-chienmaigre.wav@
+Adjectifs@1@wɛrilakolon@adj v lect cy2 niv1 d8.png@JU-verrevide.wav@
+Adjectifs@1@pantalɔnsuruman@adj v lect cy2 niv1 d9.png@JU-pantaloncourt.wav@
+Adjectifs@1@datuguni@adj v lect cy2 niv1 d10.png@JU-portefermee.wav@
+Adjectifs@2@yiritilennin@adj v lect cy2 niv2 d1.png@JU-arbredroit.wav@
+Adjectifs@2@funteni bɛ@adj v lect cy2 niv2 d2.png@JU-ilfaitchaud.wav@
+Adjectifs@2@livuru belebele@adj v lect cy2 niv2 d3.png@JU-livreepais.wav@
+Adjectifs@2@sɛbɛnden ɲɛ binkɛnɛnɛrɛmuguman@adj v lect cy2 niv2 d4.png@JU-feuilleverte.wav@
+Adjectifs@2@kabanɔgɔ gwɛman@adj v lect cy2 niv2 d5.png@JU-nuageblanc.wav@
+Adjectifs@2@Yiri gɔngɔnlɔnin@adj v lect cy2 niv2 d6.png@JU-arbretordu.wav@
+Adjectifs@2@nɛnɛ bɛ@adj v lect cy2 niv2 d7.png@JU-ilfaitfroid.wav@
+Adjectifs@2@livuru misɛnmanni@adj v lect cy2 niv2 d8.png@JU-livremince.wav@
+Adjectifs@2@sɛbenden ɲɛ nɛrɛmuguman@adj v lect cy2 niv2 d9.png@JU-feuillejaune.wav@
+Adjectifs@2@kabanɔgɔ fiman@adj v lect cy2 niv2 d10.png@JU-nuagegris.wav@
+Adjectifs@3@Cɛmani nusɔn ka di@adj v lect cy2 niv3 d1.png@JU-garconcontent.wav@
+Adjectifs@3@Daa yɛlɛnin bɛ@adj v lect cy2 niv3 d2.png@JU-porteouverte2.wav@
+Adjectifs@3@Datugunanw ɲɛ yi gwɛman a ni bulaman ye. @adj v lect cy2 niv3 d3.png@JU-voletsblancbleu.wav@
+Adjectifs@3@Tabali nɔgɔnin bɛ.@adj v lect cy2 niv3 d4.png@JU-tablesale.wav@
+Adjectifs@3@Lanpan mɛnɛnin bɛ.@adj v lect cy2 niv3 d5.png@JU-lampeallumee.wav@
+Adjectifs@3@Cɛmani nusɔn man di.@adj v lect cy2 niv3 d6.png@JU-garcontriste.wav@
+Adjectifs@3@Daa tugura.@adj v lect cy2 niv3 d7.png@JU-portefermee2.wav@
+Adjectifs@3@Datugunanw ɲɛ yi gwɛman a ni binkɛnɛman ye. @adj v lect cy2 niv3 d8.png@JU-voletsblancverts.wav@
+Adjectifs@3@Tabali ka saniya nin bɛ.@adj v lect cy2 niv3 d9.png@JU-tablepropre.wav@
+Adjectifs@3@Lanpan fagatin bɛ.@adj v lect cy2 niv3 d10.png@JU-lampeeteinte.wav@
+Formes et couleurs@1@kɛrɛnaani@form et coul niv 1 d 1.png@JU-carre.wav@
+Formes et couleurs@1@seleke naani@form et coul niv 1 d 2.png@JU-rectangle.wav@
+Formes et couleurs@1@kibu@form et coul niv 1 d 3.png@JU-cube.wav@
+Formes et couleurs@1@kɛrɛsduuru@form et coul niv 1 d 4.png@JU-losange.wav@
+Formes et couleurs@1@yiritilennin@form et coul niv 1 d 5.png@JU-arbredroit.wav@
+Formes et couleurs@1@kibukumba@form et coul niv 1 d 6.png@JU-groscube.wav@
+Formes et couleurs@1@cimisɛnman@form et coul niv 1 d 7.png@JU-traitfin.wav@
+Formes et couleurs@1@kɛrɛnaani wuleman@form et coul niv 1 d 8.png@JU-carrerouge.wav@
+Formes et couleurs@1@kɛrɛnaani binkɛnɛman@form et coul niv 1 d 9.png@JU-carrevert.wav@
+Formes et couleurs@1@koori@form et coul niv 1 d 10.png@JU-rond.wav@
+Formes et couleurs@1@kɛrɛsaba@form et coul niv 1 d 11.png@JU-triangle.wav@
+Formes et couleurs@1@cii@form et coul niv 1 d 12.png@JU-trait.wav@
+Formes et couleurs@1@bɔti@form et coul niv 1 d 13.png@JU-boite.wav@
+Formes et couleurs@1@yirigɔngɔlɔnin@form et coul niv 1 d 14.png@JU-arbretordu.wav@
+Formes et couleurs@1@kibumisɛn@form et coul niv 1 d 15.png@JU-petitcube.wav@
+Formes et couleurs@1@cikumaba@form et coul niv 1 d16.png@JU-traitepais.wav@
+Formes et couleurs@1@kɛrɛnaani nɛrɛmuguman@form et coul niv 1 d17.png@JU-rondjaune.wav@
+Formes et couleurs@1@koori binkɛnɛman@form et coul niv 1 d18.png@JU-rondvert.wav@
+Formes et couleurs@1@wuleman@form et coul niv1 d 19.png@JU-violet.wav@
+Formes et couleurs@1@lemuruman@form et coul niv1 d 20.png@JU-orange.wav@
+Formes et couleurs@1@binkɛnɛman@form et coul niv1 d 21.png@JU-vert.wav@
+Formes et couleurs@1@gwɛman@form et coul niv1 d 22.png@JU-blanc.wav@
+Formes et couleurs@1@fiman@form et coul niv1 d 23.png@JU-noir.wav@
+Formes et couleurs@1@wuleman@form et coul niv1 d 24.png@JU-couleurrose.wav@
+Formes et couleurs@1@sokolaman@form et coul niv1 d 25.png@JU-marron.wav@
+Formes et couleurs@1@wuleman@form et coul niv1 d 26.png@JU-rouge.wav@
+Formes et couleurs@1@bulaman@form et coul niv1 d 27.png@JU-bleu.wav@
+Formes et couleurs@1@nɛrɛmuguman@form et coul niv1 d 28.png@JU-jaune.wav@
+Formes et couleurs@1@buguriman@form et coul niv1 d 29.png@JU-gris.wav@
+Formes et couleurs@2@siratilenni@form et coul niv 2 d1.png@JU-routedroite.wav@
+Formes et couleurs@2@kunsigisuruman@form et coul niv 2 d2.png@JU-chevcourts.wav@
+Formes et couleurs@2@kibu wuleman@form et coul niv 2 d3.png@JU-cuberouge.wav@
+Formes et couleurs@2@kibu binkɛnɛman@form et coul niv 2 d4.png@JU-cubevert.wav@
+Formes et couleurs@2@yiribinkɛnɛman@form et coul niv 2 d5.png@JU-arbrevert.wav@
+Formes et couleurs@2@tabali korini@form et coul niv 2 d6.png@JU-tableronde.wav@
+Formes et couleurs@2@kɛrɛyɔn wuleman@form et coul niv 2 d7.png@JU-crayrouge.wav@
+Formes et couleurs@2@feeren binkɛnɛman@form et coul niv 2 d8.png@JU-fleurverte.wav@
+Formes et couleurs@2@yiribanabirini@form et coul niv 2 d9.png@JU-arbrepench.wav@
+Formes et couleurs@2@sirakuruni@form et coul niv 2 d10.png@JU-routetourne.wav@
+Formes et couleurs@2@kusigijan@form et coul niv 2 d11.png@JU-chevlongs.wav@
+Formes et couleurs@2@kɛrɛsaba wuleman@form et coul niv 2 d12.png@JU-trianglerouge.wav@
+Formes et couleurs@2@kɛrɛsaba binkɛnɛman@form et coul niv 2 d13.png@JU-trianglevert.wav@
+Formes et couleurs@2@yirinɛrɛmuguman@form et coul niv 2 d14.png@JU-arbrejaune.wav@
+Formes et couleurs@2@tabali kɛrɛnaani@form et coul niv 2 d15.png@JU-tablecarre.wav@
+Formes et couleurs@2@kɛrɛyɔn binkɛnɛman@form et coul niv 2 d16.png@JU-crayvert.wav@
+Formes et couleurs@2@feeren ɲɛlemuruman@form et coul niv 2 d17.png@JU-fleurorange.wav@
+Formes et couleurs@3@kɛrɛnaani ka bon wa a wulenni lo@form et coul niv 3 d 1.png@JU-carrgranrouge.wav@
+Formes et couleurs@3@Kɛrɛn saba ka dɔgɔ a ɲɛ yi wuleman ye.@form et coul niv 3 d 2.png@JU-tripetrouge.wav@
+Formes et couleurs@3@Kɛrɛn naani ka bon a ɲɛ yi binkɛnɛman ye@form et coul niv 3 d 3.png@JU-cargranvert.wav@
+Formes et couleurs@3@Kibu ɲɛ yi wuleman a ni binkɛnɛman ye@form et coul niv 3 d 4.png@JU-cubrougevert.wav@
+Formes et couleurs@3@Kib ka bon a ɲɛ yibinkɛnɛman ye@form et coul niv 3 d 5.png@JU-cubegrovert.wav@
+Formes et couleurs@3@bɔti koorinin bɛ wa a ɲɛ yi binkɛnɛman ye@form et coul niv 3 d 6.png@JU-boirondvert.wav@
+Formes et couleurs@3@Bɔti koorinin bɛ a ɲɛ wulennin bɛ@form et coul niv 3 d 7.png@JU-boironrouge.wav@
+Formes et couleurs@3@C tilenna@form et coul niv 3 d 8.png@JU-trait droit.wav@
+Formes et couleurs@3@Cifila nunu yi kelen ye@form et coul niv 3 d 9.png@JU-2traitsidem.wav@
+Formes et couleurs@3@koori ka dɔgɔ wa a ɲɛɛ yi binkɛnɛman ye@form et coul niv 3 d 10.png@JU-ronpetvert.wav@
+Formes et couleurs@3@Koori ka bon a ɲɛ yi wuleman ye@form et coul niv 3 d 11.png@JU-rongranrouge.wav@
+Formes et couleurs@3@Koori ka bon a ɲɛ yi binkɛnɛman ye@form et coul niv 3 d 12.png@JU-rangranvert.wav@
+Formes et couleurs@3@Kibu ɲɛɛ yi wuleman a ni bulaman ye@form et coul niv 3 d 13.png@JU-cubrougebleu.wav@
+Formes et couleurs@3@Kɛrɛnsaba ka bon wa a ɲɛ yi wuleman ye@form et coul niv 3 d 14.png@JU-triangranrouge.wav@
+Formes et couleurs@3@Bɔti ye kɛrɛnnaani ye wa ɲɛ yi binkɛnɛmanye@form et coul niv 3 d15.png@JU-boicarrevert.wav@
+Formes et couleurs@3@Bɔti yi kɛrɛnnaani ye wa a ɲɛwulenni bɛ@form et coul niv 3 d16.png@JU-boicarrerouge.wav@
+Formes et couleurs@3@Cii ma tilen@form et coul niv 3 d17.png@JU-traitpasdroit.wav@
+Formes et couleurs@3@Ciifila nunu ti kelen ye@form et coul niv 3 d18.png@JU-2traitsdiff.wav@
+Les repas@1@tabali@repas nourr niv1 d 1.png@JU-table.wav@
+Les repas@1@mangorow@repas nourr niv1 d 9.png@JU-desmangues.wav@
+Les repas@1@biyakiw@repas nourr niv1 d 6.png@JU-desgoyaves.wav@
+Les repas@1@situlu@repas nourr niv1 d 18.png@JU-du beurre de karité.wav@
+Les repas@1@vɛri@repas nourr niv1 d 11.png@JU-verre.wav@
+Les repas@1@n bi dumuni kɛra@repas nourr niv1 d 2.png@JU-je mange.wav@
+Les repas@1@nɔnɔ @repas nourr niv1 d 12.png@JU-lait.wav@
+Les repas@1@kunan@repas nourr niv1 d 3.png@JU-bol.wav@
+Les repas@1@muru@repas nourr niv1 d 13.png@JU-couteau.wav@
+Les repas@1@buru @repas nourr niv1 d 4.png@JU-pain.wav@
+Les repas@1@pɔmu@repas nourr niv1 d 14.png@JU-pomme.wav@
+Les repas@1@n bi minni kɛra@repas nourr niv1 d 5.png@JU-je bois.wav@
+Les repas@1@gato@repas nourr niv1 d 15.png@JU-gateau.wav@
+Les repas@1@jii@repas nourr niv1 d 16.png@JU-eau.wav@
+Les repas@1@asɛti@repas nourr niv1 d 7.png@JU-assiette.wav@
+Les repas@1@salati@repas nourr niv1 d 17.png@JU-salade.wav@
+Les repas@1@sukaro@repas nourr niv1 d 8.png@JU-sucre.wav@
+Les repas@1@fɛrɛzi@repas nourr niv1 d 19.png@JU-fraises.wav@
+Les repas@1@foromazi@repas nourr niv1 d 10.png@JU-fromage.wav@
+Les repas@1@ɛrɛzɛn@repas nourr niv1 d 20.png@JU-raisin.wav@
+Les repas@2@napu@repas nourr niv2 d.png@JU-nappe.wav@
+Les repas@2@pɔutɛri@repas nourr niv2 d 2.png@JU-patates.wav@
+Les repas@2@kuruyɛri@repas nourr niv2 d 3.png@JU-cuiller.wav@
+Les repas@2@burukunguru@repas nourr niv2 d 4.png@JU-tranchepain.wav@
+Les repas@2@kili@repas nourr niv2 d 5.png@JU-oeuf.wav@
+Les repas@2@sisɛsogo@repas nourr niv2 d 6.png@JU-pouletdu.wav@
+Les repas@2@sogokalaman@repas nourr niv2 d 7.png@JU-brochette.wav@
+Les repas@2@pɔmutɛri yiranni@repas nourr niv2 d 8.png@JU-frites.wav@
+Les repas@2@kasulɔri@repas nourr niv2 d 9.png@JU-casserole.wav@
+Les repas@2@firizidɛri@repas nourr niv2 d 10.png@JU-frigo.wav@
+Les repas@2@sɛzi@repas nourr niv2 d 11.png@JU-chaise.wav@
+Les repas@2@furusɛti@repas nourr niv2 d 12.png@JU-fourchette.wav@
+Les repas@2@sɛrɛvɛti@repas nourr niv2 d 13.png@JU-serviette.wav@
+Les repas@2@baranda@repas nourr niv2 d 14.png@JU-banane.wav@
+Les repas@2@sogowoto@repas nourr niv2 d 15.png@JU-jugeau.wav@
+Les repas@2@nare@repas nourr niv2 d 16.png@JU-beurre.wav@
+Les repas@2@kɔgɔ@repas nourr niv2 d 17.png@JU-sel.wav@
+Les repas@2@yiredenji@repas nourr niv2 d 18.png@JU-jusfruit.wav@
+Les repas@2@tamati@repas nourr niv2 d 19.png@JU-tomate.wav@
+Les repas@2@gwakɛmansin@repas nourr niv2 d 20.png@JU-foyer.wav@
+Les repas@3@n bi n ka vɛri fara jii ra@repas nourr niv3 d1.png@JU-verreeau.wav@
+Les repas@3@a bi dumuni mara sumaya ra@repas nourr niv3 d2.png@JU-frigo2.wav@
+Les repas@3@n bi lemurubaji minna@repas nourr niv3 d3.png@JU-boireorange.wav@
+Les repas@3@saga mi mɔna furi kɔnɔ@repas nourr niv3 d4.png@JU-moutonfour.wav@
+Les repas@3@n bi n ka buteli fara@repas nourr niv3 d5.png@JU-remplirbouteille.wav@
+Les repas@3@bamuso bi gwabugu ra@repas nourr niv3 d6.png@JU-mamancuisine.wav@
+Les repas@3@n bi gato dunna@repas nourr niv3 d7.png@JU-mangergateau.wav@
+Les repas@3@gato bi furu kɔnɔ@repas nourr niv3 d8.png@JU-gateaufour.wav@
+Les repas@3@asɛtiw bi tabali kan@repas nourr niv3 d9.png@JU-assiettestab.wav@
+Les repas@3@n bi buru tigɛra@repas nourr niv3 d10.png@JU-couperpain.wav@
+Les repas@3@a bi kɛ ka sogo tigɛ@repas nourr niv3 d11.png@JU-couteau2.wav@
+Les repas@3@n bi nɔnɔ minna@repas nourr niv3 d12.png@JU-boirelait.wav@
+Les repas@3@nɔnɔ bi bɔli kɔnɔ@repas nourr niv3 d13.png@JU-bollait.wav@
+Les repas@3@sisɛsogo bi tabali kan@repas nourr niv3 d14.png@JU-poulettable.wav@
+Les repas@3@n bi baranda dunna @repas nourr niv3 d15.png@JU-mangerbanane.wav@
+Les repas@3@gato bi tabali kan@repas nourr niv3 d16.png@JU-gateautable.wav@
+Les repas@3@n bi pɔmu dunna@repas nourr niv3 d17.png@JU-mangerpomme.wav@
+Les repas@3@bamuso bi nana ni gato ye@repas nourr niv3 d18.png@JU-mamangateau.wav@
+Vie quotidienne@1@pantalɔn@la vie quot niv 1 d1.png@JU-pantalon.wav@
+Vie quotidienne@1@ɔrɔbu@la vie quot niv 1 d2.png@JU-robe.wav@
+Vie quotidienne@1@televisɔn@la vie quot niv 1 d3.png@JU-television.wav@
+Vie quotidienne@1@n bi kora@la vie quot niv 1 d4.png@JU-jemelave.wav@
+Vie quotidienne@1@n bi dumuni kɛra@la vie quot niv 1 d5.png@JU-je mange.wav@
+Vie quotidienne@1@tigɛkofaga@la vie quot niv 1 d6.png@JU-lavabo.wav@
+Vie quotidienne@1@lanpan@la vie quot niv 1 d7.png@JU-lampe.wav@
+Vie quotidienne@1@samaraw@la vie quot niv 1 d8.png@JU-chaussures.wav@
+Vie quotidienne@1@biro@la vie quot niv 1 d9.png@JU-bureau.wav@
+Vie quotidienne@1@susɛtiw@la vie quot niv 1 d10.png@JU-chausettes.wav@
+Vie quotidienne@1@n bi tulon kɛra@la vie quot niv 1 d11.png@JU-jejoue.wav@
+Vie quotidienne@1@dileki@la vie quot niv 1 d12.png@JU-chemise.wav@
+Vie quotidienne@1@lakilew@la vie quot niv 1 d13.png@JU-clefs.wav@
+Vie quotidienne@1@n bi sunɔgɔra@la vie quot niv 1 d14.png@JU-jedors.wav@
+Vie quotidienne@1@livuru@la vie quot niv 1 d15.png@JU-livre.wav@
+Vie quotidienne@1@n bi fini donna@la vie quot niv 1 d16.png@JU-jemhabille.wav@
+Vie quotidienne@1@n bi lɛgɛjuru cira@la vie quot niv 1 d17.png@JU-jeteleph.wav@
+Vie quotidienne@1@tiriwari@la vie quot niv 1 d18.png@JU-tirroir.wav@
+Vie quotidienne@1@mɔnturu@la vie quot niv 1 d19.png@JU-montre.wav@
+Vie quotidienne@1@lonɛtiw@la vie quot niv 1 d20.png@JU-lunettes.wav@
+Vie quotidienne@2@ɲinko bɔrɔsi@la vie quot niv 2 d1.png@JU-brosseadent.wav@
+Vie quotidienne@2@alimɛti foroko@la vie quot niv 2 d2.png@JU-boiteallu.wav@
+Vie quotidienne@2@maɲiwari@la vie quot niv 2 d3.png@JU-bassine.wav@
+Vie quotidienne@2@kofaga@la vie quot niv 2 d4.png@JU-baignoire.wav@
+Vie quotidienne@2@n bi baarakɛra@la vie quot niv 2 d5.png@JU-jetravaill.wav@
+Vie quotidienne@2@sukaliye@la vie quot niv 2 d6.png@JU-escalier.wav@
+Vie quotidienne@2@kibarusɛbɛ@la vie quot niv 2 d7.png@JU-journal.wav@
+Vie quotidienne@2@cakɛbarani@la vie quot niv 2 d8.png@JU-ordi.wav@
+Vie quotidienne@2@nɛgɛjuruni@la vie quot niv 2 d9.png@JU-telephone.wav@
+Vie quotidienne@2@kuradakun@la vie quot niv 2 d10.png@JU-prisecourant.wav@
+Vie quotidienne@2@koliyɔrɔ@la vie quot niv 2 d12.png@JU-salledeb.wav@
+Vie quotidienne@2@birikunnalanpan@la vie quot niv 2 d13.png@JU-lampebur.wav@
+Vie quotidienne@2@lɛtɛrɛcibarani@la vie quot niv 2 d14.png@JU-boitelettre.wav@
+Vie quotidienne@2@dumunikɛsoni@la vie quot niv 2 d15.png@JU-sallemanger.wav@
+Vie quotidienne@2@n bi wilila@la vie quot niv 2 d16.png@JU-jemeleve.wav@
+Vie quotidienne@2@bataki@la vie quot niv 2 d17.png@JU-lettre.wav@
+Vie quotidienne@2@disiki@la vie quot niv 2 d18.png@JU-disque.wav@
+Vie quotidienne@2@mɔgɔkunumɔnturu@la vie quot niv 2 d19.png@JU-reveil.wav@
+Vie quotidienne@3@n bi n ɲinw kora@la vie quot niv 3 d 1.png@JU-jemelavedent.wav@
+Vie quotidienne@3@n bi jigira ɛsikaliye ra@la vie quot niv 3 d 2.png@JU-jedescent.wav@
+Vie quotidienne@3@n bi televisɔn filɛra@la vie quot niv 3 d 3.png@JU-jeregardetel.wav@
+Vie quotidienne@3@n bi baarakɛra cakɛbarani na@la vie quot niv 3 d 4.png@JU-jetravailleor.wav@
+Vie quotidienne@3@a bi kɛ ka fini ko@la vie quot niv 3 d 5.png@JU-sertlaverlinge.wav@
+Vie quotidienne@3@n bi na ka samaraw donna@la vie quot niv 3 d 6.png@JU-jemetsmes.wav@
+Vie quotidienne@3@facɛ bi bara kɛra a ka biro la@la vie quot niv 3 d 7.png@JU-papatravaille.wav@
+Vie quotidienne@3@n bi ivuru jaaman kalanna@la vie quot niv 3 d 8.png@JU-jelisun.wav@
+Vie quotidienne@3@a bi kora@la vie quot niv 3 d 9.png@JU-lavdouche.wav@
+Vie quotidienne@3@a bi dasɔgɔ ni lakile ya@la vie quot niv 3 d 10.png@JU-ilferme.wav@
+Vie quotidienne@3@n bi n tigɛw kora@la vie quot niv 3 d 11.png@JU-jemelavemain.wav@
+Vie quotidienne@3@n bi yɛlɛra ɛsikaliye ra@la vie quot niv 3 d 12.png@JU-jemonte.wav@
+Vie quotidienne@3@bamuso bi soo filanna@la vie quot niv 3 d 13.png@JU-mamanbalaie.wav@
+Vie quotidienne@3@n bi tulon kɛra ni n teric^ɛ ye@la vie quot niv 3 d 14.png@JU-jejouecop.wav@
+Vie quotidienne@3@a bi ɲɛ ka ɲin ko@la vie quot niv 3 d 15.png@JU-elleserta2.wav@
+Vie quotidienne@3@facɛ bi kibarusɛbɛ karalanna@la vie quot niv 3 d 16.png@JU-papalitle.wav@
+Vie quotidienne@3@cɛŋmani bi bataki cira@la vie quot niv 3 d 17.png@JU-legarçonpo.wav@
+Vie quotidienne@3@n bi nɛgɛjuru cira n tericɛ ma@la vie quot niv 3 d 18.png@JU-jetelephone.wav@
+Vie quotidienne@3@a bi wagati filɛra@la vie quot niv 3 d 19.png@JU-ilregardeheu.wav@
+Vie quotidienne@3@a bi sira tigɛra@la vie quot niv 3 d 20.png@JU-iltraverse.wav@
+L'école, le travail@1@lekɔliso@ecole travail niv1 d1.png@JU-ecole.wav@
+L'école, le travail@1@kaye@ecole travail niv1 d2.png@JU-cahier.wav@
+L'école, le travail@1@ariduwazi@ardoise.pcx.rle@JU-troiescraies.wav@
+L'école, le travail@1@mɛtirimuso@ecole travail niv1 d13.png@JU-maîtresse.wav@
+L'école, le travail@1@N bi kalan kɛra.@ecole travail niv1 d14.png@JU-jelis.wav@
+L'école, le travail@1@tabulo@ecole travail niv1 d15.png@JU-tableau.wav@
+L'école, le travail@1@biro@ecole travail niv1 d16.png@JU-bureau.wav@
+L'école, le travail@1@A bi tulonkɛra@ecole travail niv1 d17.png@JU-ellejoue.wav@
+L'école, le travail@1@bi@ecole travail niv1 d18.png@JU-bille.wav@
+L'école, le travail@1@sakiforokonin@ecole travail niv1 d10.png@JU-trousse.wav@
+L'école, le travail@1@livuru@ecole travail niv1 d11.png@JU-livre.wav@
+L'école, le travail@1@kɛrɛyɔn@ecole travail niv1 d12.png@JU-crayon.wav@
+L'école, le travail@1@N bi sɛbɛri kɛra.@ecole travail niv1 d3.png@JU-jecris.wav@
+L'école, le travail@1@mɛtiricɛ@ecole travail niv1 d4.png@JU-maître.wav@
+L'école, le travail@1@lɔlidensaki@ecole travail niv1 d5.png@JU-cartable.wav@
+L'école, le travail@1@lɔkɔliden@ecole travail niv1 d6.png@JU-eleve.wav@
+L'école, le travail@1@lɔkɔliso ɲɛŋɔgɔ@ecole travail niv1 d7.png@JU-directeur.wav@
+L'école, le travail@1@ɲɛgɛn@ecole travail niv1 d8.png@JU-dessin.wav@
+L'école, le travail@1@bifila@ecole travail niv1 d9.png@JU-2billes.wav@
+L'école, le travail@2@kɛrɛyɔn ɲɛmanw@ecole travail niv2 d1.png@JU-crayonscoul.wav@
+L'école, le travail@2@pɛnso@ecole travail niv2 d2.png@JU-pinceau.wav@
+L'école, le travail@2@ɛrɛgili@ecole travail niv2 d3.png@JU-regle.wav@
+L'école, le travail@2@sifɔn@ecole travail niv2 d4.png@JU-eponge.wav@
+L'école, le travail@2@kɛrɛyɔn lɛsɛnan@ecole travail niv2 d5.png@JU-taillecrayon.wav@
+L'école, le travail@2@kalanbon@ecole travail niv2 d6.png@JU-salleclasse.wav@
+L'école, le travail@2@ɲamandonminɛn@ecole travail niv2 d7.png@JU-corbeille.wav@
+L'école, le travail@2@siso@ecole travail niv2 d8.png@JU-pairecis.wav@
+L'école, le travail@2@kɛrɛyɔn duuru@ecole travail niv2 d9.png@JU-cinqcrayons.wav@
+L'école, le travail@2@kɛrɛyɔn fetiriman@ecole travail niv2 d10.png@JU-crayonsfeutres.wav@
+L'école, le travail@2@biki@ecole travail niv2 d11.png@JU-styloencre.wav@
+L'école, le travail@2@lonɛti@ecole travail niv2 d12.png@JU-lunettes.wav@
+L'école, le travail@2@lanpan@ecole travail niv2 d13.png@JU-lampe.wav@
+L'école, le travail@2@kalaso tulokɛkɛnɛ@ecole travail niv2 d14.png@JU-courrecre.wav@
+L'école, le travail@2@N bi pɛntiri kɛra.@ecole travail niv2 d15.png@JU-jepeinds.wav@
+L'école, le travail@2@sɛdɛnden@ecole travail niv2 d16.png@JU-feuilpap.wav@
+L'école, le travail@2@kɛrɛyɔn naani@ecole travail niv2 d17.png@JU-quatrecrayons.wav@
+L'école, le travail@2@kɛrɛyɔn wɔɔrɔ@ecole travail niv2 d18.png@JU-sixcrayons.wav@
+L'école, le travail@2@cakɛbarani@la vie quot niv 2 d8.png@JU-ordinateur.wav@
+L'école, le travail@3@A bi sɛbɛri kɛra kaye kan.@ecole travail niv3 d1.png@JU-ilecritcach.wav@
+L'école, le travail@3@A bi tariho kalan na.@ecole travail niv3 d2.png@JU-ilithis.wav@
+L'école, le travail@3@A bi sɛbɛnden tigɛra.@ecole travail niv3 d3.png@JU-ildecoup.wav@
+L'école, le travail@3@Mɛtirimuso bi kalaso lu kɔnɔ.@ecole travail niv3 d4.png@JU-maitrescour.wav@
+L'école, le travail@3@A bi tiri ɲɛgɛnna.@ecole travail niv3 d5.png@JU-ilpeindarb.wav@
+L'école, le travail@3@Lekɔliso ɲɛmɔgɔba bi kumana mɛtirimuso fɛ.@ecole travail niv3 d6.png@JU-ledirecteur.wav@
+L'école, le travail@3@Lekɔlidenw bi aran na@ecole travail niv3 d7.png@JU-elevesrang.wav@
+L'école, le travail@3@A bi jurukunguru tigɛra.@ecole travail niv3 d8.png@JU-ilcoupfic.wav@
+L'école, le travail@3@A bi soo ɲɛgɛnna sɛbɛden kan.@ecole travail niv3 d11.png@JU-ildessmais.wav@
+L'école, le travail@3@Mɛtirimuso bi sɛbɛri kɛra tabulo ra.@ecole travail niv3 d12.png@JU-maitressesecr.wav@
+L'école, le travail@3@A ka lekɔlidensaki doninibɛ a kɔra.@ecole travail niv3 d13.png@JU-ilportecart.wav@
+L'école, le travail@3@A ka lekɔlidensaki b'a bolo.@ecole travail niv3 d14.png@JU-ilportmain.wav@
+L'école, le travail@3@A bi soo ɲɛgɛnna tabulo ra.@ecole travail niv3 d15.png@JU-ildessmaista.wav@
+L'école, le travail@3@Lekɔliso ɲɛmɔgɔba bi sɛbɛri kɛra tabulo ra.@ecole travail niv3 d16.png@JU-ledirececrit.wav@
+L'école, le travail@3@Lekɔlidenw sigininbɛ.@ecole travail niv3 d17.png@JU-elevesass.wav@
+La famille, le corps@1@bamuso@famille corps niv1 d1.png@JU-mere.wav@
+La famille, le corps@1@facɛ@famille corps niv1 d2.png@JU-pere.wav@
+La famille, le corps@1@balimanmuso@famille corps niv1 d3.png@JU-soeur.wav@
+La famille, le corps@1@Cɛmani@famille corps niv1 d4.png@JU-garcon.wav@
+La famille, le corps@1@nuun@famille corps niv1 d5.png@JU-nez.wav@
+La famille, le corps@1@deɲɛni@famille corps niv1 d6.png@JU-bebe.wav@
+La famille, le corps@1@kungolo@famille corps niv1 d7.png@JU-tete.wav@
+La famille, le corps@1@kɔnɔbara@famille corps niv1 d8.png@JU-ventre.wav@
+La famille, le corps@1@kaan@famille corps niv1 d9.png@JU-cou.wav@
+La famille, le corps@1@balimancɛ@famille corps niv1 d10.png@JU-frere.wav@
+La famille, le corps@1@musomani@famille corps niv1 d11.png@JU-filleune.wav@
+La famille, le corps@1@daa@famille corps niv1 d12.png@JU-bouche.wav@
+La famille, le corps@1@denbaya@famille corps niv1 d13.png@JU-famille.wav@
+La famille, le corps@1@bolo@famille corps niv1 d14.png@JU-bras.wav@
+La famille, le corps@1@sengala@famille corps niv1 d15.png@JU-jambe.wav@
+La famille, le corps@1@bolo@famille corps niv1 d16.png@JU-main.wav@
+La famille, le corps@2@bolokunanden@famille corps niv2 d1.png@JU-doigt.wav@
+La famille, le corps@2@seen@famille corps niv2 d2.png@JU-pied.wav@
+La famille, le corps@2@mɔcɛ@famille corps niv2 d3.png@JU-grandpere.wav@
+La famille, le corps@2@tulofaraw@famille corps niv2 d4.png@JU-oreilles.wav@
+La famille, le corps@2@kunsigi @famille corps niv2 d5.png@JU-cheveux.wav@
+La famille, le corps@2@ɲɛden@famille corps niv2 d6.png@JU-oeil.wav@
+La famille, le corps@2@ɲɛnden@famille corps niv2 d7.png@JU-langue.wav@
+La famille, le corps@2@senju@famille corps niv2 d8.png@JU-cheville.wav@
+La famille, le corps@2@kingiri@famille corps niv2 d9.png@JU-genou.wav@
+La famille, le corps@2@nɔnkɔn@famille corps niv2 d10.png@JU-coude.wav@
+La famille, le corps@2@mɔmuso@famille corps niv2 d11.png@JU-grandmere.wav@
+La famille, le corps@2@taga@famille corps niv2 d12.png@JU-joue.wav@
+La famille, le corps@2@sɔnifara@famille corps niv2 d13.png@JU-ongle.wav@
+La famille, le corps@2@ɲɛdenw@famille corps niv2 d14.png@JU-yeux.wav@
+La famille, le corps@2@bolokunandenkumba@famille corps niv2 d15.png@JU-pouce.wav@
+La famille, le corps@2@bolokan@famille corps niv2 d16.png@JU-poignet.wav@
+La famille, le corps@3@Cɛmani bi n'a facɛ ye.@famille corps niv 3 d.png@JU-garconpere.wav@
+La famille, le corps@3@Cɛmani bi n'a facɛ n'a bamuso ye.@famille corps niv3 d 2.png@JU-garconperemere.wav@
+La famille, le corps@3@Musomani bi n'a facɛ ye.@famille corps niv3 d 3.png@JU-fillepere.wav@
+La famille, le corps@3@bamuso bi tulon kɛra ni denɲɛni ye.@famille corps niv3 d 4.png@JU-mamanbebe.wav@
+La famille, le corps@3@Cɛmani bolokelen karila.@famille corps niv3 d 5.png@JU-garconbrascass.wav@
+La famille, le corps@3@Bangebagaw bi baarakɛra salɔn na.@famille corps niv3 d 6.png@JU-parentssalon.wav@
+La famille, le corps@3@Bangebagaw bi baarakɛra soo ɲɛ fɛ.@famille corps niv3 d 7.png@JU-parentsmaison.wav@
+La famille, le corps@3@Balimancɛ bolokelen karila.@famille corps niv3 d 8.png@JU-frerebras.wav@
+La famille, le corps@3@Musomani bi n'a bamuso ye.@famille corps niv3 d 9.png@JU-fillemere.wav@
+La famille, le corps@3@Cɛmani bi n'a bamuso ye.@famille corps niv3 d 1.png@JU-garconmere.wav@
+La famille, le corps@3@denbaya bi dumuni kɛra.@famille corps niv3 d 11.png@JU-familletable.wav@
+La famille, le corps@3@Mɔmuso bi kunafoli sɛbɛ kalan na.@famille corps niv3 d 12.png@JU-grandmerelit.wav@
+La famille, le corps@3@Mɔmuso bi gwa kɛra.@famille corps niv3 d 13.png@JU-grandmerecuisi.wav@
+La famille, le corps@3@Balimancɛ senkelen karila.@famille corps niv3 d 15.png@JU-frerejambe.wav@
+La famille, le corps@3@Denɲɛni b'a bolo muganna.@famille corps niv3 d 16.png@JU-bebepouce.wav@
+Les jeux & les sports@1@carquoi.pcx.rle@jeux sports niv1 d1.png@JU-carquoi.wav_@
+Les jeux & les sports@1@tenisizuwekala@jeux sports niv1 d2.png@JU-raquette.wav@
+Les jeux & les sports@1@tamtam.pcx.rle@jeux sports niv1 d3.png@JU-tamtam.wav_@
+Les jeux & les sports@1@bebedeni@jeux sports niv1 d4.png@JU-poupee.wav@
+Les jeux & les sports@1@zanti@jeux sports niv1 d5.png@JU-cerceau.wav@
+Les jeux & les sports@1@lasi@jeux sports niv1 d6.png@JU-cible.wav@
+Les jeux & les sports@1@pannijuru@jeux sports niv1 d7.png@JU-cordesaut.wav@
+Les jeux & les sports@1@kala@jeux sports niv1 d8.png@JU-arc.wav@
+Les jeux & les sports@1@balle de tennis.pcx.rle@jeux sports niv1 d9.png@JU-baltennis.wav_@
+Les jeux & les sports@1@nɛgɛso@jeux sports niv1 d10.png@JU-velo.wav@
+Les jeux & les sports@1@une lance.pcx.rle@jeux sports niv1 d11.png@JU-une lance.wav_@
+Les jeux & les sports@1@npanmuru@jeux sports niv1 d12.png@JU-epee.wav@
+Les jeux & les sports@1@madles.pcx.rle@jeux sports niv1 d13.png@JU-madles.wav_@
+Les jeux & les sports@1@maaren@jeux sports niv1 d14.png@JU-marelle.wav@
+Les jeux & les sports@1@masque.pcx.rle@jeux sports niv1 d15.png@JU-masque.wav_@
+Les jeux & les sports@1@ton@jeux sports niv1 d16.png@JU-fleche.wav@
+Les jeux & les sports@1@cakɛbarani@la vie quot niv 2 d8.png@JU-ordinateur.wav@
+Les jeux & les sports@2@dodokun@jeux sports niv2 d 2.png@JU-masqdodo.wav@
+Les jeux & les sports@2@tɛrɛndeni kuranlaman@jeux sports niv2 d 3.png@JU-trainelectr.wav@
+Les jeux & les sports@2@balɔntan potow@jeux sports niv2 d 4.png@JU-cagefoot.wav@
+Les jeux & les sports@2@pisini@jeux sports niv2 d 5.png@JU-piscine.wav@
+Les jeux & les sports@2@a bi nɔnni kɛra@jeux sports niv2 d 6.png@JU-ilnage.wav@
+Les jeux & les sports@2@marasi@jeux sports niv2 d 7.png@JU-jeudecartes.wav@
+Les jeux & les sports@2@togo@jeux sports niv2 d 8.png@JU-cabane.wav@
+Les jeux & les sports@2@balɔntanta@jeux sports niv2 d 9.png@JU-ballonfoot.wav@
+Les jeux & les sports@2@mɔbilideni telekɔmandilaman@jeux sports niv2 d 10.png@JU-voittele.wav@
+Les jeux & les sports@2@sɛriwalan@jeux sports niv2 d 11.png@JU-cervolant.wav@
+Les jeux & les sports@2@farikoloɲɛgɛyɔrɔ@jeux sports niv2 d 12.png@JU-stade.wav@
+Les jeux & les sports@2@borita@jeux sports niv2 d 13.png@JU-lutte.wav@
+Les jeux & les sports@2@tondeni@jeux sports niv2 d 14.png@JU-flechette.wav@
+Les jeux & les sports@2@boritala@jeux sports niv2 d 15.png@JU-lutteur.wav@
+Les jeux & les sports@2@rigibibalɔn@ballon de rugby.pcx.rle@JU-guembe.wav@
+Les jeux & les sports@3@A bi balɔ, filira.@jeux sports niv3 d1.png@JU-illancele.wav@
+Les jeux & les sports@3@A bi bolila farikoloɲɛgɛyɔrɔ la. @jeux sports niv3 d2.png@JU-ilcourtsur.wav@
+Les jeux & les sports@3@A bi balɔn tanni poto kɔnɔ.@jeux sports niv3 d3.png@JU-iltiredans.wav@
+Les jeux & les sports@3@U bi zantitulon kɛra.@jeux sports niv3 d4.png@JU-ellejoue2.wav@
+Les jeux & les sports@3@U ba marazi bɔra.@jeux sports niv3 d5.png@JU-iljouecartes.wav@
+Les jeux & les sports@3@A bi tonni bonna.@jeux sports niv3 d6.png@JU-illanceflec.wav@
+Les jeux & les sports@3@A b'a yɛrɛ  pisini kɔnɔ.@jeux sports niv3 d7.png@JU-ilplongepi.wav@
+Les jeux & les sports@3@A bi videwotulon kɛra.@jeux sports niv3 d8.png@JU-iljouevideo.wav@
+Les jeux & les sports@3@A bi balɔn minɛra.@jeux sports niv3 d9.png@JU-ilattrape.wav@
+Les jeux & les sports@3@A bi yiru panna.@jeux sports niv3 d10.png@JU-ellesaute.wav@
+Les jeux & les sports@3@U bi marentulon kɛra.@jeux sports niv3 d11.png@JU-ellejouemarelle.wav@
+Les jeux & les sports@3@A bi balɔn bonna.@jeux sports niv3 d13.png@JU-illance.wav@
+Les jeux & les sports@3@A bi dɔnkɛra@jeux sports niv3 d14.png@JU-elledanse.wav@
+Les jeux & les sports@3@A bi kalabonna.@jeux sports niv3 d15.png@JU-iltire.wav@
+Les jeux & les sports@3@U bi bolokuruɲɛnɛgɛ kɛra.@jeux sports niv3 d16.png@JU-ilsboxent.wav@
+La nature@1@jakumani@la nature niv 1 d1.png@JU-chat.wav@
+La nature@1@ɲinan@la nature niv 1 d2.png@JU-souris.wav@
+La nature@1@sonsani@la nature niv 1 d3.png@JU-lapin.wav@
+La nature@1@feeren@la nature niv 1 d5.png@JU-fleur.wav@
+La nature@1@sisɛmuso@la nature niv 1 d6.png@JU-poule.wav@
+La nature@1@gingin@la nature niv 1 d7.png@JU-hibou.wav@
+La nature@1@misimuso@la nature niv 1 d8.png@JU-vache.wav@
+La nature@1@bakɔrɔni@la nature niv 1 d9.png@JU-chevre.wav@
+La nature@1@wulu@la nature niv 1 d11.png@JU-chien.wav@
+La nature@1@soo@la nature niv 1 d12.png@JU-cheval.wav@
+La nature@1@salati@la nature niv 1 d14.png@JU-salade2.wav@
+La nature@1@nankɔ@la nature niv 1 d15.png@JU-jardin.wav@
+La nature@1@pizɔn@la nature niv 1 d16.png@JU-pigeon.wav@
+La nature@1@tamati@la nature niv 1 d17.png@JU-tomate.wav@
+La nature@1@saga@la nature niv 1 d18.png@JU-mouton.wav@
+La nature@1@saa@la nature niv 1 d19.png@JU-serpent.wav@
+La nature@1@tɔngɔnɔ@la nature niv 1 d20.png@JU-canard.wav@
+La nature@2@kungojakuma@la nature niv 1 d4.png@JU-renard.wav@
+La nature@2@orozi@la nature niv 1 d10.png@JU-rose.wav@
+La nature@2@wonga@la nature niv 1 d13.png@JU-ruche.wav@
+La nature@2@kerekete@la nature niv 2 d1.png@JU-escargot.wav@
+La nature@2@sogokanjan@la nature niv 2 d2.png@JU-girafe.wav@
+La nature@2@sirakɔgɔman@la nature niv 2 d3.png@JU-la tortue.wav@
+La nature@2@yiribolo@la nature niv 2 d4.png@JU-branche.wav@
+La nature@2@virivirinni@la nature niv 2 d5.png@JU-papillon.wav@
+La nature@2@dondo@la nature niv 2 d6.png@JU-coq.wav@
+La nature@2@jara@la nature niv 2 d7.png@JU-lion.wav@
+La nature@2@tɔnɔngɔ@la nature niv 2 d8.png@JU-ver.wav@
+La nature@2@vunvun@la nature niv 2 d9.png@JU-coccinelle.wav@
+La nature@2@biin@la nature niv 2 d10.png@JU-herbe.wav@
+La nature@2@saaku@la nature niv 2 d11.png@JU-perroquet.wav@
+La nature@2@sama@la nature niv 2 d12.png@JU-elephant.wav@
+La nature@2@yirisun@la nature niv 2 d13.png@JU-arbre.wav@
+La nature@2@sisɛdeni@la nature niv 2 d14.png@JU-poussin.wav@
+La nature@2@karɔti@la nature niv 2 d15.png@JU-carrote.wav@
+La nature@2@sanpiɲɔn@la nature niv 2 d16.png@JU-champignon.wav@
+La nature@2@nagalon@la nature niv 2 d17.png@JU-araignée.wav@
+La nature@2@dalan@la nature niv 2 d18.png@JU-mare.wav@
+La nature@2@bamba@la nature niv 2 d19.png@JU-crocodile.wav@
+La nature@2@gɛlɛni@la nature niv 2 d20.png@JU-ecureuil.wav@
+La nature@3@sso bi bolila fooro kɔnɔ@la nature niv 3 d1.png@JU-chevalchamp.wav@
+La nature@3@wulu b'a ka wulusonin kɔnɔ@la nature niv 3 suite d1.png@JU-chienniche.wav@
+La nature@3@sonsani bi karɔti dunna@la nature niv 3 d2.png@JU-lapincaro.wav@
+La nature@3@wulu lanin bɛ sodara@la nature niv 3 suite d2.png@JU-chienassis.wav@
+La nature@3@sonsani bi salati dunna@la nature niv 3 d3.png@JU-lapinsalade.wav@
+La nature@3@feeren oroziw bi nankɔ ra@la nature niv 3 suite d3.png@JU-rosesjardin.wav@
+La nature@3@Mangorosun bi nankɔ kɔnɔ.@la nature niv 3 d4.png@JU-manguierjardin.wav@
+La nature@3@gɛlɛni bi panna yirila@la nature niv 3 suite d4.png@JU-ecursaute.wav@
+La nature@3@jakumani bi nɔnɔ minna@la nature niv 3 d5.png@JU-chatboit.wav@
+La nature@3@tɔgɔnɔw bi nɔɔni na dalan kɔnɔ@la nature niv 3 suite d5.png@JU-canadnage2.wav@
+La nature@3@tɔngɔnɔ bi dalan kɔnɔ@la nature niv 3 d6.png@JU-canardnage.wav@
+La nature@3@misimuso bi wɛrɛ kɔnɔ@la nature niv 3 suite d6.png@JU-vacheetable.wav@
+La nature@3@gɛlɛni bi kɔlɔ dunna@la nature niv 3 d7.png@JU-ecurronge.wav@
+La nature@3@virinviriniw bi yiri filaburu kan@la nature niv 3 suite d7.png@JU-papifeuil.wav@
+La nature@3@misimuso bi ɲimininkɛfɛɛrɛ kɔnɔ@la nature niv 3 d8.png@JU-vachepre.wav@
+La nature@3@sisiw bi sogili kɛra@la nature niv 3 suite d8.png@JU-lespoules.wav@
+La nature@3@viririnni bi panpan na feerenw gɛr^fɛ@la nature niv 3 d9.png@JU-papillvole.wav@
+La nature@3@sisɛmuso n'a den fila bi sogili kɛra@la nature niv 3 d10.png@JU-poulepicor.wav@
+La nature@3@soo bi karɔti dunna @la nature niv 3 d11.png@JU-chevalcaro.wav@
+La nature@3@jakumani bi sunɔgɔra kungɔrɔdonnan  kan@la nature niv 3 d12.png@JU-chatdortcoussin.wav@
+Paysages@1@kobolo@paysages niv1 d1.png@JU-ruisseau.wav@
+Paysages@1@baganmarayɔrɔ@paysages niv1 d2.png@JU-ferme.wav@
+Paysages@1@feeren@paysages niv1 d3.png@JU-fleur.wav@
+Paysages@1@kɔnɔniw@paysages niv1 d4.png@JU-oiseaux.wav@
+Paysages@1@farakuru@paysages niv1 d5.png@JU-rocher.wav@
+Paysages@1@kɔgɔji@paysages niv1 d6.png@JU-mer.wav@
+Paysages@1@firinfirini@paysages niv1 d7.png@JU-papillon.wav@
+Paysages@1@sangolo@paysages niv1 d8.png@JU-ciel.wav@
+Paysages@1@mugusinmansin@paysages niv1 d9.png@JU-moulin.wav@
+Paysages@1@fonɛnɛ@paysages niv1 d10.png@JU-hiver.wav@
+Paysages@1@furaburunɛɛrɛ@paysages niv1 d11.png@JU-printemps.wav@
+Paysages@1@pɔmusun@paysages niv1 d12.png@JU-pommier.wav@
+Paysages@1@dalan@paysages niv1 d13.png@JU-lac.wav@
+Paysages@1@kabanɔgɔ@paysages niv1 d14.png@JU-nuages.wav@
+Paysages@1@nankɔ@paysages niv1 d15.png@JU-jardin.wav@
+Paysages@1@duguni@paysages niv1 d16.png@JU-village.wav@
+Paysages@1@kalo@paysages niv1 d17.png@JU-lune.wav@
+Paysages@1@tilemana@paysages niv1 d18.png@JU-ete.wav@
+Paysages@1@furaburuben@paysages niv1 d19.png@JU-automne.wav@
+Paysages@2@togo@paysages niv2 d1.png@JU-chalet.wav@
+Paysages@2@siranin@paysages niv2 d2.png@JU-chemin.wav@
+Paysages@2@duguba@paysages niv2 d3.png@JU-ville.wav@
+Paysages@2@siraba@paysages niv2 d4.png@JU-autoroute.wav@
+Paysages@2@kuruba@paysages niv2 d5.png@JU-montagne.wav@
+Paysages@2@dalanni@paysages niv2 d6.png@JU-mare.wav@
+Paysages@2@kokolikofeeren@paysages niv2 d7.png@JU-coquelicot.wav@
+Paysages@2@pɔri@paysages niv2 d8.png@JU-port.wav@
+Paysages@2@Nɛzi bi benna.@paysages niv2 d9.png@JU-ilneige.wav@
+Paysages@2@bɛrɛw@paysages niv2 d10.png@JU-des cailloux.wav@
+Paysages@2@jisuuruyɔrɔ@paysages niv2 d11.png@JU-cascade.wav@
+Paysages@2@kɔɔ@paysages niv2 d12.png@JU-fleuve.wav@
+Paysages@2@batonba@paysages niv2 d13.png@JU-paquebot.wav@
+Paysages@2@sanpiɲɔn@paysages niv2 d14.png@JU-champignon.wav@
+Paysages@2@kunnala@paysages niv2 d15.png@JU-sommet.wav@
+Paysages@2@egilizi@paysages niv2 d16.png@JU-eglise.wav@
+Paysages@2@orobinɛ@paysages niv2 d17.png@JU-fontaine.wav@
+Paysages@2@kurun@paysages niv2 d18.png@JU-barque.wav@
+Paysages@2@Sanji bi sana.@paysages niv2 d19.png@JU-ilpleut.wav@
+Paysages@2@sanmɛnɛmɛnɛw@paysages niv2 d20.png@JU-eclairs.wav@
+Paysages@2@lolow@paysages niv3 d1.png@JU-etoiles.wav@
+Paysages@3@Yiri bi fuka kɛnɛ kan.@paysages niv3 suite d1.png@JU-arbremilieuclairiere.wav@
+Paysages@3@Kɔnɔniw bi panna sapɛnsun lamini na.@paysages niv3 d2.png@JU-oisesapin.wav@
+Paysages@3@Banansunw bi kuru kɔfɛ.@paysages niv3 suite d2.png@JU-baobabcoll.wav@
+Paysages@3@Nɛzi bi kuruba kun na.@paysages niv3 d3.png@JU-nuagesaudmont.wav@
+Paysages@3@Feeren bi falenna kobolo gɛrɛ fɛ.@paysages niv3 suite d3.png@JU-fleursruiss.wav@
+Paysages@3@Kɔnɔniw bi panna kɔgɔji san fɛ.@paysages niv3 d4.png@JU-oiseaumer.wav@
+Paysages@3@Kabanɔgɔw bi sangolo datugura.@paysages niv3 suite d4.png@JU-nuagecach.wav@
+Paysages@3@Siranin bi taga togoda ra.@paysages niv3 d5.png@JU-chemchal.wav@
+Paysages@3@Sanpiɲɔnw bi farakuru gɛrɛ fɛ.@paysages niv3 suite d5.png@JU-champroch.wav@
+Paysages@3@Siranin bi taga kɔɔ ra.@paysages niv3 d6.png@JU-chemrivi.wav@
+Paysages@3@firinfirini bi pannan feerew lamini na.@paysages niv3 suite d6.png@JU-papfleurs.wav@
+Paysages@3@Kokoloko feerenw bi farakuru gɛrɛ fɛ.@paysages niv3 d7il.png@JU-coqroch.wav@
+Paysages@3@Kurunw bi dalanba kan.@paysages niv3 suite d7.png@JU-barqlac.wav@
+Paysages@3@Batonba bi bolila kɔgɔji kan.@paysages niv3 d8.png@JU-paqnav.wav@
+Les transports@3@Sanji bi nana dugunin na.@paysages niv3 suite d8.png@JU-pleutvill.wav@
+Paysages@3@Batonba sera pɔri la.@paysages niv3 d9.png@JU-paqport.wav@
+Paysages@3@Jii yi dugunin fa.@paysages niv3 suite d9.png@JU-villageinnnonde.wav@
+Paysages@3@Nɛzi bi jigira duguni kan.@paysages niv3 d10.png@JU-neigvill.wav@
+Paysages@3@Sanji bi nana duguba ra.@paysages niv3 d11.png@JU-pleutville.wav@
+Paysages@3@Kɔɔ bi woyora togo gɛrɛ fɛ.@paysages niv3 d12.png@JU-rivchalet.wav@
+Les loisirs@1@jaa@les loisirs niv 1 d1.png@JU-cinema.wav@
+Les loisirs@1@kɔgɔjida@les loisirs niv 1 d2.png@JU-plage.wav@
+Les loisirs@1@burun@les loisirs niv 1 d3.png@JU-trompette.wav@
+Les loisirs@1@gitari@les loisirs niv 1 d4.png@JU-guitare.wav@
+Les loisirs@1@A bi nɔnina@les loisirs niv 1 d6.png@JU-ilnage.wav@
+Les loisirs@1@kimi@les loisirs niv 1 d7.png@JU-parasol.wav@
+Les loisirs@1@miseli@les loisirs niv 1 d8.png@@
+Les loisirs@1@kɔgɔjida@les loisirs niv 1 d9.png@JU-bolon.wav@
+Les loisirs@1@borita@les loisirs niv 1 d10.png@JU-lutte.wav@
+Les loisirs@1@jembe@les loisirs niv 1 d11.png@JU-djembe.wav@
+Les loisirs@1@filen@les loisirs niv 1 d12.png@JU-flute.wav@
+Les loisirs@1@dɔɔn@les loisirs niv 1 d13.png@JU-danse.wav@
+Les loisirs@1@kongofɛnw ka zaridɛn@les loisirs niv 1 d14.png@JU-zoo.wav@
+Les loisirs@1@barokɛyɔrɔ yiriba@les loisirs niv 1 d15.png@JU-arbpalabre.wav@
+Les loisirs@1@mananbɛrɛ@les loisirs niv 1 d16.png@JU-lance-pierre.wav@
+Les loisirs@1@lakile@les loisirs niv 1 d17.png@JU-de.wav@
+Les loisirs@2@kasikɛti@les loisirs niv 2 d1.png@JU-casque.wav@
+Les loisirs@2@jurukisɛ@les loisirs niv 2 d2.png@JU-corde.wav@
+Les loisirs@2@tantan@les loisirs niv 2 d3.png@JU-tente2.wav@
+Les loisirs@2@pisini@les loisirs niv 2 d4.png@JU-piscine2.wav@
+Les loisirs@2@bɔrere@les loisirs niv 2 d5.png@JU-cannepeche.wav@
+Les loisirs@2@A bi mɔnikɛra@les loisirs niv 2 d6.png@JU-ilpeche.wav@
+Les loisirs@2@dulen@les loisirs niv 2 d7.png@JU-hamecon.wav@
+Les loisirs@2@lokungolo@les loisirs niv 2 d8.png@JU-masqplon.wav@
+Les loisirs@2@A bi dannikɛra.@les loisirs niv 2 d9.png@JU-elletricote.wav@
+Les loisirs@2@kurun@les loisirs niv 2 d10.png@JU-pirogue.wav@
+Les loisirs@2@kuruyɛlɛsɔmini@les loisirs niv 2 d11.png@JU-piolet.wav@
+Les loisirs@2@kurukantogoni@les loisirs niv 2 d12.png@JU-chalmonta.wav@
+Les loisirs@2@fototanan@les loisirs niv 2 d13.png@JU-appaphoto.wav@
+Les loisirs@2@npalan@les loisirs niv 2 d14.png@JU-sacados.wav@
+Les loisirs@2@Yɔrɔjanfilɛlonɛti@les loisirs niv 2 d15.png@JU-jumelles.wav@
+Les loisirs@2@a bi yɛlɛra.@les loisirs niv 2 d16.png@JU-ilgrimpe.wav@
+Les loisirs@2@A bi a yɛrɛ filila jira.@les loisirs niv 2 d18.png@JU-ilplonge.wav@
+Les loisirs@2@Marazi zoweta@les loisirs niv 2 d19.png@JU-jeudecartes.wav@
+Les loisirs@3@A bi mananbɛrɛ bonna.@les loisirs niv 2 d17.png@JU-iltirelancepier.wav@
+Les loisirs@3@A bi togoni jaa tara.@les loisirs niv 3 d1.png@JU-photochalet.wav@
+Les loisirs@3@A b'a yɛrɛ filila dalanji ra.@les loisirs niv 3 d2.png@JU-ilplongelac.wav@
+Les loisirs@3@A bi file fiyɛra.@les loisirs niv 3 d3.png@JU-iljoueflute.wav@
+Les loisirs@3@A bi gitari fɔra.@les loisirs niv 3 d4.png@JU-iljoueguit.wav@
+Les loisirs@3@A bi kɔnkofɛnw ka zaridɛn yaala ra.@les loisirs niv 3 d5.png@JU-ilvisizoo.wav@
+Les loisirs@3@Cɛmani bi balansenan kan.@les loisirs niv 3 d6.png@JU-garconbalanc.wav@
+Les loisirs@3@U bi zirin lamɛna baarokɛ yiriba kɔrɔ.@les loisirs niv 3 d8.png@JU-ilsecoutcontarbpal.wav@
+Les loisirs@3@A b'a tɛyɛ filila pisiniji ra.@les loisirs niv 3 d10.png@JU-ilplongepi.wav@
+Les loisirs@3@A bi kuru jaa tara.@les loisirs niv 3 d11.png@JU-ilprenphotmont.wav@
+Les loisirs@3@A bi mɔnikɛra kɔɔ ra.@les loisirs niv 3 d12.png@JU-ilpecheriv.wav@
+Les loisirs@3@A bi mɔnikɛra kɔgɔji ra.@les loisirs niv 3 d13.png@JU-ilpechemer.wav@
+Les loisirs@3@A bi sato yaala ra.@les loisirs niv 3 d14.png@JU-ilvischat.wav@
+Les loisirs@3@A bi tulonkɛra a ka caɛbaranin kan.@les loisirs niv 3 d15.png@JU-iljoueordi.wav@
+Les loisirs@3@A bi donsoya kɛra ni kala ye.@les loisirs niv 3 d16.png@JU-ilchasselance.wav@
+Les loisirs@3@A bi tɔri minɛna.@les loisirs niv 3 d17.png@JU-ilattrgrenouil.wav@
+La ville, la rue@1@sira@ville rue niv1 d1.png@JU-rue.wav@
+La ville, la rue@1@soba@ville rue niv1 d2.png@JU-immeuble.wav@
+La ville, la rue@1@egilzi@ville rue niv1 d3.png@JU-eglise.wav@
+La ville, la rue@1@tantan@ville rue niv1 d4.png@JU-tente.wav@
+La ville, la rue@1@togo@ville rue niv1 d5.png@JU-chalet.wav@
+La ville, la rue@1@burujeniyɔrɔ@ville rue niv1 d6.png@JU-boulangerie.wav@
+La ville, la rue@1@bolifɛlɔyɔrɔ@ville rue niv1 d7.png@JU-parking.wav@
+La ville, la rue@1@batɔntankɛnɛ@ville rue niv1 d8.png@JU-stade.wav@
+La ville, la rue@1@ɲamandonan@ville rue niv1 d9.png@JU-poubelle2.wav@
+La ville, la rue@1@soo@ville rue niv1 d10.png@JU-maison.wav@
+La ville, la rue@1@turi@ville rue niv1 d11.png@JU-tour.wav@
+La ville, la rue@1@sowotoraman@ville rue niv1 d12.png@JU-caravane.wav@
+La ville, la rue@1@sato@ville rue niv1 d13.png@JU-chateau.wav@
+La ville, la rue@1@lekɔliso@ville rue niv1 d14.png@JU-ecoleune.wav@
+La ville, la rue@1@mɛri@ville rue niv1 d15.png@JU-mairie.wav@
+La ville, la rue@1@pano@ville rue niv1 d16.png@JU-panneau.wav@
+La ville, la rue@1@pisini@ville rue niv1 d17.png@JU-piscine.wav@
+La ville, la rue@1@kari@ville rue niv1 d18.png@JU-autocar.wav@
+La ville, la rue@2@feruzi@ville rue niv2 d1.png@JU-feurouge.wav@
+La ville, la rue@2@dɔgɔtɔrɔsoba@ville rue niv2 d2.png@JU-hopital.wav@
+La ville, la rue@2@garazi@ville rue niv2 d3.png@JU-garage.wav@
+La ville, la rue@2@daaba@ville rue niv2 d4.png@JU-portail.wav@
+La ville, la rue@2@orobinɛ@ville rue niv2 d5.png@JU-fontaine.wav@
+La ville, la rue@2@bagasanba@ville rue niv2 d6.png@JU-supermarche.wav@
+La ville, la rue@2@polosicɛ@ville rue niv2 d7.png@JU-agentpolice.wav@
+La ville, la rue@2@sirafaran@ville rue niv2 d8.png@JU-croisement.wav@
+La ville, la rue@2@balontankɛnɛ@ville rue niv2 d9.png@JU-terrainfoot.wav@
+La ville, la rue@2@sennasira@ville rue niv2 d10.png@JU-trottoir.wav@
+La ville, la rue@2@sangaso@ville rue niv2 d11.png@JU-etage.wav@
+La ville, la rue@2@lɛtɛrɛcibara@ville rue niv2 d12.png@JU-boitelettres.wav@
+La ville, la rue@2@lapɔsi@ville rue niv2 d13.png@JU-poste.wav@
+La ville, la rue@2@palasi@ville rue niv2 d14.png@JU-place.wav@
+La ville, la rue@2@esansifeere pɔnpe@ville rue niv2 d15.png@JU-pompeess.wav@
+La ville, la rue@2@pɔnpiyemɔbili@ville rue niv2 d16.png@JU-camionpomp.wav@
+La ville, la rue@2@tenisitankɛnɛ@ville rue niv2 d17.png@JU-terraintennis.wav@
+La ville, la rue@2@anbilansi@ville rue niv2 d18.png@JU-ambulance.wav@
+La ville, la rue@3@lɛtɛrɛcila bi lɛtɛrɛ donna a bara kɔnɔ@ville rue niv3 d1.png@JU-facteur1.wav@
+La ville, la rue@3@mɔbili bi garazi kɔnɔ@ville rue niv3 d2.png@JU-voidansgarage.wav@
+La ville, la rue@3@mɔbili bi esansi pɔnpé ɲɛ fɛ.@ville rue niv3 d3.png@JU-voiturepompe.wav@
+La ville, la rue@3@mɔbili bi soworoman samana@ville rue niv3 d4.png@JU-voitucarav.wav@
+La ville, la rue@3@Mɔbiliw bi lɔra tasumawulen na@ville rue niv3 d5.png@JU-voitfeurouge.wav@
+La ville, la rue@3@sato turinaani@ville rue niv3 d6.png@JU-chat4tours.wav@
+La ville, la rue@3@pɔnpiyemɔbili bi farikoloɲɛnɛgɛkɛnɛ gɛrɛ fɛ.@ville rue niv3 d7.png@JU-camionstade.wav@
+La ville, la rue@3@Cɛmani bi tagamana sennatigiw ka sira kan. @ville rue niv3 d8.png@JU-garcontrottoir.wav@
+La ville, la rue@3@sangasoba@ville rue niv3 d9.png@JU-imm5etages.wav@
+La ville, la rue@3@orobinɛ bi o yɔrɔ la.@ville rue niv3 d10.png@JU-fontaineplace.wav@
+La ville, la rue@3@sangasosaba soba@ville rue niv3 d11.png@JU-imm3etages.wav@
+La ville, la rue@3@Cɛmani bi bɔra burujeniso ra.@ville rue niv3 d12.png@JU-garconboul.wav@
+La ville, la rue@3@Polosicɛ bi lekɔliso ɲɛ fɛ.@ville rue niv3 d13.png@JU-agentecole.wav@
+La ville, la rue@3@sato turifila@ville rue niv3 d14.png@JU-chat2tours.wav@
+La ville, la rue@3@pɔnpiemɔbili bi o yɔrɔ la.@ville rue niv3 d15.png@JU-camionplace.wav@
+La ville, la rue@3@Cɛmani bi sira tigɛra.@ville rue niv3 d16.png@JU-garcon traverse.wav@
+Les vêtements, la toilette@1@silipu@vet toilette niv1 d1.png@JU-slip.wav@
+Les vêtements, la toilette@1@susɛti@vet toilette niv1 d2.png@JU-chaussettesdes.wav@
+Les vêtements, la toilette@1@kilɔti@vet toilette niv1 d3.png@JU-short.wav@
+Les vêtements, la toilette@1@zupu@vet toilette niv1 d4.png@JU-jupe.wav@
+Les vêtements, la toilette@1@Musɔrɔ@vet toilette niv1 d5.png@JU-foulard.wav@
+Les vêtements, la toilette@1@ganw@vet toilette niv1 d6.png@JU-gants.wav@
+Les vêtements, la toilette@1@musɔrɔ@vet toilette niv1 d7.png@JU-mouchoir.wav@
+Les vêtements, la toilette@1@fugulan@vet toilette niv1 d8.png@JU-chapeau.wav@
+Les vêtements, la toilette@1@tiiriko@vet toilette niv1 d9.png@JU-tricot.wav@
+Les vêtements, la toilette@1@safinɛ@vet toilette niv1 d10.png@JU-savon.wav@
+Les vêtements, la toilette@1@dileki@vet toilette niv1 d11.png@JU-chemiseune.wav@
+Les vêtements, la toilette@1@pantalɔn@vet toilette niv1 d12.png@JU-pantalon.wav@
+Les vêtements, la toilette@1@ɔrɔbu@vet toilette niv1 d13.png@JU-robe.wav@
+Les vêtements, la toilette@1@nɛnɛdileki@vet toilette niv1 d14.png@JU-pullover.wav@
+Les vêtements, la toilette@1@samaraw@vet toilette niv1 d15.png@JU-chaussures.wav@
+Les vêtements, la toilette@1@bɔtiw@vet toilette niv1 d16.png@JU-bottes.wav@
+Les vêtements, la toilette@1@sɛrɛwɛti@vet toilette niv1 d17.png@JU-serviette.wav@
+Les vêtements, la toilette@1@dusi@vet toilette niv1 d18.png@JU-douche.wav@
+Les vêtements, la toilette@1@tigɛkofaga@vet toilette niv1 d19.png@JU-lavabole.wav@
+Les vêtements, la toilette@2@kasikɛti@vet toilette niv2 d1.png@JU-casquette.wav@
+Les vêtements, la toilette@2@banfula@vet toilette niv2 d2.png@JU-bonnet.wav@
+Les vêtements, la toilette@2@sokɔnɔsamaraw@vet toilette niv2 d3.png@JU-pantoufles.wav@
+Les vêtements, la toilette@2@dilan@vet toilette niv2 d4.png@JU-lit.wav@
+Les vêtements, la toilette@2@kungɔrɔdonnan@vet toilette niv2 d5.png@JU-oreiller.wav@
+Les vêtements, la toilette@2@ɲinkobɔrɔsi@vet toilette niv2 d6.png@JU-brosseadent.wav@
+Les vêtements, la toilette@2@nɔnifini@vet toilette niv2 d7.png@JU-maillot.wav@
+Les vêtements, la toilette@2@sɔnifara bɔrɔsi@vet toilette niv2 d8.png@JU-brosseongles.wav@
+Les vêtements, la toilette@2@lankana@vet toilette niv2 d9.png@JU-echarpe.wav@
+Les vêtements, la toilette@2@kolifu ganlaman@vet toilette niv2 d10.png@JU-ganttoil.wav@
+Les vêtements, la toilette@2@cɛsirinan@vet toilette niv2 d11.png@JU-ceinture.wav@
+Les vêtements, la toilette@2@nɛnɛfini@vet toilette niv2 d12.png@JU-anorak.wav@
+Les vêtements, la toilette@2@basikɛtɛzuwesamaraw@vet toilette niv2 d13.png@JU-baskets.wav@
+Les vêtements, la toilette@2@matela@vet toilette niv2 d14.png@JU-matelas.wav@
+Les vêtements, la toilette@2@birifini@vet toilette niv2 d15.png@JU-couverture.wav@
+Les vêtements, la toilette@2@baɲiwari@vet toilette niv2 d16.png@JU-baignoire.wav@
+Les vêtements, la toilette@2@samaraw@vet toilette niv2 d17.png@JU-sandales.wav@
+Les vêtements, la toilette@2@karada@vet toilette niv2 d18.png@JU-peigne.wav@
+Les vêtements, la toilette@2@Gaan@vet toilette niv2 d19.png@JU-gant.wav@
+Les vêtements, la toilette@3@Cɛmani bi pantalon donna.@vet toilette niv3 d1.png@JU-garconpantalon.wav@
+Les vêtements, la toilette@3@A bi kora baɲiwari kɔnɔ.@vet toilette niv3 d2.png@JU-ilselavebaignoi.wav@
+Les vêtements, la toilette@3@Cɛmani b'a ka kasikɛti donna.@vet toilette niv3 d3.png@JU-garconcasqu.wav@
+Les vêtements, la toilette@3@Kimi bi cɛɛ bolo.@vet toilette niv3 d4.png@JU-monsieurpara.wav@
+Les vêtements, la toilette@3@Dilékiw bi jaara juru kan.@vet toilette niv3 d5.png@JU-habisech.wav@
+Les vêtements, la toilette@3@A bi tagamana ni samarabɔtiman ye.@vet toilette niv3 d6.png@JU-ilmarchebottes.wav@
+Les vêtements, la toilette@3@A bi tagamana ni samara ye.@vet toilette niv3 d7.png@JU-ilmarchesandales.wav@
+Les vêtements, la toilette@3@Fugulan b'a kun na.@vet toilette niv3 d8.png@JU-ilportechap.wav@
+Les vêtements, la toilette@3@Musomani b'a kundilanna.@vet toilette niv3 d9.png@JU-fillecoiffe.wav@
+Les vêtements, la toilette@3@A bi kora dusi ra.@vet toilette niv3 d10.png@JU-ilselavedouche.wav@
+Les vêtements, la toilette@3@Musomani bi ɔrɔbu nɛrɛmuguman donna.@vet toilette niv3 d11.png@JU-fillerobejaune.wav@
+Les vêtements, la toilette@3@Kilɔti bi cɛmanin cɛra.@vet toilette niv3 d12.png@JU-garconshort.wav@
+Les vêtements, la toilette@3@Samara fiiman bi cɛɛ fɛ.@vet toilette niv3 d13.png@JU-monsieurchauss.wav@
+Les vêtements, la toilette@3@Musɔrɔbinkɛnɛman bi muso fɛ.@vet toilette niv3 d14.png@JU-damefoulardvert.wav@
+Les vêtements, la toilette@3@Nɛnɛdileki wuleman bi muso kanna.@vet toilette niv3 d15.png@JU-damepullrouge.wav@
+Les vêtements, la toilette@3@Kasikɛti b'a kunna.@vet toilette niv3 d16.png@JU-ilportecasqu.wav@
+Les transports@1@mɔbili  @les transp niv 1 d1.png@JU-voitureune.wav@
+Les transports@1@kari@les transp niv 1 d2.png@JU-autocar.wav@
+Les transports@1@tɛrɛn@les transp niv 1 d3.png@JU-train.wav@
+Les transports@1@baton@les transp niv 1 d4.png@JU-bateau.wav@
+Les transports@1@nɛgɛso  @les transp niv 1 d5.png@JU-velo.wav@
+Les transports@1@sɛnɛkɛmansin@les transp niv 1 d6.png@JU-tracteur.wav@
+Les transports@1@wango@les transp niv 1 d7.png@JU-wagon.wav@
+Les transports@1@pɔɔn@les transp niv 1 d8.png@JU-pont.wav@
+Les transports@1@dugutagala@les transp niv 1 d9.png@JU-voyageur.wav@
+Les transports@1@kamiɲɔn@les transp niv 1 d10.png@JU-camion.wav@
+Les transports@1@awiyɔn@les transp niv 1 d11.png@JU-avion.wav@
+Les transports@1@moto@les transp niv 1 d13.png@JU-moto.wav@
+Les transports@1@nɛgɛsosen@les transp niv 1 d14.png@JU-roue.wav@
+Les transports@1@wotoro@les transp niv 1 d15.png@JU-charette.wav@
+Les transports@1@fize@les transp niv 1 d16.png@JU-fusee.wav@
+Les transports@1@kurun@les transp niv 1 d17.png@JU-barque2.wav@
+Les transports@2@elikɔpitɛri@les transp niv 2 d1.png@JU-helico.wav@
+Les transports@2@kamiɲɔn sitɛriniman@les transp niv 2 d2.png@JU-camioncit.wav@
+Les transports@2@minɛnta wango@les transp niv 2 d3.png@JU-wagmarch.wav@
+Les transports@2@batonmotɛriman@les transp niv 2 d4.png@JU-batmoteur.wav@
+Les transports@2@jigwanitɛrɛkun@les transp niv 2 d5.png@JU-locvapeur.wav@
+Les transports@2@sirawo@les transp niv 2 d6.png@JU-tunnel.wav@
+Les transports@2@siriba@les transp niv 2 d7.png@JU-autoroute.wav@
+Les transports@2@takisi@les transp niv 2 d8.png@JU-taxi.wav@
+Les transports@2@kurukansira@les transp niv 2 d9.png@JU-routemont.wav@
+Les transports@2@pɔpiyemɔbili@les transp niv 2 d10.png@JU-camionpomp.wav@
+Les transports@2@dugutagalaw ka mɔbili@les transp niv 2 d11.png@JU-wagvoy.wav@
+Les transports@2@fɔɲɔbolibaton@les transp niv 2 d12.png@JU-batvoile.wav@
+Les transports@2@tɛrɛngari@les transp niv 2 d13.png@JU-garetrain.wav@
+Les transports@2@tɛrɛnsiraw@les transp niv 2 d14.png@JU-rails.wav@
+Les transports@2@walisi@les transp niv 2 d15.png@JU-valise.wav@
+Les transports@2@batonba@les transp niv 2 d16.png@JU-paquebot.wav@
+Les transports@2@mɔbilipalasi@les transp niv 2 d17.png@JU-garecars.wav@
+Les transports@3@Kari bi bolila sira kan.@les transp niv 3 d1.png@JU-autocarrte.wav@
+Les transports@3@Tɛrɛn bi tɛrɛngari la.@les transp niv 3 d2.png@JU-traingare.wav@
+Les transports@3@fɔɲɔbolibaton bi bolila kɔgɔji kan.@les transp niv 3 d3.png@JU-batvoilmer.wav@
+Les transports@3@Foyi ti kamiɲɔn kɔnɔ.@les transp niv 3 d4.png@JU-camionrien.wav@
+Les transports@3@Tɛrɛn bi bɔra woo kɔnɔ.@les transp niv 3 d5.png@JU-traintunnel.wav@
+Les transports@3@Batonba bi pɔri la.@les transp niv 3 d6.png@JU-paqdansport.wav@
+Les transports@3@Batonba bi kɔgɔji camancɛ ra.@les transp niv 3 d7.png@JU-paqpleine.wav@
+Les transports@3@kurantɛrɛnkun bi tɛeɛrn na.@les transp niv 3 d8.png@JU-locoelectr.wav@
+Les transports@3@Awiyɔn bi jigira a sira kan. @les transp niv 3 d9.png@JU-avionpiste.wav@
+Les transports@3@Kamiɲɔn bi cɛncɛn cɛra.@les transp niv 3 d10.png@JU-camionsab.wav@
+Les transports@3@Helikɔpitɛri du panna kuru kunna.@les transp niv 3 d11.png@JU-helicomont.wav@
+Les transports@3@Kari bi lekɔliso dara.@les transp niv 3 d12.png@JU-carecole.wav@
+Les transports@3@Kamiɲɔn bi bolila mɔbili ɲɛ fɛ.@les transp niv 3 d13.png@JU-camdevvoit.wav@
+Les transports@3@Kamiɲɔn lɔninbɛ sirada ra.@les transp niv 3 d14.png@JU-camroute.wav@
+Les transports@3@Jigwanitɛrɛkun bi tɛen na.@les transp niv 3 d15.png@JU-locovapeur.wav@
+Les transports@3@fɔɲɔbolibaton bi sera pɔri ra.@les transp niv 3 d16.png@JU-batarrive.wav@
+Métiers / Objets@1@marito@métiers objets niv1 d1.png@JU-marteau.wav@
+Métiers / Objets@1@sii@métiers objets niv1 d2.png@JU-scie.wav@
+Métiers / Objets@1@dɔgɔtɔrɔ@métiers objets niv1 d3.png@JU-docteur.wav@
+Métiers / Objets@1@batakitilanla@métiers objets niv1 d4.png@JU-facteur.wav@
+Métiers / Objets@1@balan@métiers objets niv1 d5.png@JU-balafon.wav@
+Métiers / Objets@1@burujenila@métiers objets niv1 d6.png@JU-boulanger.wav@
+Métiers / Objets@1@kpɔlɛ@métiers objets niv1 d7.png@JU-metiertisser.wav@
+Métiers / Objets@1@giri@métiers objets niv1 d8.png@JU-grue.wav@
+Métiers / Objets@1@ɛsikaliye@métiers objets niv1 d9.png@JU-echelle.wav@
+Métiers / Objets@1@marifa@métiers objets niv1 d10.png@JU-fusil.wav@
+Métiers / Objets@1@pɔntiw@métiers objets niv1 d11.png@JU-clous.wav@
+Métiers / Objets@1@yiri@métiers objets niv1 d12.png@JU-planche.wav@
+Métiers / Objets@1@mɛtirimuso@métiers objets niv1 d13.png@JU-maitresse2.wav@
+Métiers / Objets@1@gitari@métiers objets niv1 d14.png@JU-guitare.wav@
+Métiers / Objets@1@bataki @métiers objets niv1 d15.png@JU-lettre.wav@
+Métiers / Objets@1@son@métiers objets niv1 d16.png@JU-sceau.wav@
+Métiers / Objets@1@turunewisi@métiers objets niv1 d17.png@JU-tournevis.wav@
+Métiers / Objets@1@pɛnsi@métiers objets niv1 d18.png@JU-pinces.wav@
+Métiers / Objets@1@biro@métiers objets niv1 d19.png@JU-bureau2.wav@
+Métiers / Objets@1@kpɔlɛden@métiers objets niv1 d20.png@JU-navette.wav@
+Métiers / Objets@1@takisi@les transp niv 2 d8.png@JU-taxi.wav@
+Métiers / Objets@2@pɛli@métiers objets niv2 d1.png@JU-pelle.wav@
+Métiers / Objets@2@sɛnɛkɛla@métiers objets niv2 d2.png@JU-agriculteur.wav@
+Métiers / Objets@2@kasilɔri@métiers objets niv2 d3.png@JU-casserole.wav@
+Métiers / Objets@2@sansifeerelan@métiers objets niv2 d4.png@JU-pompeess.wav@
+Métiers / Objets@2@filen@métiers objets niv2 d5.png@JU-flute.wav@
+Métiers / Objets@2@finipasefɛri@métiers objets niv2 d6.png@JU-ferrepasser.wav@
+Métiers / Objets@2@mɔnsɔn@métiers objets niv2 d7.png@JU-macon.wav@
+Métiers / Objets@2@fɔlikɛra@métiers objets niv2 d8.png@JU-musicien.wav@
+Métiers / Objets@2@mɛnkanisɛn@métiers objets niv2 d9.png@JU-garagiste.wav@
+Métiers / Objets@2@pake@métiers objets niv2 d10.png@JU-paquet.wav@
+Métiers / Objets@2@sɔmɛ@métiers objets niv2 d11.png@JU-pioche.wav@
+Métiers / Objets@2@gwakɛla@métiers objets niv2 d13.png@JU-cuisinier.wav@
+Métiers / Objets@2@nɛgɛso pɔnpe@métiers objets niv2 d14.png@JU-pompevelo.wav@
+Métiers / Objets@2@sɛnɛkɛmansin@métiers objets niv2 d15.png@JU-tracteur.wav@
+Métiers / Objets@2@tirikodannɛgɛni@métiers objets niv2 d16.png@JU-aiguille.wav@
+Métiers / Objets@2@dɔgɔtɔmuso@métiers objets niv2 d17.png@JU-infirmiere.wav@
+Métiers / Objets@2@polosi@métiers objets niv2 d18.png@JU-agentpolice.wav@
+Métiers / Objets@2@dɔnkɛla@métiers objets niv2 d19.png@JU-danseuse.wav@
+Métiers / Objets@3@Fɔlikɛla bi filen fiɛra .@métiers objets niv3 d1.png@JU-musiflute.wav@
+Métiers / Objets@3@Mekanisɛn bi esansi dira.@métiers objets niv3 suite d1.png@JU-garagessen.wav@
+Métiers / Objets@3@Polosi bi denmisɛn dɛmɛna ka sira tigɛ.@métiers objets niv3 d2.png@JU-agentenf.wav@
+Métiers / Objets@3@Mɔbili bi esasifeerelan ɲɛfɛ.@métiers objets niv3 d3.png@JU-voitpomp.wav@
+Métiers / Objets@3@Batakicila bi bataki don bara kɔnɔ.@métiers objets niv3 suite d3.png@JU-factelettre.wav@
+Métiers / Objets@3@Mekasisɛn bi mɔbili dilanna.@métiers objets niv3 d4.png@JU-gararep.wav@
+Métiers / Objets@3@Batakicila bi nɛgɛso bolila.@métiers objets niv3 suite d4.png@JU-facteroule.wav@
+Métiers / Objets@3@Sɛnɛkɛla bi dingɛ sogira ni pɛli ye. @métiers objets niv3 d5.png@JU-agritroupelle.wav@
+Métiers / Objets@3@Fɔlikɛla bi piyan fɔra.@métiers objets niv3 suite d5.png@JU-musicpiano.wav@
+Métiers / Objets@3@N bi baara kɛra cakɛbaranin kan@métiers objets niv3 d6.png@JU-jetravailleor.wav@
+Métiers / Objets@3@Son bi mɔnsɔn bolo.@métiers objets niv3 suite d6.png@JU-maconsceau.wav@
+Métiers / Objets@3@Menisecɛ bi yiri tigɛ ni si ye.@métiers objets niv3 d7.png@JU-menuiscie.wav@
+Métiers / Objets@3@Gwakɛla bi gwakɛra.@métiers objets niv3 d8.png@JU-cuisiplat.wav@
+Métiers / Objets@3@Mɔnsɔn bi  yɛlɛla ɛsikaliye ra.@métiers objets niv3 d9.png@JU-maconechelle.wav@
+Métiers / Objets@3@Batakitilanla bi paket dira n ma.@métiers objets niv3 d10.png@JU-facteurpaqu.wav@
+Métiers / Objets@3@Sɛnɛkɛla bi sɛnɛkɛmansin bolira.@métiers objets niv3 d11.png@JU-agritract.wav@
+Métiers / Objets@3@Minisecɛ bi pɔnti gengenna yiri la.@métiers objets niv3 d12.png@JU-menuisier.wav@
+Métiers / Objets@3@Fɔlikɛla bi gitari fɔra.@métiers objets niv3 d13.png@JU-musiguit.wav@
+Métiers / Objets@3@Polisi bi kumana batakitilanla fɛ.@métiers objets niv3 suite d2.png@JU-agent2.wav@
+Prépositions@1@Yiri bi soo ɲɛ fɛ.@prépo lect cycl2 niv1 d1.png@JU-arbredevantmais.wav@
+Prépositions@1@Jakumani bi tabali kan.@prépo lect cycl2 niv1 d2.png@JU-chattable.wav@
+Prépositions@1@Mɔbili bi kamiɲɔn ɲɛ fɛ.@prépo lect cycl2 niv1 d3.png@JU-voitdevcamion.wav@
+Prépositions@1@Sisi bi tagara kinilo fɛ.@prépo lect cycl2 niv1 d4.png@JU-fumeedroite.wav@
+Prépositions@1@Livuru yɔrɔ ka jan mɔntɔrɔba ra.@prépo lect cycl2 niv1 d5.png@JU-livreloin.wav@
+Prépositions@1@Mɔbili bi garazi kɔnɔ.@prépo lect cycl2 niv1 d6.png@JU-voidansgarage.wav@
+Prépositions@1@Mɔbili bi soo kɔ fɛ.@prépo lect cycl2 niv1 d7.png@JU-voituderrcamion.wav@
+Prépositions@1@Wulu bi sunɔgɔra a ka boon na.@prépo lect cycl2 niv1 d8.png@JU-chiendortniche.wav@
+Prépositions@1@Jakumani bi tabali jukɔrɔ.@prépo lect cycl2 niv1 d9.png@JU-chatsoustable.wav@
+Prépositions@1@Livuru bi mɔntɔrɔba  gɛrɛ fɛ.@prépo lect cycl2 niv1 d10.png@JU-livrecotereveil.wav@
+Prépositions@1@Mɔbili bi so ɲɛ fɛ.@prépo lect cycl2 niv1 d11.png@JU-voitdevgarage.wav@
+Prépositions@2@Jakumani bi finɛtiri masurun na.@prépo lect cycl2 niv2 d1.png@JU-chatpresfen.wav@
+Prépositions@2@ɛsikaliye bi sɛmɛnin bɛ kogo ra.@prépo lect cycl2 niv2 d2.png@JU-echellemur.wav@
+Prépositions@2@Yiri bi soo kinibolo fɛ.@prépo lect cycl2 niv2 d3.png@JU-arbredroite.wav@
+Prépositions@2@Jakumani bi yiri san fɛ.@prépo lect cycl2 niv2 d4.png@JU-chatarbre.wav@
+Prépositions@2@Kɔnɔniw bi tiri san fɛ.@prépo lect cycl2 niv2 d5.png@JU-oiseauxarbres.wav@
+Prépositions@2@Jakumani yɔrɔkajan finɛtiri la.@prépo lect cycl2 niv2 d6.png@JU-chatloin.wav@
+Prépositions@2@ɛesikaliye bila ninbɛ dugu ma.@prépo lect cycl2 niv2 d7.png@JU-echelleterre.wav@
+Prépositions@2@Yiri bi soo numanbolo fɛ.@prépo lect cycl2 niv2 d8.png@JU-arbregauche.wav@
+Prépositions@2@Jakumani bi yiri dugu ma.@prépo lect cycl2 niv2 d9.png@JU-chatbasarbre.wav@
+Prépositions@2@Yiri bi nankɔ camancɛ ra.@prépo lect cycl2 niv2 d10.png@JU-arbremilieu.wav@
+Prépositions@3@Yiri bi soo kɔ fɛ.@prépo lect cycl2 niv3 d1.png@JU-arbrederriere.wav@
+Prépositions@3@Kabanɔgɔw bi kɔgɔji san fɛ.@prépo lect cycl2 niv3 d2.png@JU-nuagesmer.wav@
+Prépositions@3@Mɔbili bi kamiɲɔn fila cɛma.@prépo lect cycl2 niv3 d3.png@JU-voitureentre.wav@
+Prépositions@3@Sisi bi tilena ka yɛlɛ.@prépo lect cycl2 niv3 d4.png@JU-fumeedroit.wav@
+Prépositions@3@A bi yaalara a ka wulu kɔ.@prépo lect cycl2 niv3 d5.png@JU-promenesanschien.wav@
+Prépositions@3@Wulu laninbɛ a ka bon ɲɛ fɛ.@prépo lect cycl2 niv3 d6.png@JU-chiendevant.wav@
+Prépositions@3@Kabanɔgɔw bi kuru fila cɛ ma.@prépo lect cycl2 niv3 d7.png@JU-nuagesmont.wav@
+Prépositions@3@Sisi bi tagara sumanbolo fɛ.@prépo lect cycl2 niv3 d8.png@JU-fumeegauche.wav@
+Prépositions@3@A bi yaalara n'a ka wulu ye.@prépo lect cycl2 niv3 d9.png@JU-promenechien.wav@
+Adverbes@1@Mɔbili lɔko ma ɲɛ@adverbe lect cycl2 niv1 d1.png@JU-voitmalgare.wav@
+Adverbes@1@A yi buli fili an kɔrɔ kojugu.@adverbe lect cycl2 niv1 d2.png@JU-boulepres.wav@
+Adverbes@1@Da ma tugu ka ɲɛ@adverbe lect cycl2 niv1 d3.png@JU-portemalfermee.wav@
+Adverbes@1@Wulu bi kɔnɔnan na.@adverbe lect cycl2 niv1 d4.png@JU-chiendedans.wav@
+Adverbes@1@Baton yɔrɔ man jan. @adverbe lect cycl2 niv1 d5.png@JU-bateaupres.wav@
+Adverbes@1@A yi buli fili an yɔrɔjan kojugu.@adverbe lect cycl2 niv1 d6.png@JU-bouleloin.wav@
+Adverbes@1@Da tugura ka wɛ@adverbe lect cycl2 niv1 d7.png@JU-portebienfermee.wav@
+Adverbes@1@Baton yɔrɔ ka jan.@adverbe lect cycl2 niv1 d8.png@JU-batloin.wav@
+Adverbes@1@Wulu bi kɛnɛ ma.@adverbe lect cycl2 niv1 d9.png@JU-chiendehors.wav@
+Adverbes@1@Mɔbili lɔko ɲɛna@adverbe lect cycl2 niv1 d10.png@JU-voiturebiengar.wav@
+Adverbes@2@Wɛri fa b'a camancɛra@adverbe lect cycl2 niv2 d1.png@JU-verremoitieplein.wav@
+Adverbes@2@Mɔgɔcaaman bi sira kan.@adverbe lect cycl2 niv2 d2.png@JU-beaucoupmonde.wav@
+Adverbes@2@Jicaaman bi wɛri kɔnɔ.@adverbe lect cycl2 niv2 d3.png@JU-beaucoupeau.wav@
+Adverbes@2@Filaburu ti yiri la.@adverbe lect cycl2 niv2 d4.png@JU-arbreplus.wav@
+Adverbes@2@Dumuni foyi ti jakumani fɛ.@adverbe lect cycl2 niv2 d5.png@JU-chatrien.wav@
+Adverbes@2@Mɔgɔcaaman ti sira kan.@adverbe lect cycl2 niv2 d6.png@JU-peumonderue.wav@
+Adverbes@2@jidɔni bi wɛri kɔnɔ.@adverbe lect cycl2 niv2 d7.png@JU-peueau.wav@
+Adverbes@2@Filaburu bele bi yiri la.@adverbe lect cycl2 niv2 d8.png@JU-arbrefeuilles.wav@
+Adverbes@2@ɲiminifɛnw dɔw bele bi jakumani fɛ.@adverbe lect cycl2 niv2 d9.png@JU-chatcroquettes.wav@
+Adverbes@2@Wɛri lakolonba lo.@adverbe lect cycl2 niv2 d10.png@JU-verreentiervide.wav@
+Adverbes@3@Sigi yɔrɔ min beyi, a bi kɛɲɛ jama hakɛ ma. @adverbe lect cycl2 niv3 d1.png@JU-justeassezplace.wav@
+Adverbes@3@Denmisɛn ti lukɔnɔnan na.@adverbe lect cycl2 niv3 d2.png@JU-plusenfants.wav@
+Adverbes@3@Wɛri bi tabali kan hali bele@adverbe lect cycl2 niv3 d3.png@JU-encoreverres.wav@
+Adverbes@3@Ji bi buteli kɔnɔ hali bele.@adverbe lect cycl2 niv3 d4.png@JU-toujourseau.wav@
+Adverbes@3@Yiri ka jan ni soo ye.@adverbe lect cycl2 niv3 d5.png@JU-arbreplushaut.wav@
+Adverbes@3@Jibɛrɛ ti wɛri kɔnɔ.@adverbe lect cycl2 niv3 d6.png@JU-pasassezeau.wav@
+Adverbes@3@Sangolo ɲɛ yi blaman ye, kabanɔgɔ t'a ra.@adverbe lect cycl2 niv3 d7.png@JU-cielbleu.wav@
+Adverbes@3@Kabanɔgɔ caaman bi san fɛ.@adverbe lect cycl2 niv3 d8.png@JU-beaucoupnuages.wav@
+Adverbes@3@Demisɛnw bi lukɔnɔnan na halibele.@adverbe lect cycl2 niv3 d9.png@JU-encoreenfants.wav@
+Adverbes@3@Bɛɛ ti se ka sigi yɔrɔ sɔrɔ.@adverbe lect cycl2 niv3 d10.png@JU-pasassezplace.wav@
+Adverbes@3@Wɛri t tabali kan.@adverbe lect cycl2 niv3 d11.png@JU-plusverre.wav@
+Adverbes@3@Ji ti buteli kɔnɔ.@adverbe lect cycl2 niv3 d12.png@JU-pluseau.wav@
+Adverbes@3@Yiri ka surun ni soo ye.@adverbe lect cycl2 niv3 d13.png@JU-arbremoinshaut.wav@
+Adverbes@3@Jicaaman bi wɛri kɔnɔ.@adverbe lect cycl2 niv3 d14.png@JU-tropeau.wav@
+Adverbes@3@Kabanɔgɔ dɔɔni bi san fɛ.@adverbe lect cycl2 niv3 d15.png@JU-peunuages.wav@

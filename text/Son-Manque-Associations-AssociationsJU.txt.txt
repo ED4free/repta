@@ -1,0 +1,8 @@
+La maison - 3 - nank : Son ''
+Les jeux & les sports - 1 - carquoi.pcx.rle : Son 'JU-carquoi.wav_'
+Les jeux & les sports - 1 - tamtam.pcx.rle : Son 'JU-tamtam.wav_'
+Les jeux & les sports - 1 - balle de tennis.pcx.rle : Son 'JU-baltennis.wav_'
+Les jeux & les sports - 1 - une lance.pcx.rle : Son 'JU-une lance.wav_'
+Les jeux & les sports - 1 - madles.pcx.rle : Son 'JU-madles.wav_'
+Les jeux & les sports - 1 - masque.pcx.rle : Son 'JU-masque.wav_'
+Les loisirs - 1 - miseli : Son ''
